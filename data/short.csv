@@ -1,395 +1,378 @@
-Ticker,Name
-AAUC,"Allied Gold Corporation Common Shares"
-ACR,"ACRES Commercial Realty Corp. Common Stock"
-AEO,"American Eagle Outfitters, Inc. Common Stock"
-ALSN,"Allison Transmission Holdings, Inc. Common Stock"
-ARMN,"Aris Mining Corporation Common Shares"
-ASGI,"abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest"
-ASH,"Ashland Inc. Common Stock"
-BCX,"BlackRock Resources Common Shares of Beneficial Interest"
-BFH,"Bread Financial Holdings, Inc. Common Stock"
-BKU,"BankUnited, Inc. Common Stock"
-BMN,"BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest"
-BORR,"Borr Drilling Limited Common Shares"
-BXMT,"Blackstone Mortgage Trust, Inc. Common Stock"
-BXSL,"Blackstone Secured Lending Fund Common Shares of Beneficial Interest"
-C,"Citigroup, Inc. Common Stock"
-CAAP,"Corporacion America Airports SA Common Shares"
-CAT,"Caterpillar, Inc. Common Stock"
-CBL,"CBL & Associates Properties, Inc. Common Stock"
-CM,"Canadian Imperial Bank of Commerce Common Stock"
-CMA,"Comerica Incorporated Common Stock"
-CMI,"Cummins Inc. Common Stock"
-CMRE,"Costamare Inc. Common Stock $0.0001 par value"
-CNX,"CNX Resources Corporation Common Stock"
-COHR,"Coherent Corp. Common Stock"
-COSO,"CoastalSouth Bancshares, Inc. Common Stock"
-CRK,"Comstock Resources, Inc. Common Stock"
-CSW,"CSW Industrials, Inc. Common Stock"
-CTRI,"Centuri Holdings, Inc. Common Stock"
-CVR,"Chicago Rivet & Machine Co. Common Stock"
-DBI,"Designer Brands Inc. Class A Common Stock"
-DC,"Dakota Gold Corp. Common Stock"
-DEC,"Diversified Energy Company Common Stock"
-DG,"Dollar General Corporation Common Stock"
-DIN,"Dine Brands Global, Inc. Common Stock"
-DOV,"Dover Corporation Common Stock"
-EB,"Eventbrite, Inc. Class A Common Stock"
-EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock"
-EL,"Estee Lauder Companies, Inc. (The) Common Stock"
-ELA,"Envela Corporation Common Stock"
-EMO,"ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock"
-ENS,"EnerSys Common Stock"
-EPAM,"EPAM Systems, Inc. Common Stock"
-ESP,"Espey Mfg. & Electronics Corp. Common Stock"
-EXPD,"Expeditors International of Washington, Inc. Common Stock"
-FET,"Forum Energy Technologies, Inc. Common Stock"
-FIGS,"FIGS, Inc. Class A Common Stock"
-FLG,"Flagstar Bank, N.A. Common Stock"
-FRGE,"Forge Global Holdings, Inc. Common Stock"
-G,"Genpact Limited Common Stock"
-GAM,"General American Investors, Inc. Common Stock"
-GKOS,"Glaukos Corporation Common Stock"
-GLOB,"Globant S.A. Common Shares"
-GM,"General Motors Company Common Stock"
-GMED,"Globus Medical, Inc. Class A Common Stock"
-GOLD,"Gold.com, Inc. Common Stock"
-GSL,"Global Ship Lease Inc New Class A Common Shares"
-GTLS,"Chart Industries, Inc. Common Stock"
-HAE,"Haemonetics Corporation Common Stock"
-HLLY,"Holley Inc. Common Stock"
-HTGC,"Hercules Capital, Inc. Common Stock"
-INR,"Infinity Natural Resources, Inc. Class A Common Stock"
-INSP,"Inspire Medical Systems, Inc. Common Stock"
-IOT,"Samsara Inc. Class A Common Stock"
-IVR,"INVESCO MORTGAGE CAPITAL INC Common Stock"
-IVZ,"Invesco Ltd Common Stock"
-K,"Kellanova Common Stock"
-KEY,"KeyCorp Common Stock"
-KEYS,"Keysight Technologies Inc. Common Stock"
-LAZ,"Lazard, Inc. Common Stock"
-LBRT,"Liberty Energy Inc. Class A common stock"
-LUV,"Southwest Airlines Company Common Stock"
-MAGN,"Magnera Corporation Common Stock"
-MATX,"Matson, Inc. Common Stock"
-MLI,"Mueller Industries, Inc. Common Stock"
-MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock"
-NFGC,"New Found Gold Corp Common Shares"
-NLY,"Annaly Capital Management Inc. Common Stock"
-NUVB,"Nuvation Bio Inc. Class A Common Stock"
-NVRI,"Enviri Corporation Common Stock"
-NXG,"NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest"
-OBDC,"Blue Owl Capital Corporation Common Stock"
-OII,"Oceaneering International, Inc. Common Stock"
-OKE,"ONEOK, Inc. Common Stock"
-OUT,"OUTFRONT Media Inc. Common Stock"
-OWLT,"Owlet, Inc. Class A Common Stock"
-PACS,"PACS Group, Inc. Common Stock"
-PATH,"UiPath, Inc. Class A Common Stock"
-PDS,"Precision Drilling Corporation Common Stock"
-PINE,"Alpine Income Property Trust, Inc. Common Stock"
-PMO,"Putnam Municipal Opportunities Trust Common Stock"
-PR,"Permian Resources Corporation Class A Common Stock"
-PRM,"Perimeter Solutions, SA Common Stock"
-PRO,"PROS Holdings, Inc. Common Stock"
-PRU,"Prudential Financial, Inc. Common Stock"
-R,"Ryder System, Inc. Common Stock"
-RBRK,"Rubrik, Inc. Class A Common Stock"
-RCUS,"Arcus Biosciences, Inc. Common Stock"
-RES,"RPC, Inc. Common Stock"
-RHLD,"Resolute Holdings Management Common Stock "
-RY,"Royal Bank Of Canada Common Stock"
-SD,"SandRidge Energy, Inc. Common Stock"
-SEMR,"SEMrush Holdings, Inc. Class A Common Stock"
-SKE,"Skeena Resources Limited Common Shares"
-SMC,"Summit Midstream Corporation Common Stock"
-SMRT,"SmartRent, Inc. Class A Common Stock"
-SNDR,"Schneider National, Inc. Common Stock"
-SOLV,"Solventum Corporation Common Stock"
-SRXH,"SRX Health Solutions, Inc. Common Stock"
-STRW,"Strawberry Fields REIT, Inc. Common Stock"
-SYF,"Synchrony Financial Common Stock"
-TALO,"Talos Energy, Inc. Common Stock"
-TD,"Toronto Dominion Bank (The) Common Stock"
-TDAY,"USA TODAY Co., Inc. Common Stock"
-TE,"T1 Energy Inc. Common Stock"
-TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock"
-TFC,"Truist Financial Corporation Common Stock"
-TFIN,"Triumph Financial, Inc. Common Stock"
-THR,"Thermon Group Holdings, Inc. Common Stock"
-TPVG,"TriplePoint Venture Growth BDC Corp. Common Stock"
-UNF,"Unifirst Corporation Common Stock"
-UNP,"Union Pacific Corporation Common Stock"
-USB,"U.S. Bancorp Common Stock"
-VFC,"V.F. Corporation Common Stock"
-VGM,"Invesco Trust for Investment Grade Municipals Common Stock (DE)"
-VSCO,"Victorias Secret & Co. Common Stock "
-VSTS,"Vestis Corporation Common Stock"
-VTN,"Invesco Trust for Investment Grade New York Municipals Common Stock"
-VTR,"Ventas, Inc. Common Stock"
-WBS,"Webster Financial Corporation Common Stock"
-WHD,"Cactus, Inc. Class A Common Stock"
-WIT,"Wipro Limited Common Stock"
-WMT,"Walmart Inc. Common Stock"
-YETI,"YETI Holdings, Inc. Common Stock"
-AACB,"Artius II Acquisition Inc."
-ABLLL,"Abacus Global Management, Inc."
-ACAD,"ACADIA Pharmaceuticals Inc."
-ADAMH,"Adamas Trust, Inc."
-ADI,"Analog Devices, Inc."
-ADMA,"ADMA Biologics Inc"
-AIP,"Arteris, Inc. "
-ALGN,"Align Technology, Inc."
-ALGT,"Allegiant Travel Company"
-ALHC,"Alignment Healthcare, Inc."
-ALISU,"Calisa Acquisition Corp"
-ALMS,"Alumis Inc."
-AMKR,"Amkor Technology, Inc."
-AMRK,"A-Mark Precious Metals, Inc."
-ANAB,"AnaptysBio, Inc."
-APAD,"A Paradise Acquisition Corp."
-APGE,"Apogee Therapeutics, Inc."
-ARQT,"Arcutis Biotherapeutics, Inc."
-ARWR,"Arrowhead Pharmaceuticals, Inc."
-ATMC,"AlphaTime Acquisition Corp"
-ATMCU,"AlphaTime Acquisition Corp"
-ATNI,"ATN International, Inc."
-AXGN,"Axogen, Inc."
-AXIN,"Axiom Intelligence Acquisition Corp 1"
-BBIO,"BridgeBio Pharma, Inc."
-BBLGW,"Bone Biologics Corp"
-BHRB,"Burke & Herbert Financial Services Corp."
-BIIB,"Biogen Inc."
-BIOA,"BioAge Labs, Inc."
-BKHAU,"Black Hawk Acquisition Corporation"
-BLFY,"Blue Foundry Bancorp"
-BLTE,"Belite Bio, Inc"
-BLUW,"Blue Water Acquisition Corp. III"
-BLUWU,"Blue Water Acquisition Corp. III"
-BODI,"The Beachbody Company, Inc."
-BRKRP,"Bruker Corporation"
-CAPR,"Capricor Therapeutics, Inc."
-CBLL,"CeriBell, Inc."
-CCHH,"CCH Holdings Ltd"
-CCLDO,"CareCloud, Inc."
-CELC,"Celcuity Inc."
-CERS,"Cerus Corporation"
-CHDN,"Churchill Downs, Incorporated"
-CHYM,"Chime Financial, Inc."
-COCO,"The Vita Coco Company, Inc."
-COGT,"Cogent Biosciences, Inc."
-COKE,"Coca-Cola Consolidated, Inc."
-COLL,"Collegium Pharmaceutical, Inc."
-COO,"The Cooper Companies, Inc. "
-CORT,"Corcept Therapeutics Incorporated"
-CRACU,"Crown Reserve Acquisition Corp. I"
-CRAQU,"Cal Redwood Acquisition Corp."
-CSTE,"Caesarstone Ltd."
-CSTL,"Castle Biosciences, Inc."
-CTRN,"Citi Trends, Inc."
-CTSH,"Cognizant Technology Solutions Corporation"
-CV,"CapsoVision, Inc."
-CWBC,"Community West Bancshares"
-CZWI,"Citizens Community Bancorp, Inc."
-DGII,"Digi International Inc."
-DIBS,"1stdibs.com, Inc."
-DLTR,"Dollar Tree, Inc."
-DOOO,"BRP Inc."
-DRUG,"Bright Minds Biosciences Inc."
-DSGN,"Design Therapeutics, Inc."
-DTSQU,"DT Cloud Star Acquisition Corporation"
-EA,"Electronic Arts Inc."
-EBMT,"Eagle Bancorp Montana, Inc."
-EFTY,"Etoiles Capital Group Co., Ltd."
-EMPG,"Empro Group Inc."
-ENTA,"Enanta Pharmaceuticals, Inc."
-ESHA,"ESH Acquisition Corp."
-EURKU,"Eureka Acquisition Corp"
-EVOK,"Evoke Pharma, Inc."
-EXAS,"Exact Sciences Corporation"
-EXEEL,"Expand Energy Corporation"
-EYPT,"EyePoint Pharmaceuticals, Inc."
-EZPW,"EZCORP, Inc."
-FACTU,"FACT II Acquisition Corp."
-FCNCA,"First Citizens BancShares, Inc."
-FFIC,"Flushing Financial Corporation"
-FGI,"FGI Industries Ltd."
-FIGXU,"FIGX Capital Acquisition Corp."
-FITB,"Fifth Third Bancorp"
-FIVE,"Five Below, Inc."
-FORTY,"Formula Systems (1985) Ltd."
-FOSL,"Fossil Group, Inc."
-FOXA,"Fox Corporation"
-FRAF,"Franklin Financial Services Corporation"
-FRPT,"Freshpet, Inc."
-FRST,"Primis Financial Corp."
-FUSB,"First US Bancshares, Inc."
-FVNNU,"Future Vision II Acquisition Corporation"
-FWRD,"Forward Air Corporation"
-GCT,"GigaCloud Technology Inc"
-GEHC,"GE HealthCare Technologies Inc."
-GIFI,"Gulf Island Fabrication, Inc."
-GLBS,"Globus Maritime Limited"
-GLRE,"Greenlight Reinsurance, Ltd."
-GLUE,"Monte Rosa Therapeutics, Inc."
-GOODN,"Gladstone Commercial Corporation"
-GPATU,"GP-Act III Acquisition Corp."
-GPCR,"Structure Therapeutics Inc."
-GSAT,"Globalstar, Inc."
-GUTS,"Fractyl Health, Inc."
-HERZ,"Herzfeld Credit Income Fund, Inc. "
-HIMX,"Himax Technologies, Inc."
-HRMY,"Harmony Biosciences Holdings, Inc."
-HSII,"Heidrick & Struggles International, Inc."
-HSPTU,"Horizon Space Acquisition II Corp."
-HTBK,"Heritage Commerce Corp"
-HTLD,"Heartland Express, Inc."
-HUBG,"Hub Group, Inc."
-HVMC,"Highview Merger Corp."
-HWC,"Hancock Whitney Corporation"
-IBIO,"iBio, Inc."
-IMMX,"Immix Biopharma, Inc."
-IMXI,"International Money Express, Inc."
-INDV,"Indivior PLC"
-IPEXU,"Inflection Point Acquisition Corp."
-IPODU,"Dune Acquisition Corporation II"
-IRMD,"iRadimed Corporation"
-IROQ,"IF Bancorp, Inc."
-ISTR,"Investar Holding Corporation"
-JAMF,"Jamf Holding Corp."
-JBHT,"J.B. Hunt Transport Services, Inc."
-JKHY,"Jack Henry & Associates, Inc."
-KALU,"Kaiser Aluminum Corporation"
-KALV,"KalVista Pharmaceuticals, Inc."
-KFIIU,"K&F Growth Acquisition Corp. II"
-KLIC,"Kulicke and Soffa Industries, Inc."
-KOD,"Kodiak Sciences Inc"
-KRNY,"Kearny Financial"
-KROS,"Keros Therapeutics, Inc."
-KRYS,"Krystal Biotech, Inc."
-KVAC,"Keen Vision Acquisition Corporation"
-KVACU,"Keen Vision Acquisition Corporation"
-KYMR,"Kymera Therapeutics, Inc."
-LARK,"Landmark Bancorp Inc."
-LBRX,"LB Pharmaceuticals Inc"
-LCUT,"Lifetime Brands, Inc."
-LKSPU,"Lake Superior Acquisition Corp."
-LPAAU,"Launch One Acquisition Corp."
-LPBBU,"Launch Two Acquisition Corp."
-LQDT,"Liquidity Services, Inc."
-LSCC,"Lattice Semiconductor Corporation"
-LSTR,"Landstar System, Inc."
-MACIU,"Melar Acquisition Corp. I"
-MAGH,"Magnitude International Ltd"
-MAMK,"MaxsMaking Inc."
-MAZE,"Maze Therapeutics, Inc."
-MCHP,"Microchip Technology Incorporated"
-MCHPP,"Microchip Technology Incorporated"
-MCTA,"Charming Medical Limited"
-MDB,"MongoDB, Inc."
-MGIC,"Magic Software Enterprises Ltd."
-MIST,"Milestone Pharmaceuticals Inc."
-MOBBW,"Mobilicom Limited"
-MOFG,"MidWestOne Financial Group, Inc."
-MRTN,"Marten Transport, Ltd."
-MRUS,"Merus N.V."
-MRX,"Marex Group plc"
-MSBI,"Midland States Bancorp, Inc."
-MSBIP,"Midland States Bancorp, Inc."
-MXL,"MaxLinear, Inc"
-NHPAP,"National Healthcare Properties, Inc."
-NOEMU,"CO2 Energy Transition Corp."
-NOVTU,"Novanta Inc."
-NRIX,"Nurix Therapeutics, Inc."
-NSTS,"NSTS Bancorp, Inc."
-NTRA,"Natera, Inc."
-NTWOU,"Newbury Street II Acquisition Corp"
-NUKKW,"Nukkleus Inc."
-NUTR,"Nusatrip Incorporated"
-OACCU,"Oaktree Acquisition Corp. III Life Sciences"
-OCS,"Oculis Holding AG"
-OCUL,"Ocular Therapeutix, Inc."
-OLMA,"Olema Pharmaceuticals, Inc."
-OMCL,"Omnicell, Inc."
-OMER,"Omeros Corporation"
-ORRF,"Orrstown Financial Services, Inc."
-OSS,"One Stop Systems, Inc."
-OVBC,"Ohio Valley Banc Corp."
-PAGP,"Plains GP Holdings, L.P."
-PAL,"Proficient Auto Logistics, Inc."
-PANL,"Pangaea Logistics Solutions Ltd."
-PCAR,"PACCAR Inc."
-PCSC,"Perceptive Capital Solutions Corp"
-PGACU,"Pantages Capital Acquisition Corporation"
-PGYWW,"Pagaya Technologies Ltd."
-PKBK,"Parke Bancorp, Inc."
-PLBY,"Playboy, Inc."
-PLMKU,"Plum Acquisition Corp. IV"
-PLTS,"Platinum Analytics Cayman Limited"
-PNRG,"PrimeEnergy Resources Corporation"
-PRAX,"Praxis Precision Medicines, Inc."
-QCLS,"Q/C Technologies, Inc."
-QCRH,"QCR Holdings, Inc."
-QNCX,"Quince Therapeutics, Inc."
-QRHC,"Quest Resource Holding Corporation"
-QTRX,"Quanterix Corporation"
-RANGU,"Range Capital Acquisition Corp."
-RBB,"RBB Bancorp"
-RBKB,"Rhinebeck Bancorp, Inc."
-RDNW,"RideNow Group, Inc."
-REPL,"Replimune Group, Inc."
-RFAIU,"RF Acquisition Corp II"
-RIBBU,"Ribbon Acquisition Corp"
-RNA,"Avidity Biosciences, Inc."
-ROST,"Ross Stores, Inc."
-RVMD,"Revolution Medicines, Inc."
-RXST,"RxSight, Inc."
-SAIA,"Saia, Inc."
-SAIC,"Science Applications International Corporation"
-SATS,"EchoStar Corporation"
-SBLK,"Star Bulk Carriers Corp."
-SFIX,"Stitch Fix, Inc."
-SFST,"Southern First Bancshares, Inc."
-SHBI,"Shore Bancshares, Inc."
-SKYX,"SKYX Platforms Corp."
-SLAB,"Silicon Laboratories, Inc."
-SLM,"SLM Corporation"
-SNCR,"Synchronoss Technologies, Inc."
-SND,"Smart Sand, Inc."
-SOCAU,"Solarius Capital Acquisition Corp."
-SPKLU,"Spark I Acquisition Corp."
-SRBK,"SR Bancorp, Inc."
-SRZN,"Surrozen, Inc."
-STTK,"Shattuck Labs, Inc."
-SVRA,"Savara, Inc."
-SWBI,"Smith & Wesson Brands, Inc."
-SYRE,"Spyre Therapeutics, Inc."
-TAVIU,"Tavia Acquisition Corp."
-TCMD,"Tactile Systems Technology, Inc."
-TENX,"Tenax Therapeutics, Inc."
-TER,"Teradyne, Inc."
-TERN,"Terns Pharmaceuticals, Inc."
-TGL,"Treasure Global Inc."
-TLSI,"TriSalus Life Sciences, Inc."
-TORO,"Toro Corp."
-TRDA,"Entrada Therapeutics, Inc."
-TSEM,"Tower Semiconductor Ltd."
-TVAI,"Thayer Ventures Acquisition Corporation II"
-TWG,"Top Wealth Group Holding Limited"
-TYRA,"Tyra Biosciences, Inc."
-ULCC,"Frontier Group Holdings, Inc."
-UVSP,"Univest Financial Corporation"
-VERA,"Vera Therapeutics, Inc."
-VICR,"Vicor Corporation"
-VNOM,"Viper Energy, Inc. "
-WBD,"Warner Bros. Discovery, Inc."
-WERN,"Werner Enterprises, Inc."
-WHLRD,"Wheeler Real Estate Investment Trust, Inc."
-WHLRP,"Wheeler Real Estate Investment Trust, Inc."
-WILC,"G. Willi-Food International,  Ltd."
-WVE,"Wave Life Sciences Ltd."
-WWD,"Woodward, Inc."
-XENE,"Xenon Pharmaceuticals Inc."
-XPEL,"XPEL, Inc."
-YHNAU,"YHN Acquisition I Limited"
-ZUMZ,"Zumiez Inc."
+ticker,name,rsi,trailingPE,forwardPE,pegRatio
+AACB,Artius II Acquisition Inc.,76.12852789962776,,,
+AAUC,Allied Gold Corporation Common Shares,74.3928973502976,,,
+ABLLL,"Abacus Global Management, Inc.",76.85097164206147,,,
+ACA,"Arcosa, Inc. Common Stock ",71.99773412722212,36.046513,24.54751,
+ACAD,ACADIA Pharmaceuticals Inc.,71.17939084963737,17.41613,32.920734,
+ACR,ACRES Commercial Realty Corp. Common Stock,73.18594888285884,25.62766,12.678947,
+ACRS,"Aclaris Therapeutics, Inc.",70.07258151588277,,-5.6379313,
+ADAMH,"Adamas Trust, Inc.",71.44266608636784,,,
+ADI,"Analog Devices, Inc.",73.24356967201545,61.249996,37.04244,
+AGCC,Agencia Comercial Spirits Ltd,80.00102984721813,652.15,,
+AIP,"Arteris, Inc. ",73.68442627299666,,-68.30769,
+AL,Air Lease Corporation Class A Common Stock,70.11022410924312,7.4205337,13.996717,
+ALGN,"Align Technology, Inc.",72.97962850845656,30.437984,15.307992,
+ALMS,Alumis Inc.,92.68929303579434,,-1.8112903,
+ALSN,"Allison Transmission Holdings, Inc. Common Stock",79.1425336809133,11.731289,10.529736,
+AMAT,"Applied Materials, Inc.",70.09225503208026,30.976908,27.684214,
+AMKR,"Amkor Technology, Inc.",75.87044146263864,35.887096,23.29843,
+AMRK,"A-Mark Precious Metals, Inc.",70.54345834012963,97.49999,7.5777206,
+ANAB,"AnaptysBio, Inc.",72.39469548675791,,-6.99142,
+ANNX,"Annexon, Inc.",71.19423674215366,,-4.240965,
+APAD,A Paradise Acquisition Corp.,78.96764151509622,202.0,,
+APADU,A Paradise Acquisition Corp.,73.08995041279763,,,
+APGE,"Apogee Therapeutics, Inc.",74.56274003273352,,-19.967106,
+APP,Applovin Corporation,70.33254423632458,81.874504,135.02948,
+ARMN,Aris Mining Corporation Common Shares,76.47819592002685,52.37037,,
+ARQQW,Arqit Quantum Inc.,100.0,,,
+ARQT,"Arcutis Biotherapeutics, Inc.",71.71995861863294,,-32.08163,
+ARWR,"Arrowhead Pharmaceuticals, Inc.",76.87450644347483,,-16.646921,
+ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,70.74968349129553,13.373495,,
+ASH,Ashland Inc. Common Stock,70.6320002367645,,10.157068,
+ATLO,Ames National Corporation,72.08925565181985,12.383334,,
+ATMC,AlphaTime Acquisition Corp,70.6119248941999,186.25,,
+ATMCU,AlphaTime Acquisition Corp,73.78087986961711,,,
+ATNI,"ATN International, Inc.",75.96443160613656,,-36.1,
+AXGN,"Axogen, Inc.",73.6704048002578,,102.06097,
+BANC,"Banc of California, Inc. Common Stock",70.96354321106702,18.718449,14.8307705,
+BBIO,"BridgeBio Pharma, Inc.",72.25371977257623,,-24.455883,
+BBLGW,Bone Biologics Corp,99.64744708504801,,,
+BCAL,California BanCorp,75.97209023331153,9.375575,11.365922,
+BCIC,BCP Investment Corporation,71.63989527888786,8.51282,6.533825,
+BFH,"Bread Financial Holdings, Inc. Common Stock",74.13275924917892,7.2818823,12.801601,
+BHE,"Benchmark Electronics, Inc. Common Stock",70.82177137837301,47.22277,19.467346,
+BHRB,Burke & Herbert Financial Services Corp.,72.34761359618857,9.280774,8.7369795,
+BIIB,Biogen Inc.,72.58133789807091,16.58432,10.920168,
+BIOA,"BioAge Labs, Inc.",79.45744516749811,0.87215286,-4.1943464,
+BKHAU,Black Hawk Acquisition Corporation,99.79398737131254,,,
+BKU,"BankUnited, Inc. Common Stock",74.25505521306786,12.789549,14.060559,
+BLFY,Blue Foundry Bancorp,82.22468371535363,,-22.118181,
+BLUW,Blue Water Acquisition Corp. III,85.3793778498679,,,
+BLUWU,Blue Water Acquisition Corp. III,83.71580838166935,,,
+BODI,"The Beachbody Company, Inc.",78.94809978066426,,-2.3672652,
+BORR,Borr Drilling Limited Common Shares,76.20464667562487,14.553571,5.030864,
+BRKRP,Bruker Corporation,72.25114724912711,,,
+BWFG,"Bankwell Financial Group, Inc.",70.28972975889727,13.09836,13.466292,
+BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,72.59692427961002,10.713207,8.735384,
+C,"Citigroup, Inc. Common Stock",70.7039601640967,15.293539,15.144645,
+CABR,"Caring Brands, Inc.",71.87653262545899,,,
+CAPR,"Capricor Therapeutics, Inc.",82.3525402001416,,-37.54889,
+CBL,"CBL & Associates Properties, Inc. Common Stock",73.96780626769721,8.85,-90.76924,
+CBLL,"CeriBell, Inc.",83.79380027133642,,-18.422726,
+CCHH,CCH Holdings Ltd,86.80294249385047,262.4,,
+CCLDO,"CareCloud, Inc.",74.14985372751084,,,
+CDTX,"Cidara Therapeutics, Inc.",86.80882119049785,,-28.167734,
+CELC,Celcuity Inc.,76.27679364837014,,-33.103123,
+CETX,Cemtrex Inc.,70.13374642351856,,12.418181,
+CFLT,"Confluent, Inc.",78.57495261224078,,85.314285,
+CHDN,"Churchill Downs, Incorporated",76.86160529019523,20.605455,15.939522,
+CIVB,"Civista Bancshares, Inc. ",71.07492270415099,8.830827,11.402913,
+CM,Canadian Imperial Bank of Commerce Common Stock,72.04449959784289,15.3305235,16.929237,
+CMA,Comerica Incorporated Common Stock,73.4983958409314,16.133842,15.39781,
+CMI,Cummins Inc. Common Stock,72.95293538742972,26.496893,22.70826,
+CMRE,Costamare Inc. Common Stock $0.0001 par value,77.79365864162149,6.438247,5.4965982,
+CNX,CNX Resources Corporation Common Stock,79.90491474528278,24.933332,22.604395,
+COCO,"The Vita Coco Company, Inc.",73.64878245104046,47.295654,49.0,
+COGT,"Cogent Biosciences, Inc.",78.06497797529796,,-17.247826,
+COHR,Coherent Corp. Common Stock,71.94663936750284,254.77466,41.48853,
+COKE,"Coca-Cola Consolidated, Inc.",73.18112459727509,23.609129,4.2501287,
+COLAU,Columbus Acquisition Corp,73.81853405628836,,,
+COLL,"Collegium Pharmaceutical, Inc.",75.23567544138979,29.533743,7.228228,
+COSO,"CoastalSouth Bancshares, Inc. Common Stock",73.35403052911438,9.943479,9.857759,
+CRACU,Crown Reserve Acquisition Corp. I,74.59194193656839,,,
+CRAQU,Cal Redwood Acquisition Corp.,86.67054067243421,,,
+CSPI,CSP Inc.,70.4348101244439,,,
+CSTE,Caesarstone Ltd.,71.38405329286857,,-4.65,
+CSTL,"Castle Biosciences, Inc.",70.83277310528354,,-19.029558,
+CSW,"CSW Industrials, Inc. Common Stock",76.49587626921127,35.54417,25.422829,
+CSWC,Capital Southwest Corporation,70.67928816653539,13.840625,9.07582,
+CTRI,"Centuri Holdings, Inc. Common Stock",75.46326403791429,651.25,37.214287,
+CTSH,Cognizant Technology Solutions Corporation,75.87790278557435,18.708332,16.196394,
+CV,"CapsoVision, Inc.",78.3691113977364,,,
+CVNA,Carvana Co. Class A Common Stock,77.21646679033371,101.44182,189.93362,
+CVR,Chicago Rivet & Machine Co. Common Stock,70.8798972129432,,,
+CWBC,Community West Bancshares,71.43366404499365,12.857142,11.414634,
+CWST,"Casella Waste Systems, Inc.",72.90310412544379,420.00003,96.92308,
+CZWI,"Citizens Community Bancorp, Inc.",75.20907221927152,13.821706,13.610687,
+DBI,Designer Brands Inc. Class A Common Stock,70.93893408960388,,6.4533334,
+DG,Dollar General Corporation Common Stock,71.59859632818973,21.719723,20.18328,
+DGII,Digi International Inc.,75.44054468751588,42.0,21.497631,
+DIN,"Dine Brands Global, Inc. Common Stock",77.06273425321011,15.321428,5.7777777,
+DOOO,BRP Inc.,79.45795076874455,32.210083,19.860106,
+DOV,Dover Corporation Common Stock,72.57680851380307,25.016277,20.41711,
+DRUG,Bright Minds Biosciences Inc.,80.16235076763316,,-12.974713,
+DSGN,"Design Therapeutics, Inc.",73.16889554980352,,-8.322313,
+DTSQU,DT Cloud Star Acquisition Corporation,99.99996270290994,,,
+DTST,Data Storage Corporation,77.36318188478212,27.444443,19.76,
+EA,Electronic Arts Inc.,74.94534761598204,59.101448,23.90387,
+EB,"Eventbrite, Inc. Class A Common Stock",84.25844527613862,,-73.75001,
+EBMT,"Eagle Bancorp Montana, Inc.",72.77008677686312,10.406977,11.548388,
+EFTY,"Etoiles Capital Group Co., Ltd.",73.69896500884224,375.50003,,
+ELA,Envela Corporation Common Stock,72.8418857129904,32.846157,36.600002,
+EMPG,Empro Group Inc.,71.3954423234347,192.88889,,
+ENS,EnerSys Common Stock,72.12433808041634,17.234467,15.409853,
+EPAM,"EPAM Systems, Inc. Common Stock",80.65136338794325,30.952745,18.145666,
+ESHA,ESH Acquisition Corp.,72.19349332863553,,,
+ESP,Espey Mfg. & Electronics Corp. Common Stock,70.90074986492476,13.447949,4263.0,
+ESTA,Establishment Labs Holdings Inc.,71.41485759843684,,-43.662125,
+EURKU,Eureka Acquisition Corp,83.453678151443,,,
+EVOK,"Evoke Pharma, Inc.",83.81791902600382,,22.75,
+EXAS,Exact Sciences Corporation,89.37492810523788,,-297.04413,
+EXEEL,Expand Energy Corporation,79.66761819367044,,,
+EXPD,"Expeditors International of Washington, Inc. Common Stock",71.89458663073881,24.437195,27.843866,
+EYPT,"EyePoint Pharmaceuticals, Inc.",76.02260762980977,,-6.44523,
+EZPW,"EZCORP, Inc.",74.61141158714352,14.40845,16.5,
+FACTU,FACT II Acquisition Corp.,93.0599529575278,,,
+FBLA,"FB Bancorp, Inc.",73.30228098256521,,,
+FCAP,"First Capital, Inc.",70.20488855020707,11.587301,,
+FCNCA,"First Citizens BancShares, Inc.",72.76023804575435,11.743053,12.211125,
+FET,"Forum Energy Technologies, Inc. Common Stock",70.43698108563679,,33.179245,
+FFIC,Flushing Financial Corporation,70.83353760363465,,15.272726,
+FGI,FGI Industries Ltd.,72.6627677448483,,37.0316,
+FIGS,"FIGS, Inc. Class A Common Stock",72.68325654094477,102.681816,141.1875,
+FIGXU,FIGX Capital Acquisition Corp.,83.10517986094702,,,
+FITB,Fifth Third Bancorp,70.13018439394186,13.559702,12.445205,
+FIVE,"Five Below, Inc.",72.63502784206786,35.98283,36.724743,
+FLG,"Flagstar Bank, N.A. Common Stock",70.14101102910605,,-37.161766,
+FORTY,Formula Systems (1985) Ltd.,73.18906833068927,35.55789,,
+FOSL,"Fossil Group, Inc.",72.52558851843065,,-3.2105265,
+FOXA,Fox Corporation,70.12590046107324,15.550562,18.552279,
+FRAF,Franklin Financial Services Corporation,73.12032313563893,15.404011,,
+FRGE,"Forge Global Holdings, Inc. Common Stock",85.95046962719107,,-201.61363,
+FRPT,"Freshpet, Inc.",72.18261577542908,26.983051,44.845074,
+FRST,Primis Financial Corp.,71.3966183851159,36.367645,11.240909,
+FUSB,"First US Bancshares, Inc.",70.34774646206422,15.16215,,
+FVNNU,Future Vision II Acquisition Corporation,98.06017375113896,,,
+FWRD,Forward Air Corporation,70.56131975951915,,95.888885,
+GCT,GigaCloud Technology Inc,75.09024054176048,11.755831,11.085983,
+GEHC,GE HealthCare Technologies Inc.,71.57747853618265,17.369564,17.964666,
+GIFI,"Gulf Island Fabrication, Inc.",87.0058287336185,21.645454,595.25,
+GKOS,Glaukos Corporation Common Stock,71.62759899740055,,-98.06818,
+GLBS,Globus Maritime Limited,79.65672539803505,,-47.295002,
+GLRE,"Greenlight Reinsurance, Ltd.",70.21688414969256,,8.5125,
+GLUE,"Monte Rosa Therapeutics, Inc.",76.16233872953461,55.062504,-11.746667,
+GM,General Motors Company Common Stock,72.49162047034933,14.461832,7.1693473,
+GOLD,"Gold.com, Inc. Common Stock",70.36811287518546,102.9,,
+GOODN,Gladstone Commercial Corporation,73.16148133455296,,,
+GPATU,GP-Act III Acquisition Corp.,96.10062587434248,,,
+GPCR,Structure Therapeutics Inc.,78.99654010838019,,-89.7013,
+GSAT,"Globalstar, Inc.",72.64574181565644,,,
+GSL,Global Ship Lease Inc New Class A Common Shares,76.91872815659626,3.898197,3.8654046,
+GTLS,"Chart Industries, Inc. Common Stock",84.47049422913838,233.34091,17.240974,
+GUTS,"Fractyl Health, Inc.",84.58668343062656,,-0.84879035,
+HAE,Haemonetics Corporation Common Stock,84.04782280354159,24.230995,15.518726,
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,70.39087841958845,9.327898,,
+HERZ,"Herzfeld Credit Income Fund, Inc. ",82.86386419387172,37.185715,,
+HIMX,"Himax Technologies, Inc.",70.80644890593703,26.321112,26.321112,
+HOUS,"Anywhere Real Estate Inc. Common Stock,",70.7177855315556,,59.375,
+HRMY,"Harmony Biosciences Holdings, Inc.",77.27299080131677,12.395898,12.05368,
+HSII,"Heidrick & Struggles International, Inc.",80.83067827617919,34.299416,19.863636,
+HSPTU,Horizon Space Acquisition II Corp.,97.63308622819798,,,
+HTBK,Heritage Commerce Corp,71.100336913396,16.457144,16.457144,
+HTGC,"Hercules Capital, Inc. Common Stock",74.58162784920663,10.937874,9.51595,
+HTLD,"Heartland Express, Inc.",75.61840711832609,,83.54545,
+HUBG,"Hub Group, Inc.",76.13142444169159,23.735632,17.136929,
+HVMC,Highview Merger Corp.,76.40155762275307,,,
+HWC,Hancock Whitney Corporation,70.40433501059529,11.425493,12.4054575,
+IBIO,"iBio, Inc.",74.7150625751665,,-1.0579269,
+IMMX,"Immix Biopharma, Inc.",79.00110735315839,,-9.281818,
+IMXI,"International Money Express, Inc.",75.31455583543004,12.015625,6.355372,
+INDV,Indivior PLC,83.73086780617093,37.801018,34.62149,
+INSP,"Inspire Medical Systems, Inc. Common Stock",79.93649457256153,98.4589,72.60101,
+IPEXU,Inflection Point Acquisition Corp.,99.4374478304284,,,
+IPODU,Dune Acquisition Corporation II,73.92255303071298,,,
+IRMD,iRadimed Corporation,75.90762886111733,57.409092,54.12857,
+IROQ,"IF Bancorp, Inc.",72.0921006599882,16.5625,,
+ISTR,Investar Holding Corporation,77.19208665530296,11.824663,13.662694,
+JAMF,Jamf Holding Corp.,76.39465394364447,,14.578652,
+JBHT,"J.B. Hunt Transport Services, Inc.",76.6865975525959,33.07799,26.582174,
+JKHY,"Jack Henry & Associates, Inc.",81.44800477204818,27.604864,28.740505,
+K,Kellanova Common Stock,84.11330046691783,22.79918,69.5375,
+KALU,Kaiser Aluminum Corporation,70.24220989087162,20.118217,19.047707,
+KALV,"KalVista Pharmaceuticals, Inc.",72.0244021401329,,-8.898396,
+KEY,KeyCorp Common Stock,73.50983591095093,23.876543,12.397436,
+KEYS,Keysight Technologies Inc. Common Stock,74.31504747763972,41.785427,30.035152,
+KFIIU,K&F Growth Acquisition Corp. II,81.3017487717319,,,
+KLIC,"Kulicke and Soffa Industries, Inc.",77.92490954461336,Infinity,26.632433,
+KOD,Kodiak Sciences Inc,70.17107733095507,,-6.801316,
+KRNY,Kearny Financial,70.74380268633696,15.553191,8.306818,
+KROS,"Keros Therapeutics, Inc.",81.54604445347562,13.923077,-3.8105264,
+KRYS,"Krystal Biotech, Inc.",82.40596925951296,34.52474,39.3641,
+KVAC,Keen Vision Acquisition Corporation,85.61826317086582,,,
+KVACU,Keen Vision Acquisition Corporation,98.3621228434455,,,
+KYMR,"Kymera Therapeutics, Inc.",87.38518555000638,,-32.36013,
+LARK,Landmark Bancorp Inc.,77.3003530643407,9.799652,,
+LAW,"CS Disco, Inc. Common Stock",70.86202272276455,,-28.962963,
+LBRX,LB Pharmaceuticals Inc,71.99818228688176,,-6.407576,
+LCUT,"Lifetime Brands, Inc.",72.3272981968295,,4.9438205,
+LKSPU,Lake Superior Acquisition Corp.,72.54163696984982,,,
+LPAAU,Launch One Acquisition Corp.,98.65399654243024,,,
+LPBBU,Launch Two Acquisition Corp.,93.17394796308032,,,
+LQDT,"Liquidity Services, Inc.",70.0197896235966,34.86207,25.275,
+LSCC,Lattice Semiconductor Corporation,70.43529516171296,386.85,72.99057,
+LSTR,"Landstar System, Inc.",76.20704011348289,37.070335,21.346834,
+LUV,Southwest Airlines Company Common Stock,72.14135250111326,59.64286,23.632076,
+MACIU,Melar Acquisition Corp. I,99.94919754269121,,,
+MAGH,Magnitude International Ltd,92.1699986343222,Infinity,,
+MAGN,Magnera Corporation Common Stock,72.39388086362068,,8.897952,
+MAIN,Main Street Capital Corporation Common Stock,71.70942677898167,10.270696,16.071243,
+MAMK,MaxsMaking Inc.,80.8193138214915,219.33333,,
+MATX,"Matson, Inc. Common Stock",70.39208325236861,8.889526,11.627501,
+MAZE,"Maze Therapeutics, Inc.",75.9761726513529,,-13.058727,
+MCHP,Microchip Technology Incorporated,71.95085325033207,,25.667309,
+MCHPP,Microchip Technology Incorporated,72.63257283073837,,,
+MCTA,Charming Medical Limited,78.50862558667981,419.35715,,
+MDB,"MongoDB, Inc.",72.51881357696057,,128.55632,
+MGIC,Magic Software Enterprises Ltd.,70.3360662812099,31.32927,25.186275,
+MIST,Milestone Pharmaceuticals Inc.,71.16521700753854,,-3.0452325,
+MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",70.44211906375156,,,
+MOBBW,Mobilicom Limited,100.0,Infinity,,
+MOFG,"MidWestOne Financial Group, Inc.",70.67706684256095,12.244777,13.022222,
+MRTN,"Marten Transport, Ltd.",73.00688484782675,46.666668,21.960785,
+MRUS,Merus N.V.,72.59012780024466,,-24.687178,
+MRX,Marex Group plc,72.83550939824075,10.798271,12.573826,
+MS,Morgan Stanley Common Stock,70.81737624391505,18.253593,22.419924,
+MSBI,"Midland States Bancorp, Inc.",76.23896445791549,,7.2644925,
+MSBIP,"Midland States Bancorp, Inc.",76.10850854482482,,,
+MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",70.43420025448897,,,
+MXL,"MaxLinear, Inc",74.88367432431902,,53.444443,
+MYE,"Myers Industries, Inc. Common Stock",71.99464254240475,25.412163,16.07265,
+NHPAP,"National Healthcare Properties, Inc.",78.44893112587108,,,
+NOEMU,CO2 Energy Transition Corp.,98.92739619049375,,,
+NOVTU,Novanta Inc.,70.63897569348637,,,
+NRIX,"Nurix Therapeutics, Inc.",81.61160128607044,,-7.7841725,
+NSTS,"NSTS Bancorp, Inc.",72.15963078713281,,,
+NTRA,"Natera, Inc.",77.4854349758508,,-199.8595,
+NTWOU,Newbury Street II Acquisition Corp,92.59472617796172,,,
+NUKKW,Nukkleus Inc.,100.0,,,
+NUTR,Nusatrip Incorporated,79.36610192742425,,,
+NUVB,Nuvation Bio Inc. Class A Common Stock,76.7408967614992,,-13.769842,
+NVRI,Enviri Corporation Common Stock,79.87486425085004,,106.85294,
+NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,71.75070773952086,6.347601,,
+OACCU,Oaktree Acquisition Corp. III Life Sciences,79.71272876986805,,,
+OCS,Oculis Holding AG,71.0661222725716,,-9.212053,
+OCUL,"Ocular Therapeutix, Inc.",77.74985082129176,,-15.87255,
+OII,"Oceaneering International, Inc. Common Stock",72.08106102995039,11.764193,14.406417,
+OLMA,"Olema Pharmaceuticals, Inc.",81.95215913561677,,-10.208333,
+OMCL,"Omnicell, Inc.",71.50807594857588,96.360466,23.019445,
+OMER,Omeros Corporation,70.88557682991346,,-4.8418803,
+ORRF,"Orrstown Financial Services, Inc.",71.23678659517967,9.552163,8.64977,
+OSS,"One Stop Systems, Inc.",72.54969829802933,,-358.0,
+OUT,OUTFRONT Media Inc. Common Stock,72.00838435712768,31.767122,27.607143,
+OVBC,Ohio Valley Banc Corp.,77.6630595875116,13.87,,
+OWLT,"Owlet, Inc. Class A Common Stock",77.14970336952383,,-17.058823,
+PACS,"PACS Group, Inc. Common Stock",72.69075403344969,28.809525,16.89944,
+PAGP,"Plains GP Holdings, L.P.",72.15433473496141,24.532896,11.164671,
+PAL,"Proficient Auto Logistics, Inc.",72.10686495161383,,11.426829,
+PANL,Pangaea Logistics Solutions Ltd.,75.82773701561104,23.966665,7.5684214,
+PATH,"UiPath, Inc. Class A Common Stock",78.25581360469062,45.891666,43.805683,
+PCAR,PACCAR Inc.,73.02031091810194,21.539215,14.155928,
+PCSC,Perceptive Capital Solutions Corp,94.80931287424883,,,
+PDS,Precision Drilling Corporation Common Stock,74.65856403462263,22.701506,9.098861,
+PGACU,Pantages Capital Acquisition Corporation,92.69144628277343,,,
+PGYWW,Pagaya Technologies Ltd.,100.0,,,
+PKBK,"Parke Bancorp, Inc.",73.4437169606014,8.408451,,
+PLBY,"Playboy, Inc.",80.18201585861,,78.666664,
+PLMKU,Plum Acquisition Corp. IV,99.92469346678989,,,
+PLTS,Platinum Analytics Cayman Limited,83.69070712873085,1750.0,,
+PMO,Putnam Municipal Opportunities Trust Common Stock,70.00421367449023,263.25,,
+PNRG,PrimeEnergy Resources Corporation,72.70191166587317,17.97512,,
+PR,Permian Resources Corporation Class A Common Stock,70.20861654917623,13.276786,9.782895,
+PRAX,"Praxis Precision Medicines, Inc.",74.03656638005968,,-24.868929,
+PRO,"PROS Holdings, Inc. Common Stock",74.49569671257211,,45.578434,
+QCLS,"Q/C Technologies, Inc.",70.66329718394927,,,
+QCRH,"QCR Holdings, Inc.",73.12266491740765,12.092307,12.440288,
+QNCX,"Quince Therapeutics, Inc.",70.65421444090235,,-12.032258,
+QRHC,Quest Resource Holding Corporation,71.34552363958177,,15.208167,
+QTRX,Quanterix Corporation,72.13857409596935,,-8.380682,
+RAL,Ralliant Corporation Common Stock,70.09375340562607,31.932098,18.90903,
+RANGU,Range Capital Acquisition Corp.,90.65740160244768,,,
+RBB,RBB Bancorp,74.55563462400185,14.496644,12.631578,
+RBKB,"Rhinebeck Bancorp, Inc.",70.17081369215828,25.911112,,
+RBRK,"Rubrik, Inc. Class A Common Stock",72.20459646494196,,-65.29851,
+RCUS,"Arcus Biosciences, Inc. Common Stock",76.62551658996838,,-5.5,
+RDNW,"RideNow Group, Inc.",72.68628143777566,,,
+REPL,"Replimune Group, Inc.",73.20278468186942,,-3.9182155,
+RES,"RPC, Inc. Common Stock",70.51140194985983,26.56818,17.191175,
+RFAIU,RF Acquisition Corp II,99.9939062744227,,,
+RHLD,Resolute Holdings Management Common Stock ,76.14987073976329,,,
+RIBBU,Ribbon Acquisition Corp,84.84774981396883,,,
+RNA,"Avidity Biosciences, Inc.",76.1363161930742,,-23.519802,
+ROST,"Ross Stores, Inc.",76.42303833326942,27.825014,26.618847,
+RVMD,"Revolution Medicines, Inc.",81.725151097261,,-19.644444,
+RXST,"RxSight, Inc.",71.66279687292379,,-25.897959,
+RY,Royal Bank Of Canada Common Stock,80.63689838599005,16.195631,17.593311,
+SAIA,"Saia, Inc.",72.9053195361391,31.754484,21.070175,
+SAIC,Science Applications International Corporation,71.98096385378643,12.567775,10.90788,
+SATS,EchoStar Corporation,78.70676008171878,,-32.01636,
+SBLK,Star Bulk Carriers Corp.,71.22670317858883,43.234043,4.465934,
+SD,"SandRidge Energy, Inc. Common Stock",70.05602982579884,8.413408,7.275363,
+SEMR,"SEMrush Holdings, Inc. Class A Common Stock",81.64898363993119,,32.916668,
+SFIX,"Stitch Fix, Inc.",73.39530737952377,,-11.206522,
+SFST,"Southern First Bancshares, Inc.",70.34439858310364,16.179565,28.248648,
+SHBI,"Shore Bancshares, Inc.",70.03540271744949,10.415204,11.794702,
+SIMAU,SIM Acquisition Corp. I,83.51055773096844,,,
+SKE,Skeena Resources Limited Common Shares,71.57091727028117,,,
+SKYX,SKYX Platforms Corp.,71.2181303631437,,-12.526317,
+SLAB,"Silicon Laboratories, Inc.",70.33537247754768,,122.25,
+SLM,SLM Corporation,72.393410036901,10.505172,10.155,
+SMC,Summit Midstream Corporation Common Stock,70.47462372478851,,,
+SMRT,"SmartRent, Inc. Class A Common Stock",70.45036870319701,,-37.899998,
+SNCR,"Synchronoss Technologies, Inc.",78.74524572442684,,4.5395746,
+SND,"Smart Sand, Inc.",92.83699625337006,40.988003,13.221936,
+SNDR,"Schneider National, Inc. Common Stock",75.62990247951775,40.78125,22.695654,
+SOCAU,Solarius Capital Acquisition Corp.,92.48491206677856,,,
+SPKLU,Spark I Acquisition Corp.,99.95739297459507,,,
+SRBK,"SR Bancorp, Inc.",76.6261682666963,29.888887,,
+SRXH,"SRX Health Solutions, Inc. Common Stock",78.08666397015865,,,
+SRZN,"Surrozen, Inc.",79.78519827123252,,-4.6719103,
+STTK,"Shattuck Labs, Inc.",83.26707534390539,,-2.8551402,
+SVRA,"Savara, Inc.",77.339528111561,,-15.151162,
+SWBI,"Smith & Wesson Brands, Inc.",80.41973139156178,41.634617,8.5912695,
+SYRE,"Spyre Therapeutics, Inc.",78.30546952695869,,-8.335749,
+TAVIU,Tavia Acquisition Corp.,99.56807227592193,,,
+TCMD,"Tactile Systems Technology, Inc.",75.99637572199474,36.43421,32.197674,
+TD,Toronto Dominion Bank (The) Common Stock,77.5333969260488,10.576555,15.271157,
+TDC,Teradata Corporation Common Stock,71.33231624998587,25.347107,12.46748,
+TE,T1 Energy Inc. Common Stock,73.50802377069289,,-17.36203,
+TENX,"Tenax Therapeutics, Inc.",74.10503966471039,,-1.9361702,
+TER,"Teradyne, Inc.",72.24714389355277,73.847275,47.78353,
+TERN,"Terns Pharmaceuticals, Inc.",77.8099980720596,,-22.115108,
+TFC,Truist Financial Corporation Common Stock,71.79705067898094,12.758713,12.048101,
+TFII,TFI International Inc. Common Shares,71.63978953779943,25.63239,11.580721,
+TFIN,"Triumph Financial, Inc. Common Stock",72.12492414541724,220.53572,38.117283,
+TGL,Treasure Global Inc.,75.95640226463527,,-55.0,
+THR,"Thermon Group Holdings, Inc. Common Stock",77.07412201017624,22.165714,18.211267,
+TKO,"TKO Group Holdings, Inc. Class A Common Stock",72.56689183416886,78.05703,63.36111,
+TLSI,"TriSalus Life Sciences, Inc.",74.5021501800413,,-5.7796617,
+TORO,Toro Corp.,75.83622328209424,548.0,,
+TRDA,"Entrada Therapeutics, Inc.",75.2314498545563,,-3.3412697,
+TSEM,Tower Semiconductor Ltd.,73.33884758748562,68.05492,50.530045,
+TVAI,Thayer Ventures Acquisition Corporation II,78.99708001614826,,,
+TWG,Top Wealth Group Holding Limited,87.28920220036078,,,
+TYRA,"Tyra Biosciences, Inc.",71.60077608060469,,-11.207921,
+U,Unity Software Inc. Common Stock,70.54765780154335,,-46.384617,
+ULCC,"Frontier Group Holdings, Inc.",76.17918189722702,,9.767857,
+UNF,Unifirst Corporation Common Stock,77.50414902803772,22.93413,21.328472,
+UNP,Union Pacific Corporation Common Stock,71.0391929496935,20.02502,19.495872,
+USB,U.S. Bancorp Common Stock,73.44687288605012,11.772311,11.8810625,
+UVSP,Univest Financial Corporation,73.47982586611064,11.31208,14.720524,
+VERA,"Vera Therapeutics, Inc.",82.64476924975584,,-14.630225,
+VICR,Vicor Corporation,71.3305727144674,53.375877,93.40779,
+VNOM,"Viper Energy, Inc. ",71.55963356827382,16.497942,21.67027,
+VSCO,Victorias Secret & Co. Common Stock ,77.49406346774492,26.360584,22.223272,
+VSTS,Vestis Corporation Common Stock,78.27398555876218,,9.946667,
+VTR,"Ventas, Inc. Common Stock",77.02194170626971,154.18869,510.75003,
+WBD,"Warner Bros. Discovery, Inc.",82.73634025480392,142.92105,-208.88463,
+WBS,Webster Financial Corporation Common Stock,71.55545251487283,11.709497,10.973823,
+WERN,"Werner Enterprises, Inc.",73.42610428010647,72.439026,21.214287,
+WHLRD,"Wheeler Real Estate Investment Trust, Inc.",82.73513692556179,,-23.863636,
+WHLRP,"Wheeler Real Estate Investment Trust, Inc.",71.21606383260368,,,
+WILC,"G. Willi-Food International,  Ltd.",77.26866186828481,12.842857,,
+WTG,Wintergreen Acquisition Corp.,70.46127565038259,,,
+WVE,Wave Life Sciences Ltd.,84.93216508644986,,-17.89796,
+WWD,"Woodward, Inc.",71.0955121633181,41.656467,51.023853,
+XENE,Xenon Pharmaceuticals Inc.,70.03338915380233,,-12.519663,
+XPEL,"XPEL, Inc.",81.84258834915255,28.885294,20.29132,
+YHNAU,YHN Acquisition I Limited,99.99985278196256,,,
+ZUMZ,Zumiez Inc.,82.47721891058546,,36.31605,

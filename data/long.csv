@@ -1,156 +1,167 @@
-Ticker,Name
-ACM,"AECOM Common Stock"
-ARDT,"Ardent Health, Inc. Common Stock"
-ARE,"Alexandria Real Estate Equities, Inc. Common Stock"
-BDN,"Brandywine Realty Trust Common Stock"
-CFND,"C1 Fund Inc. Common Stock"
-CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock"
-DOCS,"Doximity, Inc. Class A Common Stock"
-DUK,"Duke Energy Corporation (Holding Company) Common Stock"
-FMC,"FMC Corporation Common Stock"
-GCO,"Genesco Inc. Common Stock"
-HIW,"Highwoods Properties, Inc. Common Stock"
-HUSA,"Houston American Energy Corporation Common Stock"
-IGC,"IGC Pharma, Inc. Common Stock"
-INLX,"Intellinetics, Inc. Common Stock"
-LRN,"Stride, Inc. Common Stock"
-LSF,"Laird Superfood, Inc. Common Stock"
-NCL,"Northann Corp. Common Stock"
-NGVC,"Natural Grocers by Vitamin Cottage, Inc. Common Stock"
-NOTE,"FiscalNote Holdings, Inc. Class A common stock"
-OMI,"Owens & Minor, Inc. Common Stock"
-ONL,"Orion Properties Inc. Common Stock"
-PPL,"PPL Corporation Common Stock"
-PSN,"Parsons Corporation Common Stock"
-SHAK,"Shake Shack, Inc. Class A Common Stock"
-UP,"Wheels Up Experience Inc. Class A Common Stock"
-VEEV,"Veeva Systems Inc. Class A Common Stock"
-VIA,"Via Transportation, Inc. Class A Common Stock"
-VICI,"VICI Properties Inc. Common Stock"
-WRB,"W.R. Berkley Corporation Common Stock"
-ZONE,"CleanCore Solutions Inc. Class B Common Stock"
-ABTC,"American Bitcoin Corp."
-ADTX,"Aditxt, Inc."
-ADV,"Advantage Solutions Inc. "
-AIRJ,"AirJoule Technologies Corporation"
-AIRS,"AirSculpt Technologies, Inc."
-AKAN,"Akanda Corp."
-AKTX,"Akari Therapeutics Plc"
-ALAR,"Alarum Technologies Ltd."
-ALFUU,"Centurion Acquisition Corp."
-ALOT,"AstroNova, Inc."
-AMSF,"AMERISAFE, Inc."
-ANL,"Adlai Nortye Ltd."
-APLMW,"Apollomics Inc."
-ARQQW,"Arqit Quantum Inc."
-ATIIU,"Archimedes Tech SPAC Partners II Co."
-ATMVU,"AlphaVest Acquisition Corp"
-ATON,"AlphaTON Capital Corp."
-BACQU,"Inflection Point Acquisition Corp. IV"
-BDTX,"Black Diamond Therapeutics, Inc."
-BEEP,"Mobile Infrastructure Corporation"
-BGM,"BGM Group Ltd."
-BLZR,"Trailblazer Acquisition Corp."
-BMGL,"Basel Medical Group Ltd"
-BRR,"Columbus Circle Capital Corp I"
-BRRWU,"Columbus Circle Capital Corp I"
-BSAAU,"BEST SPAC I Acquisition Corp."
-BTM,"Bitcoin Depot Inc."
-BTTC,"Black Titan Corp"
-CAPNU,"Cayson Acquisition Corp"
-CARV,"Carver Bancorp, Inc."
-CCRN,"Cross Country Healthcare, Inc."
-CGCTU,"Cartesian Growth Corporation III"
-CISO,"CISO Global, Inc."
-CJMB,"Callan JMB Inc."
-CLSD,"Clearside Biomedical, Inc."
-CNEY,"CN Energy Group Inc."
-COSM,"Cosmos Health Inc."
-CPRT,"Copart, Inc."
-CWD,"CaliberCos Inc."
-DOMO,"Domo, Inc."
-DYORU,"Insight Digital Partners II"
-EGHAU,"EGH Acquisition Corp."
-ENGS,"Energys Group Limited"
-EXEEW,"Expand Energy Corporation"
-EXEEZ,"Expand Energy Corporation"
-FAT,"FAT Brands Inc."
-FATBP,"FAT Brands Inc."
-FGBI,"First Guaranty Bancshares, Inc."
-FITBO,"Fifth Third Bancorp"
-FMFC,"Kandal M Venture Limited"
-FSHPU,"Flag Ship Acquisition Corp."
-FUSE,"Fusemachines Inc."
-GAUZ,"Gauzy Ltd."
-HBANM,"Huntington Bancshares Incorporated"
-HIT,"Health In Tech, Inc."
-ICON,"Icon Energy Corp."
-IIIV,"i3 Verticals, Inc."
-INHD,"Inno Holdings Inc."
-IVF,"INVO Fertility, Inc."
-JANX,"Janux Therapeutics, Inc."
-KELYB,"Kelly Services, Inc."
-KIDZ,"Classover Holdings, Inc."
-KRRO,"Korro Bio, Inc."
-KYIVW,"Kyivstar Group Ltd."
-LATA,"Galata Acquisition Corp. II"
-LFMD,"LifeMD, Inc."
-LGHL,"Lion Group Holding Ltd."
-LIN,"Linde plc"
-LOPE,"Grand Canyon Education, Inc."
-LPBBW,"Launch Two Acquisition Corp."
-LRHC,"La Rosa Holdings Corp."
-MBAVU,"M3-Brigade Acquisition V Corp."
-MCGAU,"Yorkville Acquisition Corp."
-MDCXW,"Medicus Pharma Ltd."
-MEHA,"Functional Brands, Inc."
-MIMI,"Mint Incorporation Limited"
-MTEN,"Mingteng International Corporation Inc."
-NCEL,"NewcelX Ltd."
-NCT,"Intercont (Cayman) Limited"
-NTNX,"Nutanix, Inc."
-NTRBW,"Nutriband Inc."
-NTWK,"NETSOL Technologies Inc."
-NXTT,"Next Technology Holding Inc."
-OM,"Outset Medical, Inc."
-ONEG,"OneConstruction Group Limited"
-OST,"Ostin Technology Group Co., Ltd."
-OWLS,"OBOOK Holdings Inc."
-PDYNW,"Palladyne AI Corp."
-PIII,"P3 Health Partners Inc."
-QSEAU,"Quartzsea Acquisition Corporation"
-QURE,"uniQure N.V."
-RDAG,"Republic Digital Acquisition Company"
-RITR,"Reitar Logtech Holdings Limited"
-RPGL,"Republic Power Group Limited"
-RUBI,"Rubico Inc."
-SDM,"Smart Digital Group Limited"
-SLRX,"Salarius Pharmaceuticals, Inc."
-SONN,"Sonnet BioTherapeutics Holdings, Inc."
-STSS,"Sharps Technology Inc."
-SUPX,"SuperX AI Technology Limited"
-SYBX,"Synlogic, Inc."
-TACO,"Berto Acquisition Corp."
-TAIT,"Taitron Components Incorporated"
-TKLF,"Tokyo Lifestyle Co., Ltd."
-TLRY,"Tilray Brands, Inc."
-TMCI,"Treace Medical Concepts, Inc."
-TPST,"Tempest Therapeutics, Inc."
-TURB,"Turbo Energy, S.A."
-TVACU,"Texas Ventures Acquisition III Corp"
-TVRD,"Tvardi Therapeutics, Inc."
-UPLD,"Upland Software, Inc."
-UYSCU,"UY Scuti Acquisition Corp."
-VCICU,"Vine Hill Capital Investment Corp."
-VMAR,"Vision Marine Technologies Inc."
-VOR,"Vor Biopharma Inc."
-VRNS,"Varonis Systems, Inc."
-VSA,"VisionSys AI Inc."
-VSME,"VS Media Holdings Limited"
-VSTD,"Vestand Inc. "
-WTO,"UTime Limited"
-WXM,"WF International Limited"
-XGN,"Exagen Inc."
-YDKG,"Yueda Digital Holding"
-YYAI,"AiRWA Inc."
-ZLAB,"Zai Lab Limited"
+ticker,name,rsi,trailingPE,forwardPE,pegRatio
+ABTC,American Bitcoin Corp.,20.506931405893287,11.333333,,
+ABVC,"ABVC BioPharma, Inc.",29.464934938019322,,-5.068182,
+ACM,AECOM Common Stock,27.142730748563302,21.478079,20.617235,
+ADTX,"Aditxt, Inc.",21.99878095428168,,-0.26926485,
+ADV,Advantage Solutions Inc. ,28.092614397398858,,1.8108696,
+AHT,Ashford Hospitality Trust Inc Common Stock,29.58740664959431,,-0.24179688,
+AIRJ,AirJoule Technologies Corporation,28.143183884260203,,-8.191176,
+AIRS,"AirSculpt Technologies, Inc.",25.356104173996403,,143.0,
+AJG,Arthur J. Gallagher & Co. Common Stock,29.505389926151445,38.13578,21.164007,
+AKAN,Akanda Corp.,24.79621624022138,0.027516952,,
+AKTX,Akari Therapeutics Plc,26.976527275218775,Infinity,-0.09905882,
+ALAR,Alarum Technologies Ltd.,17.2416895769186,39.1,10.2894745,
+ALFUU,Centurion Acquisition Corp.,24.5528705149289,,,
+ALOT,"AstroNova, Inc.",20.413632275842673,,20.823715,
+AMOD,"Alpha Modus Holdings, Inc.",29.557700427510692,,,
+AMSF,"AMERISAFE, Inc.",24.645832364128456,14.126924,15.629787,
+APLMW,Apollomics Inc.,4.130294102466573e-14,,,
+APXT,Apex Treasury Corporation,25.00029801995597,,,
+ARDT,"Ardent Health, Inc. Common Stock",24.867854331817583,5.858108,4.335,
+ARE,"Alexandria Real Estate Equities, Inc. Common Stock",24.53830679237428,,13.014535,
+ATIIU,Archimedes Tech SPAC Partners II Co.,25.347843137936625,,,
+ATMVU,AlphaVest Acquisition Corp,18.57094861091153,,,
+ATON,AlphaTON Capital Corp.,23.984035046973077,,,
+BACQU,Inflection Point Acquisition Corp. IV,26.205271031855144,,,
+BDN,Brandywine Realty Trust Common Stock,27.821429200706653,,-152.0,
+BDTX,"Black Diamond Therapeutics, Inc.",28.369103890633202,7.3783784,-2.237705,
+BGM,BGM Group Ltd.,24.128232391030757,,,
+BLIV,BeLive Holdings,13.638051766044953,,,
+BLZR,Trailblazer Acquisition Corp.,26.910674742950597,,,
+BMGL,Basel Medical Group Ltd,25.157021316590267,,,
+BRR,Columbus Circle Capital Corp I,3.307847027405997,,,
+BRRWU,Columbus Circle Capital Corp I,3.6603887657662817,,,
+BTM,Bitcoin Depot Inc.,22.83904769503727,8.15625,21.75,
+BTTC,Black Titan Corp,22.826775608566773,107.66667,,
+CAPNU,Cayson Acquisition Corp,0.3604024693125533,,,
+CARV,"Carver Bancorp, Inc.",24.32937555548555,,,
+CCRN,"Cross Country Healthcare, Inc.",25.97790790631122,,13.618645,
+CFND,C1 Fund Inc. Common Stock,25.38700187424056,,,
+CGCTU,Cartesian Growth Corporation III,29.27365845874216,,,
+CISO,"CISO Global, Inc.",28.336482832961224,,-2.8523529,
+CJET,"Chijet Motor Company, Inc.",23.45771053585288,,,
+CJMB,Callan JMB Inc.,18.866993752604706,,,
+CLSD,"Clearside Biomedical, Inc.",26.558600048478798,,-0.08367347,
+CNEY,CN Energy Group Inc.,14.492979158997041,0.0051904093,,
+COSM,Cosmos Health Inc.,26.961087181918337,,-9.535999,
+CPRT,"Copart, Inc.",27.23401651532436,23.6227,22.12931,
+CUPR,Cuprina Holdings (Cayman) Limited,29.997215432602086,,,
+CWD,CaliberCos Inc.,27.21165233442484,,-6.692308,
+DJTWW,Trump Media & Technology Group Corp.,8.110414462591482e-06,,,
+DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,29.8463030776633,8.357664,,
+DOCS,"Doximity, Inc. Class A Common Stock",27.885309327080428,36.64808,38.49588,
+DOMO,"Domo, Inc.",26.886964001217116,,-22.775,
+DRDBU,Roman DBDR Acquisition Corp. II,23.309374231124263,,,
+DUK,Duke Energy Corporation (Holding Company) Common Stock,27.63255654255753,18.24274,18.271513,
+EGHAU,EGH Acquisition Corp.,21.958944675157348,,,
+EIC,Eagle Point Income Company Inc. Common Stock,29.950892175406345,8.765625,5.753846,
+ENGS,Energys Group Limited,29.567997257850543,,,
+EXEEW,Expand Energy Corporation,5.3480340667828425,,,
+EXEEZ,Expand Energy Corporation,1.7377073778292464,,,
+FAT,FAT Brands Inc.,22.17919969873465,,-0.071101196,
+FATBP,FAT Brands Inc.,27.521071820829,,,
+FITBO,Fifth Third Bancorp,27.068379179614688,5.529917,,
+FMC,FMC Corporation Common Stock,27.628784704139036,,2.8175967,
+FMFC,Kandal M Venture Limited,23.039416348046473,47.02,,
+FSHPU,Flag Ship Acquisition Corp.,9.231838935383553,,,
+GAUZ,Gauzy Ltd.,29.42127720912346,,-14.083334,
+GMM,Global Mofy AI Limited ,29.153817892526472,0.71201086,,
+GWRE,"Guidewire Software, Inc. Common Stock",27.213791059079423,188.89525,79.97581,
+HBANM,Huntington Bancshares Incorporated,27.229588498848813,28.528276,,
+HIT,"Health In Tech, Inc.",28.7575596573176,55.250004,31.571428,
+HIW,"Highwoods Properties, Inc. Common Stock",27.25963429297006,22.58261,66.589745,
+HUSA,Houston American Energy Corporation Common Stock,23.00939747260731,,,
+ICON,Icon Energy Corp.,28.510479520666586,,0.7182727,
+IGC,"IGC Pharma, Inc. Common Stock",27.013239822574764,,-2.944,
+IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,28.633359540845436,12.485714,,
+IIIV,"i3 Verticals, Inc.",28.142838447452363,167.46428,17.761362,
+INHD,Inno Holdings Inc.,18.97483948707779,,,
+INLX,"Intellinetics, Inc. Common Stock",29.73690480049435,,140.83333,
+IVF,"INVO Fertility, Inc.",29.261711187461525,,-0.059948977,
+JANX,"Janux Therapeutics, Inc.",29.868191112229308,,-10.20625,
+KELYB,"Kelly Services, Inc.",28.96287885317821,,,
+KIDZ,"Classover Holdings, Inc.",28.450565823885327,,,
+KRRO,"Korro Bio, Inc.",27.44062769300773,,-0.7341584,
+KYIVW,Kyivstar Group Ltd.,0.0,,,
+LATA,Galata Acquisition Corp. II,22.443773562428554,,,
+LFMD,"LifeMD, Inc.",25.629725376740176,,-88.39,
+LGHL,Lion Group Holding Ltd.,28.216507124643435,,,
+LIN,Linde plc,28.007062730880527,26.187752,23.0823,
+LOPE,"Grand Canyon Education, Inc.",27.958211241340074,20.566038,17.380411,
+LPBBW,Launch Two Acquisition Corp.,0.0,,,
+LRHC,La Rosa Holdings Corp.,28.013266934786806,,,
+LRN,"Stride, Inc. Common Stock",24.744161839072245,9.595943,8.472451,
+LSF,"Laird Superfood, Inc. Common Stock",27.63324221541554,,-0.57071954,
+MBAVU,M3-Brigade Acquisition V Corp.,2.68304555339735,,,
+MCGAU,Yorkville Acquisition Corp.,29.8376879417508,,,
+MDCXW,Medicus Pharma Ltd.,0.0,,,
+MEHA,"Functional Brands, Inc.",9.256938945464855,,,
+MIMI,Mint Incorporation Limited,21.16546139106568,,,
+MTEN,Mingteng International Corporation Inc.,17.503911707849827,,,
+NCEL,NewcelX Ltd.,28.463071920970286,,,
+NCL,Northann Corp. Common Stock,25.053732203399264,,,
+NCT,Intercont (Cayman) Limited,23.495409361132204,4.87,,
+NGVC,"Natural Grocers by Vitamin Cottage, Inc. Common Stock",22.772022956889515,12.75,31.09756,
+NIVF,NewGenIvf Group Limited,27.607622457600954,0.0009939576,0.17484277,
+NOTE,"FiscalNote Holdings, Inc. Class A common stock",26.009533958578256,,-5.448571,
+NTNX,"Nutanix, Inc.",23.15672635204142,63.51316,25.675531,
+NTRBW,Nutriband Inc.,16.233632219266113,,,
+NTWK,NETSOL Technologies Inc.,26.010653412071143,72.415,7.6226315,
+NXTT,Next Technology Holding Inc.,28.011729534626163,0.02304276,,
+OM,"Outset Medical, Inc.",26.111838186248498,,-3.2803028,
+OMI,"Owens & Minor, Inc. Common Stock",27.547804346584343,,1.3870968,
+ONEG,OneConstruction Group Limited,17.87324936948648,15.250001,,
+ONL,Orion Properties Inc. Common Stock,22.223164928052363,,-2.857143,
+OST,"Ostin Technology Group Co., Ltd.",28.061641838054907,,,
+OWLS,OBOOK Holdings Inc.,13.484285179571948,,,
+PCTTU,"PureCycle Technologies, Inc.",0.10003266301552372,,,
+PDYNW,Palladyne AI Corp.,0.0,,,
+PHGE,BiomX Inc. COmmon Stock,29.043199305204325,,-0.052950602,
+PIII,P3 Health Partners Inc.,28.18831798538196,,-25.04762,
+PPL,PPL Corporation Common Stock,29.286358002077996,23.132654,18.581968,
+PSN,Parsons Corporation Common Stock,20.227336333658876,28.887787,16.11478,
+QSEAU,Quartzsea Acquisition Corporation,23.018950662256813,,,
+QURE,uniQure N.V.,25.626128807922093,,-7.031046,
+RITR,Reitar Logtech Holdings Limited,25.23349644550376,47.0,,
+RPGL,Republic Power Group Limited,27.66928164676227,,,
+RUBI,Rubico Inc.,19.17225972721878,0.043131825,,
+SDM,Smart Digital Group Limited,28.675094180175325,26.428572,,
+SLG,SL Green Realty Corp Common Stock,29.280491242498424,2103.435,-18.697199,
+SLRX,"Salarius Pharmaceuticals, Inc.",25.935133406244958,,-0.09269357,
+SO,Southern Company (The) Common Stock,29.26231191142329,21.380596,19.895832,
+SONN,"Sonnet BioTherapeutics Holdings, Inc.",28.159580561170177,,-0.0842246,
+STSS,Sharps Technology Inc.,28.990270760219744,,-15.494665,
+SUPX,SuperX AI Technology Limited,28.447089269149632,,,
+SYBX,"Synlogic, Inc.",22.48201398591262,,-2.2446806,
+TACO,Berto Acquisition Corp.,29.62986945067847,,,
+TAIT,Taitron Components Incorporated,28.247822393312322,,,
+TKLF,"Tokyo Lifestyle Co., Ltd.",28.96329483124419,1.4937501,,
+TLRY,"Tilray Brands, Inc.",28.735179096236717,,-104.43,
+TMCI,"Treace Medical Concepts, Inc.",24.500333186412927,,-3.6066666,
+TPST,"Tempest Therapeutics, Inc.",24.98405687594531,,-2.2107246,
+TURB,"Turbo Energy, S.A.",20.819536180600743,,,
+TVACU,Texas Ventures Acquisition III Corp,12.864529328615436,,,
+TVRD,"Tvardi Therapeutics, Inc.",28.31119908769396,,-1.9607378,
+UL,Unilever PLC Common Stock,27.469328299885305,21.316092,15.895714,
+UPLD,"Upland Software, Inc.",29.955987841996873,,2.051948,
+UYSCU,UY Scuti Acquisition Corp.,0.5590277654035745,,,
+VCICU,Vine Hill Capital Investment Corp.,19.42114548970361,,,
+VEEV,Veeva Systems Inc. Class A Common Stock,22.923384883911044,45.70273,34.68269,
+VIA,"Via Transportation, Inc. Class A Common Stock",25.606636473702853,,520.1331,
+VICI,VICI Properties Inc. Common Stock,25.198861563404762,10.618327,10.229378,
+VMAR,Vision Marine Technologies Inc.,24.243761488106312,,-0.007756748,
+VOR,Vor Biopharma Inc.,27.275305773396575,,-7.067797,
+VRNS,"Varonis Systems, Inc.",29.30582476238141,,100.87323,
+VSA,VisionSys AI Inc.,20.783593755672296,,,
+VSME,VS Media Holdings Limited,20.277615565396943,,,
+VSTD,Vestand Inc. ,27.96395517909836,,,
+WEC,"WEC Energy Group, Inc. Common Stock",27.256077440059588,19.96205,20.153257,
+WLYB,"John Wiley & Sons, Inc. Common Stock",29.693926291960615,17.988764,,
+WRB,W.R. Berkley Corporation Common Stock,23.476241622581124,14.098739,15.427587,
+WTO,UTime Limited,17.402587268979552,,,
+WXM,WF International Limited,23.99544472982392,17.563334,,
+XGN,Exagen Inc.,28.755391878502717,,-8.578313,
+YDKG,Yueda Digital Holding,21.23917955249574,,,
+YYAI,AiRWA Inc.,29.670242977186017,0.095816664,,
+ZLAB,Zai Lab Limited,23.086426432185323,,-9.926702,
+ZONE,CleanCore Solutions Inc. Class B Common Stock,29.56814372234576,,,
