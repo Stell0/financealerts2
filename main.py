@@ -50,6 +50,9 @@ if '-l' in sys.argv or '--list-tickers' in sys.argv:
 
 watchlist=[]
 
+if '-t' in sys.argv or '--test' in sys.argv:
+    stocks = [{"ticker":"ASH","name":"Dummy"}]
+
 for stock in stocks:
     print(stock["ticker"], stock["name"])
     try:
@@ -97,28 +100,18 @@ else:
 # header
 header = ["ticker", "name", "rsi", "trailingPE", "forwardPE", "pegRatio"]
 
+# Transform watchlist to DataFrame
+df_watchlist = pd.DataFrame(watchlist)
+
+# Ensure all header columns exist
+for col in header:
+    if col not in df_watchlist.columns:
+        df_watchlist[col] = None
+
 # write data/long.csv and data/short.csv
-with open("data/long.csv", "w") as f:
-    f.write(",".join(header)+ "\n")
-    for stock in watchlist:
-        if stock["action"] == "long":
-            row = []
-            for key in header:
-                # use double quotes for strings with commas
-                if ',' in stock[key]:
-                    row.append('"'+stock[key]+'"')
-                else:
-                    row.append(stock[key])
-            f.write(','.join(row)+"\n")
-with open("data/short.csv", "w") as f:
-    f.write(",".join(header)+ "\n")
-    for stock in watchlist:
-        if stock["action"] == "short":
-            row = []
-            for key in header:
-                # use double quotes for strings with commas
-                if ',' in stock[key]:
-                    row.append('"'+stock[key]+'"')
-                else:
-                    row.append(stock[key])
-            f.write(','.join(row)+"\n")
+if "action" in df_watchlist.columns:
+    df_watchlist[df_watchlist["action"] == "long"].to_csv("data/long.csv", columns=header, index=False)
+    df_watchlist[df_watchlist["action"] == "short"].to_csv("data/short.csv", columns=header, index=False)
+else:
+    pd.DataFrame(columns=header).to_csv("data/long.csv", index=False)
+    pd.DataFrame(columns=header).to_csv("data/short.csv", index=False)
