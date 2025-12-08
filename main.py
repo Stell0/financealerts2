@@ -3,6 +3,7 @@ import pandas as pd
 import sys
 import yahoo_finance_api
 import indicators
+import yfinance as yf
 
 other_listed = "https://raw.githubusercontent.com/datasets/nyse-other-listings/refs/heads/main/data/other-listed.csv"
 nasdaq_listed = "https://raw.githubusercontent.com/datasets/nasdaq-listings/refs/heads/main/data/nasdaq-listed-symbols.csv"
@@ -47,8 +48,7 @@ if '-l' in sys.argv or '--list-tickers' in sys.argv:
         print(stock["ticker"], stock["name"])
     exit(0)
 
-long=[]
-short=[]
+watchlist=[]
 
 for stock in stocks:
     print(stock["ticker"], stock["name"])
@@ -62,42 +62,63 @@ for stock in stocks:
     df = indicators.rsi(df)
 
     stock["rsi"] = df.loc[df.index[-1], "RSI"]
+    if stock["rsi"] > 70 or stock["rsi"] < 30:
+        # get additional information
+        info = yf.Ticker(stock["ticker"]).info
+        for key in['trailingPE', 'forwardPE', 'pegRatio']:
+            if key in info:
+                stock[key] = info[key]
+        
     if stock["rsi"] > 70:
-        short.append(stock)
+        stock["action"] = "short"
+        watchlist.append(stock)
     if stock["rsi"] < 30:
-        long.append(stock)
+        stock["action"] = "long"
+        watchlist.append(stock)
 
-print("Long:")
-for stock in long:
-    print(f"{stock['ticker']} - {stock['name']} - RSI:{stock['rsi']}")
-print("Short:")
-for stock in short:
-    print(f"{stock['ticker']} - {stock['name']} - RSI:{stock['rsi']}")
+# sort watchlist by ticker
+watchlist.sort(key=lambda x: x["ticker"])
 
+# save long and short to data/report.json
 try:
     with open("data/report.json", "r") as f:
         old_report = json.load(f)
 except Exception as e:
     old_report = None
 
-report = {
-    "long": long,
-    "short": short
-}
-
-if report != old_report:
+if watchlist != old_report:
     print("Report has changed")
     with open("data/report.json", "w") as f:
-        json.dump(report, f)
+        json.dump(watchlist, f)
 else:
     print("Report has not changed")
 
-with open("data/long.csv", "w") as f:
-    f.write("Ticker,Name,RSI\n")
-    for stock in long:
-        f.write(f"{stock['ticker']},\"{stock['name']}\",{stock['rsi']}\n")
 
+# header
+header = ["ticker", "name", "rsi", "trailingPE", "forwardPE", "pegRatio"]
+
+# write data/long.csv and data/short.csv
+with open("data/long.csv", "w") as f:
+    f.write(",".join(header)+ "\n")
+    for stock in watchlist:
+        if stock["action"] == "long":
+            row = []
+            for key in header:
+                # use double quotes for strings with commas
+                if ',' in stock[key]:
+                    row.append('"'+stock[key]+'"')
+                else:
+                    row.append(stock[key])
+            f.write(','.join(row)+"\n")
 with open("data/short.csv", "w") as f:
-    f.write("Ticker,Name,RSI\n")
-    for stock in short:
-        f.write(f"{stock['ticker']},\"{stock['name']}\",{stock['rsi']}\n")
+    f.write(",".join(header)+ "\n")
+    for stock in watchlist:
+        if stock["action"] == "short":
+            row = []
+            for key in header:
+                # use double quotes for strings with commas
+                if ',' in stock[key]:
+                    row.append('"'+stock[key]+'"')
+                else:
+                    row.append(stock[key])
+            f.write(','.join(row)+"\n")
