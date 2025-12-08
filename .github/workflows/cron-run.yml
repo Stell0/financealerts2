@@ -1,0 +1,47 @@
+name: Cron run workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '19 00 * * *'
+jobs:
+
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Run application
+      run: wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz \
+        && tar -xzf ta-lib-0.4.0-src.tar.gz \
+        && rm ta-lib-0.4.0-src.tar.gz \
+        && cd ta-lib/ \
+        && ./configure --prefix=/usr \
+        && make \
+        && make install \
+        && cd ~ \
+        && rm -rf ta-lib/
+        && pip install -r requirements.txt
+        && python main.py
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit and push data changes
+      run: |
+        if [ -d "data" ] && git status --porcelain data/; then
+          git add data/
+          git commit -m "Update cached price data [automated]"
+          git push
+        else
+          echo "No changes to data directory"
+        fi
