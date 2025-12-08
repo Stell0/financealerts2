@@ -19,17 +19,20 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Run application
-      run: wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz \
-        && tar -xzf ta-lib-0.4.0-src.tar.gz \
-        && rm ta-lib-0.4.0-src.tar.gz \
-        && cd ta-lib/ \
-        && ./configure --prefix=/usr \
-        && make \
-        && make install \
-        && cd ~ \
-        && rm -rf ta-lib/
-        && pip install -r requirements.txt
-        && python main.py
+      run: |
+        sudo apt-get update && \
+        sudo apt-get install -y wget tar make gcc && \
+        wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz && \
+        tar -xzf ta-lib-0.4.0-src.tar.gz && \
+        rm ta-lib-0.4.0-src.tar.gz && \
+        cd ta-lib/ && \
+        ./configure --prefix=/usr && \
+        make && \
+        sudo make install && \
+        cd ../ && \
+        rm -rf ta-lib/ && \
+        pip install -r requirements.txt && \
+        python main.py
 
     - name: Configure Git
       run: |
@@ -38,7 +41,7 @@ jobs:
 
     - name: Commit and push data changes
       run: |
-        if [ -d "data" ] && git status --porcelain data/; then
+        if [ -d "data" ] && [ -n "$(git status --porcelain data/)" ]; then
           git add data/
           git commit -m "Update cached price data [automated]"
           git push
