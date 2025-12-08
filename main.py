@@ -100,32 +100,34 @@ else:
 for index, stock in enumerate(watchlist):
     stock["sorting"] = 0
     if stock["action"] == "long":
-        if stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+        if "trailingPE" in stock and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
             stock["sorting"] = stock["sorting"] - 30 + stock["trailingPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+        if "forwardPE" in stock and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
             stock["sorting"] = stock["sorting"] - 30 + stock["forwardPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
-            stock["sorting"] = stock["sorting"] - (1/stock["trailingPegRatio"]*20)
+        if "trailingPegRatio" in stock and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+            stock["sorting"] = stock["sorting"] - (1/stock["trailingPegRatio"]*30)
         else:
             stock["sorting"] = stock["sorting"] + 20
+        stock["sorting"] = stock["sorting"] - 30 + stock["rsi"]
     if stock["action"] == "short":
-        if stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+        if "trailingPE" in stock and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
             stock["sorting"] = stock["sorting"] + 30 - stock["trailingPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+        if "forwardPE" in stock and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
             stock["sorting"] = stock["sorting"] + 30 - stock["forwardPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
-            stock["sorting"] = stock["sorting"] + (1/stock["trailingPegRatio"]*20)
+        if "trailingPegRatio" in stock and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+            stock["sorting"] = stock["sorting"] + (1/stock["trailingPegRatio"]*30)
         else:
             stock["sorting"] = stock["sorting"] + 20
-
+        stock["sorting"] = stock["sorting"] + 100 - stock["rsi"]
+    watchlist[index] = stock
 # sort watchlist by sorting
 watchlist.sort(key=lambda x: x["sorting"])
 
