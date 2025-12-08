@@ -53,6 +53,33 @@ watchlist=[]
 if '-t' in sys.argv or '--test' in sys.argv:
     stocks = [{"ticker":"ASH","name":"Dummy"}]
 
+header = [
+    "ticker",
+    "name",
+    "rsi",
+    "priceToBook",
+    "enterpriseToRevenue",
+    "enterpriseToEbitda",
+    "targetHighPrice",
+    "targetLowPrice",
+    "targetMeanPrice",
+    "targetMedianPrice",
+    "recommendationMean",
+    "recommendationKey",
+    "totalCashPerShare",
+    "quickRatio",
+    "currentRatio",
+    "debtToEquity",
+    "returnOnAssets",
+    "returnOnEquity",
+    "earningsGrowth",
+    "revenueGrowth",
+    "grossMargins",
+    "operatingMargins",
+    "averageAnalystRating",
+    "trailingPegRatio"
+    ]
+
 for stock in stocks:
     print(stock["ticker"], stock["name"])
     try:
@@ -68,10 +95,13 @@ for stock in stocks:
     if stock["rsi"] > 70 or stock["rsi"] < 30:
         # get additional information
         info = yf.Ticker(stock["ticker"]).info
-        for key in['trailingPE', 'forwardPE', 'trailingPegRatio']:
-            if key in info:
-                stock[key] = info[key]
-        
+        for key in header:
+            if not key in stock:
+                if key in info:
+                    stock[key] = info[key]
+                else:
+                    stock[key] = None
+       
     if stock["rsi"] > 70:
         stock["action"] = "short"
         watchlist.append(stock)
@@ -100,39 +130,48 @@ else:
 for index, stock in enumerate(watchlist):
     stock["sorting"] = 0
     if stock["action"] == "long":
-        if "trailingPE" in stock and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+        if stock.get("trailingPE") is not None and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
             stock["sorting"] = stock["sorting"] - 30 + stock["trailingPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if "forwardPE" in stock and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+        if stock.get("forwardPE") is not None and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
             stock["sorting"] = stock["sorting"] - 30 + stock["forwardPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if "trailingPegRatio" in stock and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+        if stock.get("trailingPegRatio") is not None and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
             stock["sorting"] = stock["sorting"] - (1/stock["trailingPegRatio"]*30)
         else:
             stock["sorting"] = stock["sorting"] + 20
         stock["sorting"] = stock["sorting"] - 30 + stock["rsi"]
+        if stock.get("priceToBook") is not None and stock["priceToBook"] < 2:
+            stock["sorting"] = stock["sorting"] - 10
+        if stock.get("quickRatio") is not None and stock["quickRatio"] > 1:
+            stock["sorting"] = stock["sorting"] - 5
+        if stock.get("currentRatio") is not None and stock["currentRatio"] > 1:
+            stock["sorting"] = stock["sorting"] - 5
     if stock["action"] == "short":
-        if "trailingPE" in stock and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+        if stock.get("trailingPE") is not None and stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
             stock["sorting"] = stock["sorting"] + 30 - stock["trailingPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if "forwardPE" in stock and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+        if stock.get("forwardPE") is not None and stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
             stock["sorting"] = stock["sorting"] + 30 - stock["forwardPE"]
         else:
             stock["sorting"] = stock["sorting"] + 20
-        if "trailingPegRatio" in stock and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+        if stock.get("trailingPegRatio") is not None and stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
             stock["sorting"] = stock["sorting"] + (1/stock["trailingPegRatio"]*30)
         else:
             stock["sorting"] = stock["sorting"] + 20
         stock["sorting"] = stock["sorting"] + 100 - stock["rsi"]
+        if stock.get("priceToBook") is not None and stock["priceToBook"] < 2:
+            stock["sorting"] = stock["sorting"] + 30
+        if stock.get("quickRatio") is not None and stock["quickRatio"] < 1:
+            stock["sorting"] = stock["sorting"] - 15
+        if stock.get("currentRatio") is not None and stock["currentRatio"] < 1:
+            stock["sorting"] = stock["sorting"] - 15
     watchlist[index] = stock
 # sort watchlist by sorting
 watchlist.sort(key=lambda x: x["sorting"])
-
-# header
-header = ["ticker", "name", "rsi", "trailingPE", "forwardPE", "pegRatio"]
 
 # Transform watchlist to DataFrame
 df_watchlist = pd.DataFrame(watchlist)
