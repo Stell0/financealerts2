@@ -51,6 +51,8 @@ def retrieve_daily_prices(ticker, period = None, start=None, end=None):
                                 combined_df = pd.concat([cached_df, new_df])
                                 # Remove duplicates based on index (date)
                                 combined_df = combined_df[~combined_df.index.duplicated(keep='last')]
+                                # keep only the last 365 days
+                                combined_df = combined_df.tail(365)
                                 combined_df.to_csv(cache_file)
                                 return combined_df
                         
