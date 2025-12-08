@@ -68,7 +68,7 @@ for stock in stocks:
     if stock["rsi"] > 70 or stock["rsi"] < 30:
         # get additional information
         info = yf.Ticker(stock["ticker"]).info
-        for key in['trailingPE', 'forwardPE', 'pegRatio']:
+        for key in['trailingPE', 'forwardPE', 'trailingPegRatio']:
             if key in info:
                 stock[key] = info[key]
         
@@ -96,6 +96,38 @@ if watchlist != old_report:
 else:
     print("Report has not changed")
 
+# add sorting value
+for index, stock in enumerate(watchlist):
+    stock["sorting"] = 0
+    if stock["action"] == "long":
+        if stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+            stock["sorting"] = stock["sorting"] - 30 + stock["trailingPE"]
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+        if stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+            stock["sorting"] = stock["sorting"] - 30 + stock["forwardPE"]
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+        if stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+            stock["sorting"] = stock["sorting"] - (1/stock["trailingPegRatio"]*20)
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+    if stock["action"] == "short":
+        if stock["trailingPE"] > 0 and stock["trailingPE"] < 30:
+            stock["sorting"] = stock["sorting"] + 30 - stock["trailingPE"]
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+        if stock["forwardPE"] > 0 and stock["forwardPE"] < 30:
+            stock["sorting"] = stock["sorting"] + 30 - stock["forwardPE"]
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+        if stock["trailingPegRatio"] > 0 and stock["trailingPegRatio"] < 2:
+            stock["sorting"] = stock["sorting"] + (1/stock["trailingPegRatio"]*20)
+        else:
+            stock["sorting"] = stock["sorting"] + 20
+
+# sort watchlist by sorting
+watchlist.sort(key=lambda x: x["sorting"])
 
 # header
 header = ["ticker", "name", "rsi", "trailingPE", "forwardPE", "pegRatio"]
