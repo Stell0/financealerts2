@@ -92,6 +92,8 @@ for stock in stocks:
     df = indicators.rsi(df)
 
     stock["rsi"] = df.loc[df.index[-1], "RSI"]
+
+    # condition to watchlist
     if stock["rsi"] > 70 or stock["rsi"] < 30:
         # get additional information
         info = yf.Ticker(stock["ticker"]).info
@@ -101,12 +103,18 @@ for stock in stocks:
                     stock[key] = info[key]
                 else:
                     stock[key] = None
-       
-    if stock["rsi"] > 70:
-        stock["action"] = "short"
-        watchlist.append(stock)
-    if stock["rsi"] < 30:
-        stock["action"] = "long"
+
+        # skip SPAC
+        if 'ipoExpectedDate' in info:
+            print(f"skipped {stock[ticker]}: it's a SPAC")
+            continue
+
+        if stock["rsi"] > 70:
+            stock["action"] = "short"
+        if stock["rsi"] < 30:
+            stock["action"] = "long"
+
+        # TODO: add other info
         watchlist.append(stock)
 
 # sort watchlist by ticker
