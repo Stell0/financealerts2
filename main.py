@@ -106,7 +106,7 @@ for stock in stocks:
 
         # skip SPAC
         if 'ipoExpectedDate' in info:
-            print(f"skipped {stock[ticker]}: it's a SPAC")
+            print(f"skipped {stock['ticker']}: it's a SPAC")
             continue
 
         if stock["rsi"] > 70:
