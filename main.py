@@ -105,7 +105,7 @@ for stock in stocks:
                     stock[key] = None
 
         # skip SPAC
-        if 'ipoExpectedDate' in info:
+        if 'ipoExpectedDate' in stock and stock['ipoExpectedDate'] is not None:
             print(f"skipped {stock['ticker']}: it's a SPAC")
             continue
 
