@@ -51,7 +51,7 @@ if '-l' in sys.argv or '--list-tickers' in sys.argv:
 watchlist=[]
 
 if '-t' in sys.argv or '--test' in sys.argv:
-    stocks = [{"ticker":"ASH","name":"Dummy"}]
+    stocks = [{"ticker":sys.argv[sys.argv.index('-t')+1] if '-t' in sys.argv else sys.argv[sys.argv.index('--test')+1],"name":"Dummy"}]
 
 header = [
     "ticker",
@@ -96,7 +96,11 @@ for stock in stocks:
     # condition to watchlist
     if stock["rsi"] > 70 or stock["rsi"] < 30:
         # get additional information
-        info = yf.Ticker(stock["ticker"]).info
+        try:
+            info = yf.Ticker(stock["ticker"]).info
+        except Exception as e:
+            print(f"Error retrieving info for {stock['ticker']}: {e}")
+            continue
         for key in header:
             if not key in stock:
                 if key in info:
@@ -105,7 +109,7 @@ for stock in stocks:
                     stock[key] = None
 
         # skip SPAC
-        if 'ipoExpectedDate' in stock and stock['ipoExpectedDate'] is not None:
+        if 'ipoExpectedDate' in info and info['ipoExpectedDate'] is not None:
             print(f"skipped {stock['ticker']}: it's a SPAC")
             continue
 
@@ -188,6 +192,13 @@ df_watchlist = pd.DataFrame(watchlist)
 for col in header:
     if col not in df_watchlist.columns:
         df_watchlist[col] = None
+
+# add current date in gg/mm/yyyy format to the "Ticker" header
+from datetime import datetime
+now = datetime.now()
+new_ticker_header = "Ticker "+now.strftime("%d/%m/%Y")
+df_watchlist.rename(columns={"ticker": new_ticker_header}, inplace=True)
+header[0] = new_ticker_header
 
 # write data/long.csv and data/short.csv
 if "action" in df_watchlist.columns:
