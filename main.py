@@ -203,10 +203,10 @@ for col in header:
     if col not in df_watchlist.columns:
         df_watchlist[col] = None
 
-# add current date in gg/mm/yyyy format to the "Ticker" header
+# add current date in gg/mm/yyyy hh:mm format to the "Ticker" header
 from datetime import datetime
 now = datetime.now()
-new_ticker_header = "Ticker "+now.strftime("%d/%m/%Y")
+new_ticker_header = "Ticker "+now.strftime("%d/%m/%Y %H:%M")
 df_watchlist.rename(columns={"ticker": new_ticker_header}, inplace=True)
 header[0] = new_ticker_header
 
