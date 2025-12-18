@@ -93,13 +93,13 @@ for stock in stocks:
 
     stock["rsi"] = df.loc[df.index[-1], "RSI"]
 
-    # skip if less than 300 days of data
-    if len(df) < 300:
+    # skip if less than 200 days of data
+    if len(df) < 200:
         print(f"skipped {stock['ticker']}: less than 300 days of data")
         continue
 
     # skip if last price is less than $5
-    if float(df.loc[df.index[-1], "close"]) < 5:
+    if float(df.loc[df.index[-1], "Close"]) < 5:
         print(f"skipped {stock['ticker']}: price less than $5")
         continue
 
