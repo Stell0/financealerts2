@@ -29,35 +29,30 @@ def retrieve_daily_prices(ticker, period = None, start=None, end=None):
                 else:
                     
                     if not cached_df.empty:
-                        last_date = cached_df.index[-1].date()
+
                         today = datetime.today().date()
-                        # Download data from last value to today
-                        if last_date < today:
-                            # Download from last_date (overlap is fine/safer to ensure continuity)
-                            # User said "from last value to today"
-                            # remove the last value (row)
-                            cached_df = cached_df.iloc[:-1]
-                            last_date = cached_df.index[-1].date()
-                            fetch_start = last_date
-                            fetch_end = today + timedelta(days=1) # end is exclusive usually in yfinance, or just use today()
-                            
-                            new_df = yf.download(ticker, start=fetch_start, end=fetch_end, progress=False, auto_adjust=True, timeout=30)
-                            
-                            # Flatten columns if MultiIndex
-                            if isinstance(new_df.columns, pd.MultiIndex):
-                                new_df.columns = new_df.columns.get_level_values(0)
-                            
-                            if not new_df.empty:
-                                combined_df = pd.concat([cached_df, new_df])
-                                # Remove duplicates based on index (date)
-                                combined_df = combined_df[~combined_df.index.duplicated(keep='last')]
-                                # keep only the last 365 days
-                                combined_df = combined_df.tail(365)
-                                combined_df.to_csv(cache_file)
-                                return combined_df
+                        new_cached_df = cached_df.iloc[:-1]
+                        last_date = new_cached_df.index[-1].date()
+                        fetch_start = last_date
+                        fetch_end = today + timedelta(days=1) # end is exclusive usually in yfinance, or just use today()
+                        
+                        new_df = yf.download(ticker, start=fetch_start, end=fetch_end, progress=False, auto_adjust=True, timeout=30)
+                        
+                        # Flatten columns if MultiIndex
+                        if isinstance(new_df.columns, pd.MultiIndex):
+                            new_df.columns = new_df.columns.get_level_values(0)
+                        
+                        if not new_df.empty:
+                            combined_df = pd.concat([new_cached_df, new_df])
+                            # Remove duplicates based on index (date)
+                            combined_df = combined_df[~combined_df.index.duplicated(keep='last')]
+                            # keep only the last 365 days
+                            combined_df = combined_df.tail(365)
+                            combined_df.to_csv(cache_file)
+                            return combined_df
                         
                         return cached_df
-            
+
         except Exception as e:
             print(f"Warning: Could not load cache for {ticker}: {e}. Fetching fresh data.")
             # Fall through to fetch fresh data
