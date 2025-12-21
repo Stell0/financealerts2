@@ -1,4 +1,4 @@
-Ticker 21/12/2025 01:15,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 21/12/2025 02:15,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 AIZ,"Assurant, Inc. Common Stock",75.54486612347404,2.0835621,0.964,8.59,265.0,246.0,255.66667,255.5,1.57143,buy,41.099,0.146,0.41,38.316,0.020539999,0.15413,1.027,0.089,0.11491,0.11153,1.6 - Buy,
 CRAI,"CRA International,Inc.",75.37140718529633,6.779221,2.109,15.84,260.0,239.0,249.5,249.5,,none,3.428,0.784,0.902,96.369,0.08642,0.27862,0.036,0.108,0.31456,0.09259,,
 KINS,"Kingstone Companies, Inc",75.12036297855627,2.226311,1.097,5.353,22.0,22.0,22.0,22.0,,none,1.892,0.256,0.609,4.558,0.061550003,0.37587002,0.345,0.365,0.22747,0.24759,,
@@ -91,7 +91,7 @@ INBS,Intelligent Bio Solutions Inc. ,72.08068189438688,1.5427135,1.793,-0.624,,,
 FOXA,Fox Corporation,72.0310600400204,2.6146672,2.132,9.862,97.0,55.0,72.59375,72.0,2.10526,buy,9.839,2.917,3.238,60.136,0.087299995,0.17272,-0.258,0.049,0.35753,0.26323998,2.1 - Buy,
 TM,Toyota Motor Corporation Common Stock,71.92379587840063,12.030775,0.542,4.337,240.0,221.0,230.64238,230.92715,2.33333,buy,1298.072,1.059,1.255,103.659,0.028959999,0.12938,0.665,0.082,0.17952,0.06783,2.3 - Buy,
 FOX,Fox Corporation,71.83573834716987,2.3170242,1.912,8.844,,,,,,none,9.839,2.917,3.238,60.136,0.087299995,0.17272,-0.258,0.049,0.35753,0.26323998,,
-MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),71.32731955271183,-20.150486,6.879,-4936.124,314.0,220.0,265.33334,264.0,2.125,buy,2.021,0.193,0.387,,-0.00202,,,-0.26,0.32944,-0.69511,2.1 - Buy,
+MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),71.32731955271186,-20.150486,6.879,-4936.124,314.0,220.0,265.33334,264.0,2.125,buy,2.021,0.193,0.387,,-0.00202,,,-0.26,0.32944,-0.69511,2.1 - Buy,
 SPNS,Sapiens International Corporation N.V.,71.30849482597945,4.7326,4.262,25.734,43.5,43.5,43.5,43.5,3.0,hold,1.47,1.516,1.516,8.258,0.06784,0.12952,-0.238,0.112,0.44300997,0.1166,3.0 - Hold,
 SQM,Sociedad Quimica y Minera S.A. Common Stock,71.2180290397708,3.5764072,5.09,17.056,80.0,37.0,66.6875,72.5,2.47059,buy,8.352,1.757,2.823,85.413,0.050240003,0.09955,0.358,0.089,0.27606001,0.24443,2.5 - Buy,
 SNBR,Sleep Number Corporation,71.15072719920964,-0.36807135,0.785,15.274,6.0,5.0,5.5,5.5,,none,0.055,0.03,0.189,,0.01198,,,-0.196,0.6005,-0.00339,,
@@ -108,7 +108,7 @@ RKLB,Rocket Lab Corporation,70.34711825469637,27.32274,67.099,-193.558,85.0,47.0
 ANNX,"Annexon, Inc.",70.25041748481978,3.6875894,,-2.11,27.0,8.0,14.0,11.0,,none,1.578,4.33,4.425,16.686,-0.44954,-0.83985,,,0.0,0.0,,
 G,Genpact Limited Common Stock,70.20196867447326,3.246155,1.786,10.627,58.0,42.0,50.36364,50.0,2.25,buy,4.32,1.386,1.514,56.161,0.08776,0.22323999,0.122,0.066,0.35823002,0.15859,2.3 - Buy,
 MATX,"Matson, Inc. Common Stock",70.1792265557484,1.4455484,1.334,6.785,180.0,142.0,161.0,161.0,1.0,strong_buy,2.973,0.686,0.827,26.736,0.06934,0.16382,-0.28,-0.085,0.23288,0.17884001,1.0 - Strong Buy,
-PLMKU,Plum Acquisition Corp. IV,99.92469346678897,-37.266186,,,,,,,,none,0.019,1.046,1.309,,,,,,0.0,0.0,,
+PLMKU,Plum Acquisition Corp. IV,99.92469346678884,-37.266186,,,,,,,,none,0.019,1.046,1.309,,,,,,0.0,0.0,,
 FDX,FedEx Corporation Common Stock,72.56749383499563,2.4116247,,,360.0,210.0,298.10715,309.0,2.0,buy,,1.167,1.274,,0.05073,0.15886,-0.133,0.139,0.27618,0.0764,2.0 - Buy,1.2863
 EPAM,"EPAM Systems, Inc. Common Stock",70.1462341210056,3.099366,1.977,15.053,255.0,160.0,210.82353,215.0,1.83333,buy,22.431,2.852,3.022,4.165,0.07743,0.10207,-0.194,0.194,0.28932,0.10682,1.8 - Buy,1.3741
 EXLS,"ExlService Holdings, Inc.",70.95335764869168,7.1905236,3.398,19.537,56.0,49.0,52.28571,52.0,1.66667,buy,2.458,2.569,2.905,45.835,0.11472999,0.25962,0.098,0.122,0.38236,0.14375,1.7 - Buy,1.3061
