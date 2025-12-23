@@ -12,6 +12,22 @@ def retrieve_daily_prices(ticker, period = None, start=None, end=None):
     safe_ticker = _sanitize_ticker_filename(ticker)
     cache_file = f'data/{safe_ticker}.csv'
 
+    def _flatten_columns(df: pd.DataFrame) -> pd.DataFrame:
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns = df.columns.get_level_values(0)
+        return df
+
+    def _apply_window(df: pd.DataFrame) -> pd.DataFrame:
+        if df.empty:
+            return df
+        if start is not None or end is not None:
+            start_ts = pd.to_datetime(start) if start is not None else None
+            end_ts = pd.to_datetime(end) if end is not None else None
+            return df.loc[start_ts:end_ts]
+        if isinstance(period, int):
+            return df.tail(period)
+        return df
+
     # Check for existing cache
     if os.path.exists(cache_file):
         try:
@@ -27,64 +43,67 @@ def retrieve_daily_prices(ticker, period = None, start=None, end=None):
                     # Attempt to handle bad format or just discard
                     print(f"Warning: Cache for {ticker} seems corrupted or in old format. Ignoring.")
                 else:
-                    
                     if not cached_df.empty:
+                        cached_df = cached_df.sort_index()
 
-                        today = datetime.today().date()
-                        new_cached_df = cached_df.iloc[:-1]
-                        last_date = new_cached_df.index[-1].date()
-                        fetch_start = last_date
-                        fetch_end = today + timedelta(days=1) # end is exclusive usually in yfinance, or just use today()
-                        
-                        new_df = yf.download(ticker, start=fetch_start, end=fetch_end, progress=False, auto_adjust=True, timeout=30)
-                        
-                        # Flatten columns if MultiIndex
-                        if isinstance(new_df.columns, pd.MultiIndex):
-                            new_df.columns = new_df.columns.get_level_values(0)
-                        
+                        overlap_days = 5
+                        last_ts = cached_df.index[-1]
+                        fetch_start = (last_ts.to_pydatetime() - timedelta(days=overlap_days))
+
+                        if end is None:
+                            fetch_end = datetime.today() + timedelta(days=1)
+                        else:
+                            fetch_end = pd.to_datetime(end).to_pydatetime() + timedelta(days=1)
+
+                        new_df = yf.download(
+                            ticker,
+                            start=fetch_start,
+                            end=fetch_end,
+                            progress=False,
+                            auto_adjust=True,
+                            timeout=30,
+                        )
+                        new_df = _flatten_columns(new_df)
+
                         if not new_df.empty:
-                            combined_df = pd.concat([new_cached_df, new_df])
-                            # Remove duplicates based on index (date)
+                            combined_df = pd.concat([cached_df, new_df])
                             combined_df = combined_df[~combined_df.index.duplicated(keep='last')]
-                            # keep only the last 365 days
-                            combined_df = combined_df.tail(365)
+                            combined_df = combined_df.sort_index()
                             combined_df.to_csv(cache_file)
-                            return combined_df
-                        
-                        return cached_df
+                            return _apply_window(combined_df)
+
+                        return _apply_window(cached_df)
 
         except Exception as e:
             print(f"Warning: Could not load cache for {ticker}: {e}. Fetching fresh data.")
             # Fall through to fetch fresh data
 
     # Fallback / No Cache logic
-    # "otherwise, download last year of data" if not specified
+    # Default when not specified: fetch one year, but do NOT truncate what gets cached.
     if start is None and period is None:
         start = datetime.today() - timedelta(days=365)
-    elif period is not None and start is None:
-        # If period is provided (e.g. "1y" or int 14), calculate start? 
-        # yf.download handles 'period' argument if start is not provided.
-        # But original code calculated start from period.
-        if isinstance(period, int):
-             start = datetime.today() - timedelta(days=period)
-             period = None # Use calculated start
-        # else let yf handle period string
-    
+
     if end is None:
-        end = datetime.today()
+        end_fetch = datetime.today() + timedelta(days=1)
+    else:
+        end_fetch = pd.to_datetime(end).to_pydatetime() + timedelta(days=1)
 
-    # Download
-    df = yf.download(ticker, start=start, end=end, period=period, progress=False, auto_adjust=True, timeout=30)
+    df = yf.download(
+        ticker,
+        start=start,
+        end=end_fetch,
+        period=period,
+        progress=False,
+        auto_adjust=True,
+        timeout=30,
+    )
+    df = _flatten_columns(df)
 
-    # Flatten columns if MultiIndex
-    if isinstance(df.columns, pd.MultiIndex):
-        df.columns = df.columns.get_level_values(0)
-
-    # Save to cache
     if not df.empty:
+        df = df.sort_index()
         df.to_csv(cache_file)
 
-    return df
+    return _apply_window(df)
 
 def retrieve_hourly_prices(ticker, period = None, start=None, end=None):
     # set period to 14 days if not specified

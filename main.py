@@ -4,43 +4,9 @@ import sys
 import yahoo_finance_api
 import indicators
 import yfinance as yf
+import universe
 
-other_listed = "https://raw.githubusercontent.com/datasets/nyse-other-listings/refs/heads/main/data/other-listed.csv"
-nasdaq_listed = "https://raw.githubusercontent.com/datasets/nasdaq-listings/refs/heads/main/data/nasdaq-listed-symbols.csv"
-
-df = pd.read_csv(other_listed)
-df2 = pd.read_csv(nasdaq_listed)
-
-df.dropna(inplace=True)
-df2.dropna(inplace=True)
-
-# df header:
-# ACT Symbol,Company Name,Security Name,Exchange,CQS Symbol,ETF,Round Lot Size,Test Issue,NASDAQ Symbol
-
-# df2 header:
-# Symbol,Company Name,Security Name,Market Category,Test Issue,Financial Status,Round Lot Size,ETF,NextShares
-
-stocks = []
-
-for index, row in df.iterrows():
-    if row["Exchange"] not in ['A', 'N', 'P']:
-        continue
-    if row["ETF"] == 'Y':
-        continue
-    if '$' in row["ACT Symbol"]:
-        continue
-    if not 'common share' in row["Company Name"].lower() and not 'common stock' in row["Company Name"].lower():
-        continue
-    stocks.append({"ticker": row["ACT Symbol"], "name": row["Company Name"]})
-
-for index, row in df2.iterrows():
-    if row["ETF"] == 'Y':
-        continue
-    if row["Financial Status"] != 'N':
-        continue
-    if row["Test Issue"] == 'Y':
-        continue
-    stocks.append({"ticker": row["Symbol"], "name": row["Company Name"]})
+stocks = universe.load_us_listed_common_stocks()
     
 
 if '-l' in sys.argv or '--list-tickers' in sys.argv:
