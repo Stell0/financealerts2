@@ -1,4 +1,4 @@
-Ticker 02/01/2026 01:20,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 02/01/2026 02:09,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 LW,"Lamb Weston Holdings, Inc. Common Stock ",17.9171790581892,3.3159184,1.495,7.863,80.0,46.0,54.63636,53.0,2.36364,buy,0.595,0.588,1.433,224.846,0.06905,0.23164,,0.011,0.22104,0.09474,2.4 - Buy,0.6847
 MPC,Marathon Petroleum Corporation Common Stock,23.698096042799047,2.863154,0.653,10.518,220.0,163.0,200.66667,203.5,2.15789,buy,8.829,0.702,1.315,143.175,0.03866,0.18887,1.412,-0.008,0.093109995,0.049689997,2.2 - Buy,0.9093
 ACM,AECOM Common Stock,24.086866100422906,5.040182,0.901,11.786,155.0,100.0,138.08333,144.5,1.61538,buy,12.097,1.016,1.135,124.795,0.05488,0.28088,-0.291,0.016,0.07539,0.070199996,1.6 - Buy,1.0608
@@ -28,7 +28,7 @@ PARR,"Par Pacific Holdings, Inc.  Common Stock",29.32954876958018,1.2648933,0.40
 EXPI,"eXp World Holdings, Inc.",25.433709186213548,6.1107364,0.283,-263.624,13.0,13.0,13.0,13.0,,none,0.71,1.058,1.446,,-0.0208,-0.08093,,0.069,0.07136,0.0030500002,,
 LENZ,"LENZ Therapeutics, Inc.",26.313989215592056,2.3588383,17.11,-4.423,62.0,36.0,53.71429,56.0,1.14286,strong_buy,6.461,12.458,12.687,0.492,-0.19524,-0.28779,,,1.0,-1.51096,1.1 - Strong Buy,
 XGN,Exagen Inc.,26.51843366026469,7.543424,2.049,-12.357,18.0,12.0,15.42857,15.0,1.0,strong_buy,1.573,3.626,4.08,155.293,-0.14655,-1.22808,,0.379,0.59859,-0.17977,1.0 - Strong Buy,
-TLX,Telix Pharmaceuticals Limited,26.598048889352878,6.0064154,4.134,75.42,22.5669,20.220766,21.407045,21.420258,1.0,strong_buy,0.612,1.108,1.333,99.126,0.02081,0.03137,,0.589,0.53938997,-0.0029699998,1.0 - Strong Buy,
+TLX,Telix Pharmaceuticals Limited,26.598048889352878,6.0064154,4.134,75.42,22.58957,20.241077,21.428549,21.441774,1.0,strong_buy,0.612,1.108,1.333,99.126,0.02081,0.03137,,0.589,0.53938997,-0.0029699998,1.0 - Strong Buy,
 ZS,"Zscaler, Inc.",27.222913308368334,18.093475,12.136,-507.845,390.0,215.0,326.77557,330.0,1.62,buy,20.827,1.681,1.824,92.65,-0.01361,-0.02407,,0.255,0.76767,-0.03875,1.6 - Buy,2.9556
 FRHC,Freedom Holding Corp.,28.731022389735905,6.09375,4.255,,,,,,,none,38.857,1.073,1.257,130.027,0.00051,0.0039399997,-0.667,-0.068,0.76021004,0.1427,,
 CACI,"CACI International, Inc. Class A Common Stock",28.78171572194631,2.9111006,1.675,14.589,759.0,585.0,657.5,643.5,1.5,strong_buy,6.075,1.293,1.545,79.59,0.0631,0.13142,0.056,0.112,0.32626,0.09279,1.5 - Strong Buy,
@@ -36,7 +36,7 @@ NEU,NewMarket Corp Common Stock,29.249948114620672,3.8205733,2.63,9.771,,,,,,non
 RARE,Ultragenyx Pharmaceutical Inc.,29.332502062389786,242.10527,4.218,-5.229,128.0,23.0,70.95,70.5,1.33333,strong_buy,4.416,1.593,1.892,5341.376,-0.24919,-3.13433,,0.147,-0.25978002,-1.0685099,1.3 - Strong Buy,
 SMR,NuScale Power Corporation Class A Common Stock,29.469415444271856,2.8655207,20.19,-9.75,60.0,15.0,35.5,32.0,2.5625,hold,4.126,1.586,1.615,,-0.14701,-2.97544,,16.352,0.66764,-5.26838,2.6 - Hold,
 SCLX,Scilex Holding Company,29.477601169780677,-0.4101116,3.384,-0.527,,,,,,none,0.148,0.036,0.046,,-0.87428004,,,-0.269,0.68593,-17.66212,,
-SOUN,"SoundHound AI, Inc.",29.560917270578475,10.4617,26.443,-25.95,26.0,15.0,17.1875,16.0,1.44444,strong_buy,0.64,4.967,5.149,1.208,-0.18135001,-0.89946,,0.676,0.39745998,-1.08792,1.4 - Strong Buy,
+SOUN,"SoundHound AI, Inc.",29.560917270578475,10.4617,26.443,-25.95,26.0,15.0,17.1875,16.0,,none,0.64,4.967,5.149,1.208,-0.18135001,-0.89946,,0.676,0.39745998,-1.08792,,
 WKHS,"Workhorse Group, Inc.",29.830138798667665,0.2814176,,,,,,,,none,,,,,,,,,0.0,0.0,,
 CXT,"Crane NXT, Co. Common Stock",26.90608135014217,2.2262688,2.289,9.584,85.0,62.0,76.33333,80.0,,none,3.176,0.903,1.263,90.334,0.06475,0.13595,0.074,0.103,0.43201,0.2067,,
 AEYE,"AudioEye, Inc.",22.093806187191213,21.956043,3.357,-96.677,25.0,19.0,22.2,22.0,,none,0.366,0.916,0.998,234.047,-0.062989995,-0.54034,,0.146,0.78609,-0.03501,,

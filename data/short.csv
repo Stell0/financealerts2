@@ -1,4 +1,4 @@
-Ticker 02/01/2026 01:20,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 02/01/2026 02:09,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 PACS,"PACS Group, Inc. Common Stock",78.65749299955354,6.9009523,1.813,27.394,47.0,40.0,42.6,42.0,1.4,strong_buy,2.271,0.877,0.941,416.688,0.035350002,0.21749,2.2,0.31,0.14936,0.06416,1.4 - Strong Buy,1.2304
 SATS,EchoStar Corporation,73.37206287860329,4.500476,3.872,44.926,131.0,85.0,112.42857,111.0,2.28571,buy,13.598,0.506,0.606,447.051,-0.00638,-0.97757006,,-0.071,0.24519,-0.04438,2.3 - Buy,1.2717
 EXEEZ,Expand Energy Corporation,99.66945574424614,1.4071275,,,,,,,,none,2.574,0.593,0.81,27.95,0.050669998,0.061189998,,3.193,0.43203998,0.29054,,
@@ -31,10 +31,10 @@ FRGE,"Forge Global Holdings, Inc. Common Stock",76.13563114652857,3.0106075,6.02
 VTVT,vTv Therapeutics Inc.,75.9837038214496,7.0343013,23416.328,-13.368,47.0,35.0,40.66667,40.0,1.66667,buy,7.938,9.692,9.786,0.51,-0.26125,-0.64165,,,0.0,-1753.8236,1.7 - Buy,
 HYMC,Hycroft Mining Holding Corporation,74.26681148739165,27.32184,,-54.594,,,,,,none,1.73,18.399,19.039,282.689,-0.12251,-3.7460501,,,0.0,0.0,,
 CBLL,"CeriBell, Inc.",74.25494665981131,4.9514565,8.046,-12.054,32.0,24.0,28.14286,29.0,,none,4.543,11.918,12.645,13.008,-0.28738,-0.59781,,0.314,0.87991995,-0.64841,,
-RY,Royal Bank Of Canada Common Stock,74.00153506998414,2.5659018,-0.672,,172.05597,143.5256,162.4807,171.86052,1.75,buy,574.784,,,,0.00906,0.15295,0.292,0.138,0.0,0.44803002,1.8 - Buy,
+RY,Royal Bank Of Canada Common Stock,74.00153506998414,2.5659018,-0.672,,172.0999,143.56224,162.52219,171.90439,1.75,buy,574.784,,,,0.00906,0.15295,0.292,0.138,0.0,0.44803002,1.8 - Buy,
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),74.00058663291301,-21.154003,7.167,-5142.708,314.0,220.0,265.33334,264.0,,none,2.021,0.193,0.387,,-0.00202,,,-0.26,0.32944,-0.69511,,
 OXLCG,Oxford Lane Capital Corp.,73.91594167539695,5.3076873,,,,,,,,none,0.612,2.306,2.307,32.529,0.08803,0.14243001,-0.65,0.345,1.0,0.72256,,
-VOD,Vodafone Group Plc,73.52758745199507,5.21865,9.487,43.317,13.34039,10.519878,11.409374,10.888614,3.75,underperform,0.552,1.122,1.166,95.225,0.013660001,-0.06616,-0.154,0.073,0.32867,0.10097,3.8 - Underperform,
+VOD,Vodafone Group Plc,73.52758745199507,5.21865,9.487,43.317,13.346669,10.52483,11.414744,10.893739,3.75,underperform,0.552,1.122,1.166,95.225,0.013660001,-0.06616,-0.154,0.073,0.32867,0.10097,3.8 - Underperform,
 GLSI,"Greenwich LifeSciences, Inc.",73.36175102226541,132.97469,,-14.669,50.0,45.0,47.5,47.5,1.0,strong_buy,0.275,2.347,2.347,,-2.54192,-5.43434,,,0.0,0.0,1.0 - Strong Buy,
 GGZ,Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest,73.27760947619707,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",73.11392620160929,1.0,19.065,,,,,,,none,0.049,0.181,0.181,42.025,0.0253,-0.026099999,,0.031,1.0,0.87819,,
@@ -62,7 +62,7 @@ CMTL,Comtech Telecommunications Corp.,78.32827193862997,1.8298166,1.142,16.362,6
 PHIN,PHINIA Inc. Common Stock,77.3119699401951,1.5195365,0.907,6.611,79.0,59.0,67.0,63.0,2.0,buy,9.078,1.115,1.716,65.952,0.04915,0.05471,-0.529,0.082,0.22118,0.10132,2.0 - Buy,
 EBMT,"Eagle Bancorp Montana, Inc.",76.76547473823734,0.8338571,3.021,,21.0,17.5,19.0,18.5,,none,3.784,,,,0.00635,0.07435,0.353,0.138,0.0,0.23455,,
 WHLRP,"Wheeler Real Estate Investment Trust, Inc.",76.6961760785778,-0.05717638,5.99,11.259,,,,,,none,44.128,1.582,3.464,529.393,0.03202,0.57748,,-0.039,0.67293,0.33525002,,
-TD,Toronto Dominion Bank (The) Common Stock,76.4254607864838,1.7484525,0.503,,95.60503,84.407524,91.58759,94.75024,2.13333,buy,391.69,,,,0.00988,0.16905001,-0.076,-0.011,0.0,0.3094,2.1 - Buy,
+TD,Toronto Dominion Bank (The) Common Stock,76.4254607864838,1.7484525,0.503,,95.630135,84.429695,91.61165,94.77512,2.13333,buy,391.69,,,,0.00988,0.16905001,-0.076,-0.011,0.0,0.3094,2.1 - Buy,
 GTLS,"Chart Industries, Inc. Common Stock",75.00266600727723,2.8950655,2.983,12.839,212.0,169.0,206.45454,210.0,3.0,hold,8.88,1.052,1.403,111.674,0.046550002,0.02525,,0.036,0.33808997,0.1769,3.0 - Hold,0.613
 FRST,Primis Financial Corp.,75.10486393666427,0.89701426,3.528,,16.25,15.0,15.625,15.625,,none,2.617,,,,0.00054000004,0.00551,4.576,0.378,0.0,0.21284,,
 MAYS,"J. W. Mays, Inc.",75.00366033596782,1.5356222,4.815,94.233,,,,,,none,1.086,1.161,1.71,54.351,-0.0049,-0.009430001,,-0.052,0.27948,-0.09295999,,
@@ -78,4 +78,4 @@ CNOBP,"ConnectOne Bancorp, Inc.",71.39546613111933,0.86062694,6.236,,,,,,,none,1
 FCNCA,"First Citizens BancShares, Inc.",71.1222034360758,1.283196,4.733,,2600.0,1950.0,2242.6924,2250.0,1.92308,buy,2116.914,,,,0.010249999,0.10381,-0.008,-0.037,0.0,0.37021,1.9 - Buy,
 JOF,Japan Smaller Capitalization Fund Inc Common Stock,70.01188387896559,1.1716189,38.505,,,,,,,none,0.008,1.344,1.344,,0.010650001,0.02834,,0.423,1.0,0.60345,,
 ASUR,Asure Software Inc,73.63393901070202,1.3526708,2.402,25.131,15.0,11.0,13.22222,13.0,1.22222,strong_buy,0.775,0.202,1.083,39.964,-0.01808,-0.08713,,0.237,0.67102,-0.09652001,1.2 - Strong Buy,0.5025
-TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),73.23655293637526,0.5402005,1.027,3.984,18.701094,16.876978,17.815937,17.869743,1.0,strong_buy,431.431,0.647,1.365,72.789,0.020920001,0.0047400002,,-0.054,0.64798,0.15292,1.0 - Strong Buy,0.3438
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),73.23655293637526,0.5402005,1.027,3.984,18.693571,16.87019,17.808771,17.862555,1.0,strong_buy,431.431,0.647,1.365,72.789,0.020920001,0.0047400002,,-0.054,0.64798,0.15292,1.0 - Strong Buy,0.3438
