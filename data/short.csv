@@ -1,4 +1,4 @@
-Ticker 17/01/2026 01:16,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 17/01/2026 02:13,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 VERO,Venus Concept Inc. ,93.25646998285265,5.5632825,0.535,-1.019,,,,,,none,2.319,0.419,0.905,1042.31,-0.32426998,-7.9455,,-0.082,0.64359003,-0.68931,,
 NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,81.00103046192267,4.1134233,9.369,15.413,43.0,29.0,32.9,32.0,3.375,hold,0.439,0.483,0.602,216.826,0.03085,0.06245,-0.052,0.001,0.72303003,0.36969003,3.4 - Hold,
 NRC,National Research Corporation,78.33356249066664,35.158226,4.033,16.186,,,,,,none,0.098,0.391,0.529,562.813,0.12925,0.66870004,-0.249,-0.034,0.62052,0.22358999,,
@@ -370,7 +370,6 @@ LPBB,Launch Two Acquisition Corp.,79.84056817730254,-28.969782,,,,,,,,none,0.017
 KF,"Korea Fund, Inc. (The) New Common Stock",79.3641327555179,1.3464217,84.835,,,,,,,none,0.114,1.644,1.707,,0.00035999998,0.06432,23.945,0.119,1.0,0.22071,,
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)",79.26630377636074,0.93822163,0.486,,,,,,,none,144.347,1.174,1.25,151.4,0.02359,0.096429996,-0.12,0.151,0.90822,0.15664,,
 VVX,"V2X, Inc. Common Stock",79.17761223125301,1.9853972,0.702,10.293,80.0,54.0,67.58333,65.0,2.33333,buy,5.686,1.073,1.202,105.527,0.03856,0.07697,0.638,0.079,0.085030004,0.0477,2.3 - Buy,
-MODG,Topgolf Callaway Brands Corp. Common Stock,78.74833339724665,1.0904769,1.548,12.805,18.0,10.0,13.27778,12.0,2.36364,buy,4.707,1.171,1.871,179.929,0.015859999,-0.46948,,-0.078,0.30915,0.03158,2.4 - Buy,
 FBNC,First Bancorp,78.6988842708591,1.4979568,5.193,,65.0,54.0,60.2,62.0,1.8,buy,14.421,,,,0.00794,0.06419,0.087,0.045,0.0,0.31741,1.8 - Buy,
 LAND,Gladstone Land Corporation,78.1721506973343,0.55028254,13.23,14.829,14.5,10.0,10.83333,10.0,,none,0.439,1.056,1.056,81.805,0.0076200003,0.014570001,,-0.21,0.79807,0.27277002,,
 DHC,Diversified Healthcare Trust ,78.02793234520983,0.84886724,2.517,16.316,6.5,5.0,5.75,5.75,2.33333,buy,0.832,8.479,17.062,162.322,-0.00505,-0.18844,,0.04,0.17485,-0.04104,2.3 - Buy,
