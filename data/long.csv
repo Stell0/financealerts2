@@ -1,4 +1,4 @@
-Ticker 01/03/2026 01:21,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 01/03/2026 02:25,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 RPD,"Rapid7, Inc.",17.966690848284056,2.6468086,1.051,15.704,15.53,6.5,10.38773,10.0,2.76923,hold,7.204,1.12,1.281,625.844,0.00448,0.27118,0.39,0.005,0.70337,0.010140001,2.8 - Hold,0.2806
 WGO,"Winnebago Industries, Inc. Common Stock",28.285713070254214,0.908656,0.53,11.397,76.0,40.0,49.33333,48.0,2.07143,buy,6.439,1.17,2.686,46.903,0.02031,0.02943,,0.123,0.13122,0.01964,2.1 - Buy,0.2841
 KKR,KKR & Co. Inc. Common Stock,26.217375841003843,2.871459,5.28,,187.0,112.0,140.87526,136.0,1.52381,buy,51.726,,,74.351,,0.08946,-0.018,0.775,0.57235,0.32793,1.5 - Buy,0.3749
@@ -26,7 +26,6 @@ CARS,Cars.com Inc. Common Stock ,19.752069053103156,1.0596849,1.265,5.116,25.0,9
 AMPH,"Amphastar Pharmaceuticals, Inc.",20.03995619244987,1.1706498,1.793,6.55,34.0,25.0,29.57143,30.0,2.28571,buy,6.233,2.804,4.021,83.164,0.05473,0.12898,-0.31,-0.018,0.4946,0.0683,2.3 - Buy,
 OACCU,Oaktree Acquisition Corp. III Life Sciences,20.365753825244845,-38.872726,,,,,,,,none,0.054,1.866,2.143,,,,,,0.0,0.0,,
 KROS,"Keros Therapeutics, Inc.",21.075998814345635,0.81947327,-0.988,-5.086,30.0,16.0,23.0,23.0,1.88889,buy,22.762,29.015,29.857,2.477,0.04395,0.10425,,35.758,0.37191,-1.07867,1.9 - Buy,
-SCM,Stellus Capital Investment Corporation Common Stock,21.15151057821173,0.76787496,8.907,,14.0,12.5,13.125,13.0,,none,0.312,1.011,1.027,167.401,0.0452,0.082049996,-0.6,-0.008,1.0,0.70789003,,
 EBS,Emergent BioSolutions Inc. Common Stock,21.31732200917015,0.8124813,1.065,3.803,15.0,12.0,13.5,13.5,1.0,strong_buy,3.942,2.191,5.011,109.472,0.05183,0.10463,,-0.236,0.56091,-0.105579995,1.0 - Strong Buy,
 FSK,FS KKR Capital Corp. Common Stock,21.552592395591038,0.5171423,6.88,,18.0,11.0,14.65625,15.0,2.81818,hold,0.743,2.516,2.797,130.518,0.05099,0.00176,,-0.145,1.0,0.75574994,2.8 - Hold,
 CION,CION Investment Corporation Common Stock,23.023853613957268,0.53690374,6.071,,12.5,8.5,10.66667,11.0,,none,0.076,1.226,1.317,139.613,0.06152,0.0322,,0.32,1.0,0.77656,,
@@ -73,7 +72,6 @@ CCAP,"Crescent Capital BDC, Inc.",28.548412844327302,0.66289663,7.987,,19.0,13.0
 ALLT,Allot Ltd.,23.65775129567609,2.7140412,2.28,30.39,19.0,8.5,13.375,13.0,1.2,strong_buy,1.666,2.295,2.65,5.064,0.01442,0.04542,8.773,0.14,0.71134,0.09053001,1.2 - Strong Buy,
 EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,23.666100593484785,0.86842316,10.306,,,,,,,none,0.095,0.093,0.094,52.409,0.04572,0.03737,-0.472,-0.181,1.0,0.89288,,
 BGX,Blackstone Long Short Credit Income Fund Common Shares,13.752048311562726,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-EXEEZ,Expand Energy Corporation,28.758516247760262,1.2760942,,,,,,,,none,2.562,0.792,1.005,27.495,0.05863,0.100659996,,0.383,0.45321998,0.27513,,
 CRBG,Corebridge Financial Inc. Common Stock,28.91593931475363,1.0092962,1.239,19.433,42.0,33.0,37.46154,37.0,1.8,buy,12.701,0.238,1.252,110.931,0.00098,-0.02967,-0.581,0.057,0.15619999,0.15122,1.8 - Buy,
 VYX,NCR Voyix Corporation Common Stock,29.05897885230363,1.114515,0.878,9.177,18.0,11.5,13.9375,13.0,1.5,strong_buy,1.67,0.658,1.036,114.805,0.0038800002,0.03556,,0.056,0.23595,0.023610001,1.5 - Strong Buy,
 CTEV,Claritev Corporation Class A Common Stock,24.152267921414758,-1.2821245,5.008,9.03,90.0,21.0,44.75,34.0,1.8,buy,1.016,0.604,0.858,,0.01121,,,0.062,0.73750997,0.09770001,1.8 - Buy,
@@ -94,7 +92,6 @@ RGEN,Repligen Corporation,28.136473499414333,3.4427152,9.716,51.279,220.0,152.0,
 BGB,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,18.25337688711384,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 WHR,Whirlpool Corporation Common Stock,28.271552146674207,1.4057397,0.679,10.167,145.0,51.0,92.125,80.0,2.9,hold,11.837,0.299,0.756,270.939,0.02724,0.120749995,,-0.009,0.1537,0.03416,2.9 - Hold,
 NMFC,New Mountain Finance Corporation,28.323884224015877,0.66417783,7.24,,10.0,8.0,9.5,10.0,3.14286,hold,0.801,0.481,0.555,140.661,0.05287,0.01332,,-0.151,1.0,0.80849,3.1 - Hold,
-TECTP,"Tectonic Financial, Inc.",28.43015001219655,0.56825936,-0.981,,,,,,,none,24.196,,,,0.01801,0.14836,0.259,0.111,0.0,0.33549,,
 BGH,Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests,18.63667452664695,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,28.66215007410315,1.0645679,10.752,,,,,,,none,0.057,0.293,0.453,8.4,0.05637,0.13112001,0.521,0.169,1.0,0.92316,,
 ZM,"Zoom Communications, Inc.",28.726392344436746,2.2348497,2.903,11.249,115.0,70.0,97.48148,95.0,2.0,buy,26.368,4.159,4.331,0.313,0.0612,0.20275,0.911,0.053,0.77015996,0.20040001,2.0 - Buy,4.0207
