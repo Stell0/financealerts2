@@ -1,6 +1,6 @@
-Ticker 09/03/2026 01:18,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 09/03/2026 02:06,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 PAGP,"Plains GP Holdings, L.P.",85.03331810848732,3.50206,0.649,12.303,26.0,17.0,21.38462,21.0,,none,1.662,0.801,0.96,80.81,0.02928,0.09134,,-0.122,0.06044,0.03512,,
-CNQ,Canadian Natural Resources Limited Common Stock,83.79383642645963,2.9505951,2.984,7.337,45.593597,34.04959,37.946926,36.072258,2.08696,buy,0.323,0.579,0.951,44.455,0.0574,0.25812998,3.723,0.015,0.48462,0.19555001,2.1 - Buy,3.4186
+CNQ,Canadian Natural Resources Limited Common Stock,83.79383642645963,2.9505951,2.984,7.337,45.607014,34.059612,37.95809,36.082874,2.08696,buy,0.323,0.579,0.951,44.455,0.0574,0.25812998,3.723,0.015,0.48462,0.19555001,2.1 - Buy,3.4186
 LNG,"Cheniere Energy, Inc. Common Stock",80.03512123771247,6.846907,4.318,8.023,301.0,232.0,272.77274,274.0,1.47826,strong_buy,5.233,0.641,0.943,202.217,0.12478,0.58726,1.464,0.123,0.53220004,0.75778997,1.5 - Strong Buy,9.4601
 WLY,"John Wiley & Sons, Inc. Common Stock",79.41709513293033,2.5772274,1.632,8.367,66.0,66.0,66.0,66.0,2.0,buy,1.853,0.427,0.594,119.943,0.06352,0.21511,,0.013,0.74129,0.16407,2.0 - Buy,
 WLYB,"John Wiley & Sons, Inc. Common Stock",79.26511458008906,2.51118,1.602,8.215,,,,,,none,1.853,0.427,0.594,119.943,0.06352,0.21511,,0.013,0.74129,0.16407,,
@@ -30,7 +30,7 @@ TECX,"Tectonic Therapeutic, Inc.",83.13139384382644,2.674271,,-5.093,101.0,60.0,
 MPC,Marathon Petroleum Corporation Common Stock,71.00535336984797,3.77019,0.77,10.559,230.0,163.0,199.83333,203.0,2.21053,buy,12.458,0.711,1.259,142.647,0.0497,0.24193001,3.507,-0.005,0.104779996,0.07005,2.2 - Buy,1.2373
 VRE,"Veris Residential, Inc. Common Stock",80.74091714013846,1.5289826,11.042,22.452,22.0,15.0,18.0,17.5,2.5,buy,0.151,0.04,0.119,107.285,0.01274,0.05945,,0.046,0.61715,0.21084999,2.5 - Buy,
 PAA,"Plains All American Pipeline, L.P.",80.6901314074067,1.996925,0.723,13.671,25.0,17.0,21.11765,21.0,2.47059,buy,0.465,0.796,0.96,87.829,0.0306,0.105900005,,-0.122,0.06044,0.034649998,2.5 - Buy,
-E,ENI S.p.A. Common Stock,74.92630995981874,2.551501,1.986,11.894,44.0,37.5,40.1,39.5,3.2,hold,5.07,0.856,1.327,64.792,0.028959999,0.050869998,-0.682,-0.122,0.19816999,0.0462,3.2 - Hold,0.9898
+E,ENI S.p.A. Common Stock,74.92630995981874,2.552819,1.986,11.894,44.0,37.5,40.1,39.5,3.2,hold,5.07,0.856,1.327,64.792,0.028959999,0.050869998,-0.682,-0.122,0.19816999,0.0462,3.2 - Hold,0.9898
 AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,79.28199237529442,1.0598997,34.642,,,,,,,none,0.002,0.034,0.038,9.049,0.01007,0.01764,-0.677,0.461,1.0,0.44662,,
 RAPT,"RAPT Therapeutics, Inc.",79.11828812678097,6.4345126,,-13.013,58.0,58.0,58.0,58.0,3.0,hold,5.678,11.764,12.041,1.708,-0.51347,-0.85369,,,0.0,0.0,3.0 - Hold,
 CHARU,Charlton Aria Acquisition Corporation,93.7892269472502,-68.77419,,,,,,,,none,0.001,0.243,1.082,,,,,,0.0,0.0,,
