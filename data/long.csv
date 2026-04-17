@@ -1,10 +1,10 @@
-Ticker 17/04/2026 01:28,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 17/04/2026 02:15,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 BKNG,Booking Holdings Inc.,9.523979913786427,-26.380789,5.511,14.674,309.84,179.8,232.62111,235.5,1.5641,buy,21.726,1.259,1.333,,0.20815,,0.384,0.16,0.87357,0.32446,1.6 - Buy,0.7673
-RCI,"Rogers Communication, Inc. Common Stock",29.721908995926405,1.4081366,3.128,7.249,51.37246,37.30194,41.79828,39.25936,2.23529,buy,2.671,0.5,0.606,184.53,0.038900003,0.39817002,0.302,0.126,0.45228,0.23785,2.2 - Buy,0.8618
-CLMB,"Climb Global Solutions, Inc.",20.321741022280804,3.5660846,0.584,10.099,32.5,30.0,31.5,32.0,,none,2.014,1.069,1.109,1.885,0.04034,0.20592,-0.006,0.198,0.16133,0.04947,,1.4428
+RCI,"Rogers Communication, Inc. Common Stock",29.721908995926405,1.4081366,3.128,7.249,51.375458,37.30412,41.80072,39.261654,2.23529,buy,2.671,0.5,0.606,184.53,0.038900003,0.39817002,0.302,0.126,0.45228,0.23785,2.2 - Buy,0.8618
+CLMB,"Climb Global Solutions, Inc.",20.321741022280808,3.5660846,0.584,10.099,32.5,30.0,31.5,32.0,,none,2.014,1.069,1.109,1.885,0.04034,0.20592,-0.006,0.198,0.16133,0.04947,,1.4428
 ABT,Abbott Laboratories Common Stock,26.9053279767409,3.1804252,4.113,15.151,158.0,113.0,131.44,131.0,1.68966,buy,5.144,1.023,1.576,26.787,0.066300005,0.12961,-0.809,0.044,0.56664,0.21616,1.7 - Buy,1.4695
-HSY,The Hershey Company Common Stock,29.19196323841823,8.37132,3.729,22.074,267.0,166.0,228.43478,230.0,2.68,hold,4.568,0.55,1.192,123.763,0.06892,0.1889,-0.598,0.07,0.33549,0.14703,2.7 - Hold,1.0996
-KCHVU,Kochav Defense Acquisition Corp.,23.346443512935007,-56.93989,,,,,,,,none,0.021,4.702,5.296,,,,,,0.0,0.0,,
+HSY,The Hershey Company Common Stock,29.191963238418232,8.37132,3.729,22.074,267.0,166.0,228.43478,230.0,2.68,hold,4.568,0.55,1.192,123.763,0.06892,0.1889,-0.598,0.07,0.33549,0.14703,2.7 - Hold,1.0996
+KCHVU,Kochav Defense Acquisition Corp.,23.346443512935036,-56.93989,,,,,,,,none,0.021,4.702,5.296,,,,,,0.0,0.0,,
 CRAQU,Cal Redwood Acquisition Corp.,26.147401117733914,-39.92157,,,,,,,,none,0.035,6.11,6.678,,,,,,0.0,0.0,,
 GYRO,"Gyrodyne , LLC",17.058345164571804,0.21136753,12.813,-11.387,,,,,,none,5.404,,,69.24,,,,-0.018,0.41651002,-1.21296,,
 VITL,"Vital Farms, Inc.",28.707939165501873,1.5903584,0.657,4.848,47.0,16.0,29.0,25.0,1.58333,buy,2.53,1.528,2.16,15.228,0.12581,0.21361999,0.513,0.287,0.37617,0.10026,1.6 - Buy,
