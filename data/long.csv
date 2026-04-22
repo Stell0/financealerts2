@@ -1,19 +1,19 @@
-Ticker 22/04/2026 01:25,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 22/04/2026 02:20,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 BKNG,Booking Holdings Inc.,9.86265856825041,-27.281305,5.697,15.167,309.84,179.8,232.05112,235.5,1.52632,buy,21.726,1.259,1.333,,0.20815,,0.384,0.16,0.87357,0.32446,1.5 - Buy,0.7935
 IIIN,"Insteel Industries, Inc. Common Stock",24.510602772060043,1.3356035,0.679,6.372,37.0,37.0,37.0,37.0,3.0,hold,0.776,1.386,3.712,0.834,0.07812,0.120459996,-0.485,0.075,0.13615,0.03928,3.0 - Hold,0.6839
-RCI,"Rogers Communication, Inc. Common Stock",28.15845148814022,1.3929365,3.119,7.228,51.52626,37.41362,41.92342,39.3769,2.23529,buy,2.671,0.5,0.606,184.53,0.038900003,0.39817002,0.302,0.126,0.45228,0.23785,2.2 - Buy,0.8618
+RCI,"Rogers Communication, Inc. Common Stock",28.15845148814022,1.3929365,3.119,7.228,51.533054,37.418552,41.928947,39.38209,2.23529,buy,2.671,0.5,0.606,184.53,0.038900003,0.39817002,0.302,0.126,0.45228,0.23785,2.2 - Buy,0.8618
 PODD,Insulet Corporation,27.00020591682954,8.934777,5.105,24.505,435.0,230.0,333.30435,340.0,1.5,strong_buy,10.172,1.813,2.814,66.176,0.09434,0.18124,0.039,0.312,0.71633005,0.18665001,1.5 - Strong Buy,1.0657
 CLMB,"Climb Global Solutions, Inc.",20.93752023305245,3.5146508,0.575,9.94,32.5,30.0,31.5,32.0,,none,2.014,1.069,1.109,1.885,0.04034,0.20592,-0.006,0.198,0.16133,0.04947,,1.4006
 HSY,The Hershey Company Common Stock,28.302996124113672,8.255392,3.683,21.802,260.0,166.0,225.47826,225.0,2.68,hold,4.568,0.55,1.192,123.763,0.06892,0.1889,-0.598,0.07,0.33549,0.14703,2.7 - Hold,1.0971
 TSCO,Tractor Supply Company,25.415683768783005,8.078808,1.89,14.956,65.0,40.0,54.59259,55.0,2.06667,buy,0.369,0.085,1.342,230.228,0.08844,0.45183998,-0.022,0.033,0.36424,0.07637,2.1 - Buy,1.8107
-ABT,Abbott Laboratories Common Stock,25.7706667207168,3.0888135,3.699,13.739,143.0,106.0,119.48,120.0,1.64286,buy,5.144,,,26.787,,,-0.197,0.078,0.56465,0.16499001,1.6 - Buy,1.414
-KCHVU,Kochav Defense Acquisition Corp.,23.346443512935096,-56.93989,,,,,,,,none,0.021,4.702,5.296,,,,,,0.0,0.0,,
-CRAQU,Cal Redwood Acquisition Corp.,26.14740111773392,-39.15385,,,,,,,,none,0.035,6.11,6.678,,,,,,0.0,0.0,,
+ABT,Abbott Laboratories Common Stock,25.77066672071682,3.0888135,3.699,13.739,143.0,106.0,119.48,120.0,1.64286,buy,5.144,,,26.787,,,-0.197,0.078,0.56465,0.16499001,1.6 - Buy,1.414
+KCHVU,Kochav Defense Acquisition Corp.,23.3464435129351,-56.93989,,,,,,,,none,0.021,4.702,5.296,,,,,,0.0,0.0,,
+CRAQU,Cal Redwood Acquisition Corp.,26.147401117733914,-39.15385,,,,,,,,none,0.035,6.11,6.678,,,,,,0.0,0.0,,
 GYRO,"Gyrodyne , LLC",22.91540693834849,0.21107799,12.807,-11.382,,,,,,none,5.404,,,69.24,,,,-0.018,0.41651002,-1.21296,,
 VRDN,"Viridian Therapeutics, Inc. ",24.39012602675119,2.464193,10.861,-2.12,50.0,20.0,33.5625,31.5,1.29412,strong_buy,8.558,12.372,12.649,7.283,-0.27667,-0.49161,,0.833,0.0,-956.4318,1.3 - Strong Buy,
 LNSR,"LENSAR, Inc.",29.91093842227087,-2.4654377,1.082,-3.151,10.0,7.0,8.5,8.5,1.0,strong_buy,1.486,0.6,1.153,,-0.22307,-10.694119,,-0.042,0.46414003,-1.1602501,1.0 - Strong Buy,
 PIPR,Piper Sandler Companies Common Stock,26.380082192332445,4.4905496,2.907,,99.0,87.5,94.875,96.5,2.0,buy,18.399,1.856,1.89,7.465,0.12126,0.19607,0.651,0.376,0.90628,0.29822,2.0 - Buy,
-AM,Antero Midstream Corporation Common Stock,27.706008431495917,4.954327,10.16,13.649,25.0,20.0,22.42857,23.0,3.375,hold,0.381,2.602,3.407,163.411,0.078600004,0.20216998,-0.526,0.031,0.81581,0.59470004,3.4 - Hold,
+AM,Antero Midstream Corporation Common Stock,27.70600843149595,4.954327,10.16,13.649,25.0,20.0,22.42857,23.0,3.375,hold,0.381,2.602,3.407,163.411,0.078600004,0.20216998,-0.526,0.031,0.81581,0.59470004,3.4 - Hold,
 MZTI,The Marzetti Company,27.863350051721675,3.3754613,1.709,11.066,232.0,165.0,189.0,180.0,2.33333,buy,7.351,1.69,2.72,3.753,0.113529995,0.17878,0.209,0.017,0.24072,0.14837,2.3 - Buy,
 NOC,Northrop Grumman Corporation Common Stock,23.216954180937513,5.204428,2.544,15.648,815.0,587.22,736.23724,757.5,2.125,buy,31.024,0.954,1.101,107.257,0.066360004,0.26167,0.152,0.096,0.19815001,0.16530001,2.1 - Buy,4.9834
 VCICU,Vine Hill Capital Investment Corp.,20.02086222602656,,,,,,,,,none,0.003,0.057,0.18,,-0.0106,,-0.473,,0.0,0.0,,
