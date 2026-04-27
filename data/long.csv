@@ -1,15 +1,28 @@
-Ticker 27/04/2026 01:30,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
-TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),29.459489889792785,1.0916263,1.074,3.763,21.827276,18.665472,20.442625,20.835127,1.0,strong_buy,414.623,0.541,1.194,70.93,0.02471,0.01503,3.302,0.042,0.65525,0.108459994,1.0 - Strong Buy,0.362
+Ticker 27/04/2026 02:07,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+CHTR,"Charter Communications, Inc.",29.252395171753147,1.4208413,2.239,5.546,435.0,150.0,265.2,235.0,2.89474,hold,4.204,0.325,0.401,455.672,0.05448,0.27504998,0.089,-0.01,0.55253,0.23593001,2.9 - Hold,0.2978
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),29.459489889792785,1.0916263,1.074,3.763,21.83454,18.671684,20.449429,20.84206,1.0,strong_buy,414.623,0.541,1.194,70.93,0.02471,0.01503,3.302,0.042,0.65525,0.108459994,1.0 - Strong Buy,0.362
 BKNG,Booking Holdings Inc.,10.004350004141473,-25.768295,5.385,14.336,309.84,179.8,231.9789,235.5,1.52632,buy,21.726,1.259,1.333,,0.20815,,0.384,0.16,0.87357,0.32446,1.5 - Buy,0.7448
 IIIN,"Insteel Industries, Inc. Common Stock",28.473264430802637,1.3642507,0.693,6.513,37.0,37.0,37.0,37.0,3.0,hold,0.776,1.386,3.712,0.834,0.07812,0.120459996,-0.485,0.075,0.13615,0.03928,3.0 - Hold,1.1883
+CLMB,"Climb Global Solutions, Inc.",19.252888131271785,3.293329,0.535,9.257,32.5,30.0,31.5,32.0,,none,2.014,1.069,1.109,1.885,0.04034,0.20592,-0.006,0.198,0.16133,0.04947,,1.3277
 LMT,Lockheed Martin Corporation Common Stock,19.143598283739195,17.494633,1.827,17.159,756.0,511.0,643.6,651.5,2.54545,hold,8.215,0.91,1.135,276.365,0.07226,0.6764,-0.115,0.003,0.09906,0.110039994,2.5 - Hold,1.0986
+PODD,Insulet Corporation,26.362337985936307,8.806095,5.033,24.16,435.0,220.0,326.34784,330.0,1.58333,buy,10.172,1.813,2.814,66.176,0.09434,0.18124,0.039,0.312,0.71633005,0.18665001,1.6 - Buy,1.0498
 HCA,"HCA Healthcare, Inc. Common Stock",25.193700521193968,-16.116121,1.967,9.652,635.0,396.0,535.0,546.0,1.96,buy,4.147,0.637,0.834,,0.12344,,0.108,0.043,0.41612998,0.14982,2.0 - Buy,1.1831
+TSCO,Tractor Supply Company,20.290575001198174,7.496938,1.631,13.073,60.0,38.0,47.51852,48.0,2.0,buy,0.426,0.08,1.38,254.949,0.08229999,0.45504,-0.081,0.036,0.36425,0.06499,2.0 - Buy,1.4912
 ABT,Abbott Laboratories Common Stock,25.585247506584956,3.035845,3.638,13.512,143.0,92.0,118.64,120.0,1.67857,buy,5.144,,,26.787,,,-0.197,0.078,0.56465,0.16499001,1.7 - Buy,1.352
+KCHVU,Kochav Defense Acquisition Corp.,23.3464435129352,-56.93989,,,,,,,,none,0.021,4.702,5.296,,,,,,0.0,0.0,,
+LBRDP,Liberty Broadband Corporation,15.752664432239019,0.5500151,,29.374,,,,,,none,0.397,0.058,0.104,34.152,-0.00176,-0.30066,,,0.0,0.0,,
+CRAQU,Cal Redwood Acquisition Corp.,26.147401117733914,-39.15385,,,,,,,,none,0.035,6.11,6.678,,,,,,0.0,0.0,,
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,29.494553666195106,0.8532652,,,,,,,,none,,1.049,1.119,43.285,0.0388,0.0865,0.057,0.067,1.0,0.88528997,,
 NOC,Northrop Grumman Corporation Common Stock,18.09455736679295,4.772697,2.294,13.298,815.0,587.22,721.7827,743.5,2.125,buy,14.715,0.979,1.152,102.682,0.07362,0.28511998,0.849,0.044,0.20517999,0.11689,2.1 - Buy,4.2715
+VRDN,"Viridian Therapeutics, Inc. ",23.178117547148975,2.368421,10.068,-1.965,50.0,20.0,33.5625,31.5,1.29412,strong_buy,8.558,12.372,12.649,7.283,-0.27667,-0.49161,,0.833,0.0,-956.4318,1.3 - Strong Buy,
+LNSR,"LENSAR, Inc.",28.54025923974118,-2.345622,1.029,-2.994,10.0,7.0,8.5,8.5,1.0,strong_buy,1.486,0.6,1.153,,-0.22307,-10.694119,,-0.042,0.46414003,-1.1602501,1.0 - Strong Buy,
 PIPR,Piper Sandler Companies Common Stock,24.406452399565854,4.272002,2.741,,99.0,87.5,94.875,96.5,2.0,buy,18.399,1.856,1.89,7.465,0.12126,0.19607,0.651,0.376,0.90628,0.29822,2.0 - Buy,
+LBRDA,Liberty Broadband Corporation,29.124340133289472,1.0549511,,46.2,,,,,,none,0.397,0.058,0.104,34.152,-0.00176,-0.30066,,,0.0,0.0,,
 LDOS,"Leidos Holdings, Inc. Common Stock",29.190755647143103,3.7549489,1.324,9.515,232.0,165.0,199.2143,201.5,2.125,buy,8.766,1.35,1.703,107.658,0.09905,0.31034002,0.197,-0.036,0.18045,0.11243,2.1 - Buy,
 RTX,RTX Corporation Common Stock,24.23147104629107,3.5850804,2.972,17.594,242.0,179.0,215.06409,222.5,2.13043,buy,5.063,0.646,1.024,57.229,0.040510003,0.11571,0.325,0.087,0.20212999,0.13182001,2.1 - Buy,2.4442
+MRBK,Meridian Corporation,29.813077606736183,1.0907799,3.11,,22.0,22.0,22.0,22.0,,none,2.381,,,,0.009459999,0.12829,0.857,0.199,0.0,0.23178,,
+VCICU,Vine Hill Capital Investment Corp.,20.02086222602656,,,,,,,,,none,0.003,0.057,0.18,,-0.0106,,-0.473,,0.0,0.0,,
 GD,General Dynamics Corporation Common Stock,25.14366730713857,3.3003519,1.751,14.505,444.0,327.0,393.07382,390.0,2.20833,buy,8.641,0.781,1.444,38.205,0.05989,0.17658001,0.004,0.078,0.1513,0.1014,2.2 - Buy,2.2707
 RLI,RLI Corp. Common Stock (DE),27.429606635931354,2.728635,2.52,9.304,67.0,52.0,58.0,56.5,2.875,hold,4.735,0.583,1.246,20.284,0.05213,0.23232001,-0.122,0.04,0.33703998,0.15935999,2.9 - Hold,
 LHX,"L3Harris Technologies, Inc. Common Stock",26.990693078156724,3.0891898,6.01,36.005,443.0,326.0,392.1579,393.0,1.66667,buy,4.528,,,34.574,,,-0.061,1.9,0.30414,0.097270004,1.7 - Buy,2.0126
+LBRDK,Liberty Broadband Corporation,29.309025119515873,,,46.241,,,,,,none,0.397,0.058,0.104,34.152,-0.00176,-0.30066,,,0.0,0.0,,
