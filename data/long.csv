@@ -1,4 +1,4 @@
-Ticker 06/06/2026 01:41,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 06/06/2026 02:10,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 BKNG,Booking Holdings Inc.,16.12348990062523,-14.827,4.755,12.686,298.0,175.0,224.40572,220.0,1.54054,buy,20.679,0.987,1.057,,0.22259001,,2.4,0.162,0.86987,0.25035998,1.5 - Buy,0.7115
 CSV,"Carriage Services, Inc. Common Stock",22.802615410864334,2.2315373,2.734,9.332,65.0,56.0,60.0,60.0,,none,0.183,0.908,1.151,204.559,0.04659,0.17989,-0.373,-0.009,0.38591,0.24080999,,0.835
 UHS,"Universal Health Services, Inc. Common Stock",29.272798495921748,1.1772577,0.785,5.223,310.0,165.0,218.11765,212.0,2.35,buy,1.966,0.883,1.079,67.405,0.08354,0.21369,0.177,0.096,0.44233,0.111870006,2.3 - Buy,1.0168
@@ -30,9 +30,14 @@ MIAX,"Miami International Holdings, Inc. Common Stock",25.489615618724198,3.4668
 BHFAL,"Brighthouse Financial, Inc.",25.552090453144682,0.14014442,,,,,,,,,,,,,,,,,,,,
 ACGLO,Arch Capital Group Ltd.,26.93054263443638,0.29268366,0.339,1.137,,,,,,none,10.406,0.269,0.566,11.282,0.045679998,0.21305999,0.946,-0.033,0.39369,0.25282,,
 UI,Ubiquiti Inc. Common Stock,27.26288630424647,33.79781,10.993,30.243,980.0,672.0,826.0,826.0,,none,6.091,1.559,3.561,5.563,0.45908,1.15009,0.295,0.187,0.46021998,0.36897,,
+FBRX,"Forte Biosciences, Inc. ",27.29949820057302,5.4593525,,-4.492,75.0,54.0,63.75,63.0,1.0,strong_buy,2.383,2.49,2.753,,-0.83897,-1.88396,,,0.0,0.0,1.0 - Strong Buy,
 ACGLN,Arch Capital Group Ltd.,27.305485696295236,0.24618533,0.285,0.955,,,,,,none,10.406,0.269,0.566,11.282,0.045679998,0.21305999,0.946,-0.033,0.39369,0.25282,,
 CSR,D/B/A Centerspace Common Stock,27.407650228389823,1.4327853,7.823,15.777,79.0,64.5,70.72222,70.0,2.5,buy,0.45,0.068,0.332,124.453,0.00748,0.01435,,-0.03,0.58889,0.06587,2.5 - Buy,
+FTAIN,FTAI Aviation Ltd.,27.792154240023905,5.935346,1.991,5.531,,,,,,none,4.019,1.258,5.24,809.979,0.11344,2.3329,0.483,0.655,0.36166,0.22479999,,
 SWZ,Total Return Securities Fund Common Stock,27.806248301502094,0.8478009,,,,,,,,,,,,,,,,,,,,
 CELC,Celcuity Inc.,28.77347552146969,79.74706,,-22.756,175.0,145.0,161.09091,165.0,1.16667,strong_buy,7.937,11.655,12.313,604.28,-0.37118,-2.75172,,,0.0,0.0,1.2 - Strong Buy,
 DBVT,DBV Technologies S.A.,28.820952668279855,4.7197723,816.966,-28.373,54.62017,5.8789625,40.307205,46.034584,1.83333,buy,0.775,4.716,4.763,2.934,-0.66355,-1.5888801,,0.125,1.0,-53.111107,1.8 - Buy,
+EYE,"National Vision Holdings, Inc.",28.977815266264802,1.3774645,0.921,10.541,39.0,20.0,29.27273,30.0,1.58333,buy,0.85,0.268,0.623,77.074,0.02634,0.053740002,1.112,0.066,0.58763003,0.08704001,1.6 - Buy,
+ENTA,"Enanta Pharmaceuticals, Inc.",29.558016506705375,2.8115652,5.069,-6.327,28.0,14.0,20.14286,20.0,,none,5.632,3.695,3.842,160.067,-0.118360005,-0.58997,,0.15,1.0,-0.69071996,,
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock ",29.683984575429072,2.4772437,1.462,7.288,70.0,57.0,63.0,62.0,,none,1.045,1.228,1.407,62.57,0.11056,0.08762,0.21,0.022,0.63534,0.23698,,
+FCNCP,"First Citizens BancShares, Inc.",29.768219186523876,0.011531978,1.424,,,,,,,none,2156.732,,,,0.00971,0.1018,0.236,0.049,0.0,0.34193,,
