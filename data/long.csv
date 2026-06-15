@@ -1,4 +1,4 @@
-Ticker 14/06/2026 02:06,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 15/06/2026 02:08,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 BKNG,Booking Holdings Inc.,18.725692084346292,-14.746535,4.73,12.619,298.0,175.0,224.40572,220.0,1.54054,buy,20.679,0.987,1.057,,0.22259001,,2.4,0.162,0.86987,0.25035998,1.5 - Buy,0.7122
 BSX,Boston Scientific Corporation Common Stock,29.113497710134954,2.695667,3.859,14.462,106.0,55.0,77.1,75.5,1.48387,strong_buy,0.978,0.98,1.9,42.25,0.060749996,0.14661,1.0,0.116,0.68943,0.20603001,1.5 - Strong Buy,0.5687
 Z,"Zillow Group, Inc.",26.840912259681442,1.5769002,2.585,61.615,76.0,40.0,60.5,61.0,2.57143,hold,3.475,1.68,2.291,9.732,0.00148,0.01332,5.333,0.184,0.73337996,0.05085,2.6 - Hold,0.9315
@@ -24,6 +24,6 @@ SPH,"Suburban Propane Partners, L.P. Common Stock",28.031724804329023,1.5926521,
 CVNA,Carvana Co. Class A Common Stock,23.533294520484638,12.319815,2.2,21.155,120.0,67.0,92.09524,93.0,2.0,buy,4.051,1.844,4.087,121.351,0.114300005,0.60172004,0.119,0.52,0.20131001,0.09033,2.0 - Buy,
 MCRB,"Seres Therapeutics, Inc.",26.543966468059033,2.062975,92.296,-1.263,22.0,22.0,22.0,22.0,,none,3.081,1.554,1.646,303.781,-0.38876,-1.21873,,,0.0,-58.399437,,
 AORT,"Artivion, Inc. Common Stock",28.067182636409594,2.1638498,2.568,19.187,48.0,36.0,42.0,43.0,1.14286,strong_buy,1.149,1.741,3.857,57.309,0.02841,0.03139,,0.175,0.64553,0.051810004,1.1 - Strong Buy,
-EH,EHang Holdings Limited,29.800707545605,3.459728,0.214,-0.268,26.253826,9.718578,16.901035,16.275639,1.54545,buy,12.85,1.462,1.867,57.169,-0.12558,-0.3411,,-0.017,0.61526,-4.9847198,1.5 - Buy,
+EH,EHang Holdings Limited,29.800707545605,3.459728,0.214,-0.268,26.272478,9.725483,16.913044,16.287203,1.54545,buy,12.85,1.462,1.867,57.169,-0.12558,-0.3411,,-0.017,0.61526,-4.9847198,1.5 - Buy,
 TRMB,Trimble Inc.,27.073275226531816,2.0723386,3.508,14.918,94.0,70.0,85.33333,86.0,,none,1.004,0.62,1.014,25.062,0.046529997,0.08252,0.556,0.118,0.71480006,0.15874,,2.8128
 INLX,"Intellinetics, Inc. Common Stock",25.3052192337204,2.3076925,1.454,-24.268,,,,,,none,0.462,0.781,0.899,13.525,-0.08303001,-0.22311,,-0.08,0.65296,-0.30251,,
