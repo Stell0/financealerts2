@@ -1,4 +1,4 @@
-Ticker 10/07/2026 04:48,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 10/07/2026 05:29,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 ALB,Albemarle Corporation Common Stock,29.342135443356238,1.988018,3.377,17.381,260.0,83.28,204.464,208.0,1.95455,buy,9.241,1.11,2.068,19.845,0.01605,-0.0182,,0.327,0.18531,0.24786,2.0 - Buy,0.7941
 AD,"Array Digital Infrastructure, Inc. Common Shares",25.024585397363165,1.6155134,21.051,112.433,54.0,45.02293,50.34098,52.0,,none,2.934,1.005,1.032,64.442,-0.00119,0.10704,9.089,0.928,0.54889,0.09717,,1.2565
 STLA,Stellantis N.V. Common Shares,24.90388971590497,0.24315478,0.214,-32.029,14.4,6.15,9.189,8.25,,none,10.489,0.679,1.035,78.657,-0.016280001,-0.30152,,0.065,0.057919998,0.02725,,1.0877
@@ -6,7 +6,7 @@ TDS,"Telephone and Data Systems, Inc. Common Shares",24.672859751229424,1.026346
 METCB,"Ramaco Resources, Inc.",29.482011127487667,1.1847328,1.183,817.287,,,,,,none,5.449,3.789,4.879,107.283,-0.047989998,-0.15224,,-0.097,0.14478,-0.19986,,
 NMFC,New Mountain Finance Corporation,29.59680011075002,0.6292361,6.231,,10.0,7.5,8.54167,8.375,,none,0.541,1.623,1.787,126.535,0.05607,-0.04778,,-0.197,1.0,0.84541,,
 CRWD,"CrowdStrike Holdings, Inc.",20.882283244849383,43.59481,38.933,3343.493,235.0,103.25,183.81082,187.5,1.67308,buy,4.471,1.333,1.531,17.568,-0.0100300005,-0.0024899999,,0.256,0.75136,-0.022079999,1.7 - Buy,6.2153
-VOD,Vodafone Group Plc,28.547909913390733,1.034782,2.57,11.622,13.461891,11.353857,12.623312,12.838751,4.0,underperform,3.158,0.953,1.137,100.153,0.01523,0.0010899999,,,0.3147,0.07783,4.0 - Underperform,
+VOD,Vodafone Group Plc,28.547909913390733,1.034782,2.57,11.622,13.45881,11.351258,12.620423,12.835813,4.0,underperform,3.158,0.953,1.137,100.153,0.01523,0.0010899999,,,0.3147,0.07783,4.0 - Underperform,
 SHEN,Shenandoah Telecommunications Co,29.22817341516896,0.80755246,4.022,12.934,29.0,26.0,27.5,27.5,,none,0.791,0.7,1.125,74.173,-0.00811,-0.040549997,,0.048,0.644,-0.08713,,
 TCX,Tucows Inc.,24.262739347487333,-0.63981336,1.956,29.948,,,,,,none,3.974,0.216,0.593,,-0.01627,,,0.022,0.34967,-0.0326,,
 OEC,Orion S.A. Common Shares,29.812035918212537,0.79346216,0.781,6.509,8.5,5.0,6.5625,6.375,3.25,hold,0.896,0.513,1.003,302.213,0.02616,-0.21074,,-0.038,0.19061,0.02481,3.3 - Hold,
