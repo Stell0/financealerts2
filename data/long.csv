@@ -1,4 +1,4 @@
-Ticker 22/07/2026 04:19,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 22/07/2026 04:51,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 ALB,Albemarle Corporation Common Stock,27.65869380872814,1.8363082,3.167,16.298,260.0,83.28,196.414,196.0,1.95455,buy,9.241,1.11,2.068,19.845,0.01605,-0.0182,,0.327,0.18531,0.24786,2.0 - Buy,0.7941
 AD,"Array Digital Infrastructure, Inc. Common Shares",27.464416195176234,1.5797062,20.697,110.542,54.0,40.0,46.34098,45.02293,2.25,buy,2.934,1.005,1.032,64.442,-0.00119,0.10704,9.089,0.928,0.54889,0.09717,2.3 - Buy,1.2511
 STRS,Stratus Properties Inc.,18.10374489690261,0.77033293,13.537,-24.657,,,,,,none,9.212,0.766,3.66,45.586,-0.026659999,0.06243,,-0.248,0.020550001,-1.9773101,,
@@ -10,7 +10,7 @@ DIT,AMCON Distributing Company Common Stock,24.930726647180723,0.5568633,0.102,1
 GYRO,"Gyrodyne , LLC",22.34287044284362,0.16938356,12.027,-10.689,,,,,,none,5.404,,,69.24,,,,-0.018,0.41651002,-1.21296,,
 JXG,JX Luxventure Group Inc.,28.439977881526517,0.515216,0.905,-12.156,,,,,,none,0.076,0.047,1.334,36.031,-0.16973,-0.48529997,,1.667,0.12587,-0.20089,,
 SHEN,Shenandoah Telecommunications Co,28.470241253204087,0.7354723,3.85,12.379,29.0,26.0,27.5,27.5,,none,0.791,0.7,1.125,74.173,-0.00811,-0.040549997,,0.048,0.644,-0.08713,,
-CRWD,"CrowdStrike Holdings, Inc.",23.893232620448373,42.001755,37.484,3219.04,250.0,103.25,189.18327,187.5,1.67308,buy,4.471,1.333,1.531,17.568,-0.0100300005,-0.0024899999,,0.256,0.75136,-0.022079999,1.7 - Buy,6.455
+CRWD,"CrowdStrike Holdings, Inc.",23.893232620448376,42.001755,37.484,3219.04,250.0,103.25,189.18327,187.5,1.67308,buy,4.471,1.333,1.531,17.568,-0.0100300005,-0.0024899999,,0.256,0.75136,-0.022079999,1.7 - Buy,6.455
 IONS,"Ionis Pharmaceuticals, Inc.",23.950511391630787,18.024984,8.936,-27.923,125.0,68.0,92.95,91.0,1.68182,buy,11.963,2.862,4.098,531.048,-0.070300005,-0.67617,,0.87,0.10936,-0.47716,1.7 - Buy,
 NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,23.99605109530042,0.9521345,21.239,,,,,,,none,0.176,0.437,0.437,66.027,,,0.117,0.067,1.0,0.84795,,
 INSG,Inseego Corp.,29.05826328979425,-4.853129,0.938,47.502,25.0,18.0,21.25,21.0,,none,1.186,0.729,1.022,,0.01675,,,0.084,0.43001997,-0.0689,,
