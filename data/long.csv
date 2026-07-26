@@ -1,36 +1,3 @@
-Ticker 25/07/2026 04:22,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
-ALB,Albemarle Corporation Common Stock,25.099319501590863,1.7779464,3.086,15.882,250.0,83.28,187.914,187.0,1.95455,buy,9.241,1.11,2.068,19.845,0.01605,-0.0182,,0.327,0.18531,0.24786,2.0 - Buy,0.7941
-ORCL,Oracle Corporation Common Stock,27.32751049813683,8.818252,7.011,15.487,400.0,110.0,248.14584,240.0,1.54545,buy,11.072,1.012,1.115,388.87,0.06505,0.53376,0.219,0.206,0.65822,0.36202,1.5 - Buy,0.6784
-GNRC,Generac Holdlings Inc. Common Stock,29.49776921298542,4.437537,3.01,24.683,338.0,212.0,293.75,286.5,1.7,buy,4.511,0.739,2.028,52.086,0.03788,0.07388,0.699,0.124,0.38138,0.11071999,1.7 - Buy,0.8757
-LBRT,Liberty Energy Inc. Class A common stock,22.237249755514704,1.4438993,0.927,7.373,38.0,23.0,30.73077,31.0,2.0,buy,3.407,1.68,1.986,82.144,0.00882,0.06123,-0.395,0.14,0.18529,0.02268,2.0 - Buy,
+Ticker 26/07/2026 04:27,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 SSSS,SuRo Capital Corp.,24.49082891695893,0.8805561,168.875,,18.0,15.0,16.35,16.75,1.4,strong_buy,1.662,26.879,26.889,19.42,-0.0224,0.79193,,0.467,1.0,-3.69382,,
-FSI,Flexible Solutions International Inc. Common Stock (CDA),25.60080225419572,1.6442404,1.893,13.378,8.5,8.5,8.5,8.5,,none,0.508,1.486,2.562,31.281,0.0354,0.05565,,0.11,0.31717,-0.01036,,
-NNY,Nuveen New York Municipal Value Fund Common Stock,26.235518641465188,0.93516344,20.707,,,,,,,none,0.052,4.602,4.602,,,,5.124,-0.016,1.0,0.87361,,
-NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,27.057891481839473,0.9580509,8.819,,,,,,,none,0.206,5.97,5.97,,0.032509997,0.04478,,,1.0,0.73258,,
-EIM,"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",28.7093326893481,0.91631556,17.893,,,,,,1.0,strong_buy,0.002,3.598,3.598,43.957,0.023659999,-0.03111,,-0.556,1.0,0.85355,1.0 - Strong Buy,
-PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,28.84603461803016,0.8752077,28.417,,,,,,,none,0.068,5.559,5.559,71.1,0.02257,0.04595,,0.87,1.0,0.83088994,,
-STUB,"StubHub Holdings, Inc. Class A Common Stock",29.44058507706017,1.9717973,1.946,-2.726,24.0,9.0,13.375,12.25,2.0,buy,4.148,1.069,1.102,74.146,-0.1541,-1.0939499,,0.122,0.82307,0.05791,2.0 - Buy,
-SSTK,"Shutterstock, Inc. Common Stock",19.84361575396115,0.37287003,0.362,2.344,28.85,28.85,28.85,28.85,3.0,hold,4.424,0.423,0.511,56.384,0.04592,-0.03847,,-0.179,0.57659,-0.014830001,3.0 - Hold,
-NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,22.480541617450232,0.9417852,21.101,,,,,,,none,0.176,0.437,0.437,66.027,,,0.117,0.067,1.0,0.84795,,
 DIT,AMCON Distributing Company Common Stock,28.067950725381102,0.5645939,0.103,11.151,,,,,,none,0.659,0.662,2.174,159.725,0.01904,0.0037200002,,0.171,0.08051,-0.00067000004,,
-MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,23.59029035265871,0.88194954,,,,,,,,none,,0.138,0.142,63.223,0.022550002,0.02691,5.459,0.036,1.0,0.84420997,,
-MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock",25.989282462001317,0.89762473,,,,,,,,none,,0.077,0.08,70.288,,,,0.065,1.0,0.87951,,
-STEM,"Stem, Inc. Class A Common Stock",26.017160999731182,-0.17665797,2.5,-1435.69,18.0,7.5,12.0,10.75,3.0,hold,4.085,0.691,0.842,,-0.057740003,,,-0.108,0.40804002,-0.37469003,3.0 - Hold,
-IONQ,"IonQ, Inc. Common Stock",26.029409759824972,2.462877,54.879,-15.503,100.0,44.78,69.10667,67.5,1.41667,strong_buy,5.448,13.123,14.052,0.61,-0.12831001,0.11286,,7.547,0.36110002,-4.01755,1.4 - Strong Buy,
-NAN,Nuveen New York Quality Municipal Income Fund Common Stock,26.88418297483153,0.9691326,20.909,,,,,,,none,0.216,0.487,0.487,65.897,,,27.418,-0.019,1.0,0.83499,,
-MP,MP Materials Corp. Common Stock,27.065153396088753,3.7301302,20.357,-1726.164,100.0,61.0,78.71875,80.0,1.27778,strong_buy,9.765,6.512,7.176,44.018,-0.020969998,-0.04167,,1.186,0.3722,-0.07876,1.3 - Strong Buy,
-MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",27.14505335826735,0.9525695,,,,,,,,none,,0.316,0.333,65.134,0.022349998,0.0365,14.959,0.02,1.0,0.81065005,,
-PCQ,PIMCO California Municipal Income Fund Common Stock,27.27423077948452,0.8622948,32.581,,,,,,,none,0.181,0.893,0.893,72.09,0.021270001,0.08701,10.047,1.649,1.0,0.83568,,
-EHI,Western Asset Global High Income Fund Inc Common Stock,27.59101222390014,0.8575237,10.339,,,,,,,none,0.062,0.086,0.089,36.658,0.043649998,0.08,0.331,0.104,1.0,0.87802005,,
-LAR,Lithium Argentina AG Common Shares,27.68349901232084,1.2251308,,-30.573,21.0,8.5,12.1875,11.0,1.75,buy,0.595,0.516,0.516,29.276,-0.02088,-0.07229,,,0.0,0.0,1.8 - Buy,
-PL,Planet Labs PBC Class A Common Stock,27.985061428536582,16.441767,21.015,-136.367,53.0,25.0,40.1,38.0,2.0,buy,2.051,2.619,2.806,109.991,-0.05868,-0.83985,,0.421,0.55579,-0.30459,2.0 - Buy,
-MUA,"Blackrock MuniAssets Fund, Inc Common Stock",28.053521574909336,0.9268941,,,,,,,,none,,0.317,0.321,4.334,0.02626,0.02606,7.846,-0.021,1.0,0.82363,,
-SCM,Stellus Capital Investment Corporation Common Stock,28.170745681576044,0.55901116,8.138,,11.0,8.0,10.25,11.0,2.6,hold,0.117,0.544,0.573,170.301,0.04315,0.06444,-0.684,-0.066,1.0,0.71691,2.6 - Hold,
-MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock",29.047072966734312,0.8966387,,,,,,,,none,,0.064,0.066,70.228,0.02487,0.031070001,165.414,0.063,1.0,0.87709,,
-DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",29.110048303296036,0.9006259,17.958,,,,,,,none,0.014,0.152,0.153,36.394,0.024519999,-0.01658,0.117,0.015,1.0,0.87773,,
-ORA,"Ormat Technologies, Inc. Common Stock",26.92090170212524,2.3758874,7.745,17.592,152.0,115.0,133.83333,132.5,2.07692,buy,10.653,0.881,1.069,125.509,0.02034,0.04914,0.076,0.758,0.2751,0.21299,2.1 - Buy,5.4083
-GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,22.309849996271446,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-ROL,"Rollins, Inc. Common Stock",26.277048230659155,13.435541,4.987,22.621,66.0,32.0,45.58824,45.0,2.26316,buy,0.227,0.424,0.629,78.015,0.14061,0.37008998,0.031,0.079,0.52366,0.18669,2.3 - Buy,2.8425
-NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,27.98654071770976,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-PSBD,Palmer Square Capital BDC Inc. Common Stock,29.1580753574457,,,,12.0,9.5,11.0,11.0,,none,,,,,,,,,0.0,0.0,,
-GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,29.939986364223287,,,,,,,,,none,,,,,,,,,0.0,0.0,,
