@@ -1,4 +1,4 @@
-Ticker 27/07/2026 04:40,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 27/07/2026 05:20,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 TRV,"The Travelers Companies, Inc. Common Stock",80.84900596016965,2.439003,1.731,7.385,430.0,262.0,356.5,351.0,2.96552,hold,24.265,0.19,0.323,27.378,0.04775,0.26511,0.571,0.003,0.34730998,0.23698,3.0 - Hold,2.3596
 VTR,"Ventas, Inc. Common Stock",77.44909443789787,3.7231956,10.121,27.037,114.0,86.0,98.27273,97.5,1.65217,buy,0.378,0.188,0.206,93.736,0.022119999,0.0214,0.1,0.219,0.40493,0.13771,1.7 - Buy,
 UYSC,UY Scuti Acquisition Corp.,76.99969696420762,76.453896,,,,,,,,none,0.002,0.008,0.008,,-0.02927,,,,0.0,0.0,,
@@ -70,7 +70,7 @@ IP,International Paper Company Common Stock,70.09985334419537,1.5072753,1.267,7.
 IOR,"Income Opportunity Realty Investors, Inc. Common Stock",85.35094094890482,0.68223935,,,,,,,,none,0.001,39.5,28992.75,,-0.00193,0.03211,0.021,,0.0,0.0,,
 GEF,Greif Inc. Class A Common Stock,70.13211755538369,1.2336807,1.098,8.586,90.0,70.0,77.4,75.0,2.83333,hold,6.201,0.81,1.275,39.344,,,-0.676,-0.005,0.22341,0.05155,2.8 - Hold,
 DINO,HF Sinclair Corporation Common Stock,70.79367869702008,1.6609921,0.659,8.043,109.0,62.0,83.26667,81.0,2.5,buy,6.368,0.85,1.794,34.67,0.06067,0.13044,,0.118,0.1114,0.11891,2.5 - Buy,1.3233
-MFC,Manulife Financial Corporation Common Stock,71.2361218215533,2.0890095,2.19,6.928,36.96884,34.237774,35.603306,35.603306,2.06667,buy,18.144,8.905,30.143,44.278,0.00588,0.12564,1.616,0.121,0.50317,0.19048999,2.1 - Buy,0.7785
+MFC,Manulife Financial Corporation Common Stock,71.2361218215533,2.0890095,2.19,6.928,36.963066,34.232426,35.597748,35.597748,2.06667,buy,18.144,8.905,30.143,44.278,0.00588,0.12564,1.616,0.121,0.50317,0.19048999,2.1 - Buy,0.7785
 CCRN,"Cross Country Healthcare, Inc.",75.26105321911932,1.3232797,0.324,23.019,13.25,10.0,12.4375,13.25,3.0,hold,3.266,3.198,3.294,0.653,-0.00095,-0.26984,,-0.178,0.20211,-0.008090001,3.0 - Hold,12.619
 ACU,Acme United Corporation. Common Stock,75.1266507553929,1.6986836,1.132,11.012,58.0,58.0,58.0,58.0,3.0,hold,1.32,1.257,3.227,31.722,0.04873,0.08352,0.052,0.161,0.40083,0.1089,3.0 - Hold,
 DD,"DuPont de Nemours, Inc. Common Stock",72.41189786627999,1.3399373,3.111,13.857,186.0,153.0,169.6253,170.5,1.52941,buy,5.196,1.076,2.683,22.594,0.01983,0.00896,,0.043,0.35009998,0.13801,1.5 - Buy,1.7173
@@ -79,7 +79,7 @@ QNCX,"Quince Therapeutics, Inc.",73.8839623509503,0.7855948,,0.066,100.0,70.0,83
 AMTB,Amerant Bancorp Inc. Class A Common Stock,73.65551147331361,1.2254902,4.414,,31.0,26.0,28.5,28.5,2.0,buy,7.698,,,,0.0054699997,0.06132,-0.036,-0.079,0.0,0.30516002,2.0 - Buy,
 BOTJ,"Bank of the James Financial Group, Inc.",72.99502865723773,1.505226,0.85,,,,,,,none,19.367,,,,0.010570001,0.14641,2.295,0.182,0.0,0.29235,,
 DAC,Danaos Corporation Common Stock,72.50437503281856,0.6515618,2.453,3.836,,,,,,none,56.028,7.897,8.661,26.173,0.065799996,0.14029999,0.256,0.002,0.70455,0.49348998,,
-HOMB,"Home BancShares, Inc. Common Stock",71.74138799660165,1.3656602,5.509,,36.0,30.0,33.0,32.0,2.44444,buy,5.278,,,,0.020130001,0.11106,-0.016,0.087,0.0,0.57651,2.4 - Buy,
+HOMB,"Home BancShares, Inc. Common Stock",71.74138799660165,1.3988351,5.509,,36.0,30.0,33.0,32.0,2.44444,buy,5.278,,,,0.020130001,0.11106,-0.016,0.087,0.0,0.57651,2.4 - Buy,
 ESEA,Euroseas Ltd.,71.65888425415507,1.1070848,2.47,3.515,91.0,85.0,88.66667,90.0,,none,27.394,5.334,5.462,43.111,0.12204,0.30549,-0.121,-0.009,0.77282995,0.61243,,
 FCBC,"First Community Bankshares, Inc.",71.56823624504507,1.6998597,1.75,,45.0,45.0,45.0,45.0,3.0,hold,31.314,,,,0.01746,0.11377,0.778,0.374,0.0,0.53613997,3.0 - Hold,
 MTG,MGIC Investment Corporation Common Stock,71.51030179385562,1.2549201,5.548,7.091,30.0,28.0,28.8,29.0,2.8,hold,1.112,3.253,4.849,12.834,0.09036,0.14114,0.013,-0.03,0.93296,0.72616994,2.8 - Hold,
