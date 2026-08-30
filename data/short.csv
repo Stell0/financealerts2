@@ -1,4 +1,4 @@
-Ticker 30/08/2026 05:56,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 30/08/2026 06:56,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 YEXT,"Yext, Inc. Common Stock",75.82228102535875,5.327679,1.855,26.846,5.0,5.0,5.0,5.0,,none,0.917,0.639,0.789,917.942,0.0072399997,0.47717997,2.264,-0.014,0.74792,0.11387999,,
 CRM,"Salesforce, Inc. Common Stock",80.79407941973754,5.4897923,5.5,18.735,475.0,160.0,262.54135,266.0,1.72222,buy,13.855,0.673,0.839,110.417,0.05704,0.19381,1.189,0.108,0.77282,0.21375,1.7 - Buy,1.0463
 ADAMM,"Adamas Trust, Inc.",71.81720461170595,2.4732375,36.551,,,,,,,none,2.398,0.818,0.844,769.104,0.02005,0.16438,,1.298,0.78673,0.51676,,
@@ -7,6 +7,7 @@ SJM,The J.M. Smucker Company Common Stock,71.5134074167625,2.546224,2.297,9.291,
 CHPGU,ChampionsGate Acquisition Corporation,99.99417549345145,-58.8764,,,,,,,,none,0.002,0.047,0.198,,,,,,0.0,0.0,,
 NOW,"ServiceNow, Inc. Common Stock",72.72170353642676,11.953577,10.413,52.951,248.0,72.0,142.23174,140.0,1.42857,strong_buy,4.511,0.565,0.701,67.538,0.04249,0.14244,-0.219,0.24,0.74768996,0.04063,1.4 - Strong Buy,1.236
 RDACU,Rising Dragon Acquisition Corp.,97.63228159867013,,,,,,,,,,,,,,,,,,,,,
+ORIQU,Origin Investment Corp I,97.41569905785077,,,,,,,,,,,,,,,,,,,,,
 PAYC,"Paycom Software, Inc. Common Stock",80.64290795189282,18.155731,5.301,15.438,270.0,160.0,211.5625,206.5,2.45,buy,4.471,0.079,1.074,171.969,0.087790005,0.41089,0.481,0.098,0.88055,0.31721002,2.5 - Buy,1.4688
 IQV,"IQVIA Holdings, Inc. Common Stock",72.3610580913086,6.9816756,3.379,18.828,300.0,240.0,275.16666,278.0,1.42857,strong_buy,12.637,0.62,0.706,257.975,0.05061,0.22818,-0.006,0.087,0.32968,0.13027,1.4 - Strong Buy,1.0762
 ALOT,"AstroNova, Inc.",79.34796229391011,2.8883133,1.697,24.172,,,,,,none,0.603,0.621,1.762,49.371,0.02579,-0.01749,,0.044,0.33796,0.04883,,
@@ -35,6 +36,7 @@ DOX,Amdocs Limited,70.50918579922613,2.0185459,1.61,7.232,105.0,63.0,79.25,74.5,
 OESX,"Orion Energy Systems, Inc.",84.7212994195079,,,,,,,,,,,,,,,,,,,,,
 FBRX,"Forte Biosciences, Inc. ",84.42521797957977,10.238031,,-18.376,77.0,61.0,73.8,77.0,2.6,hold,7.88,9.822,10.01,,-0.37794,-0.62277,,,0.0,0.0,2.6 - Hold,
 NPACU,New Providence Acquisition Corp. III,84.3126809670113,,,,,,,,,,,,,,,,,,,,,
+HVMCU,Highview Merger Corp.,84.15599079292869,,,,,,,,,,,,,,,,,,,,,
 TEAM,Atlassian Corporation ,79.09183670404806,,,,,,,,,,,,,,,,,,,,,1.9341
 SDHI,Siddhi Acquisition Corp,81.94624366537526,,,,,,,,,,,,,,,,,,,,,
 RFAI,RF Acquisition Corp II,81.89334981717896,,,,,,,,,,,,,,,,,,,,,
@@ -56,6 +58,7 @@ RCMT,"RCM Technologies, Inc.",78.47896608007416,,,,,,,,,,,,,,,,,,,,,
 VIA,"Via Transportation, Inc. Class A Common Stock",78.33510137731358,3.7317135,4.089,-25.243,55.0,24.0,34.0,30.0,1.4,strong_buy,4.121,4.853,5.047,2.915,-0.09915,-0.23607999,,0.267,0.39801,-0.1603,1.4 - Strong Buy,
 LAFAU,LaFayette Acquisition Corp.,77.96554693094697,,,,,,,,,,,,,,,,,,,,,
 LKSPU,Lake Superior Acquisition Corp.,77.8773745231111,,,,,,,,,,,,,,,,,,,,,
+HTFL,"Heartflow, Inc.",77.83145682780737,,,,,,,,,,,,,,,,,,,,,
 OBA,Oxley Bridge Acquisition Limited,77.68659060405746,,,,,,,,,,,,,,,,,,,,,
 RANG,Range Capital Acquisition Corp.,77.66542204895033,,,,,,,,,,,,,,,,,,,,,
 WTG,Wintergreen Acquisition Corp.,77.45389287358859,,,,,,,,,,,,,,,,,,,,,
@@ -75,6 +78,7 @@ REAX,"The Real Brokerage, Inc.",74.58288110282287,,,,,,,,,,,,,,,,,,,,,
 SOCAU,Solarius Capital Acquisition Corp.,74.54875872934889,,,,,,,,,,,,,,,,,,,,,
 APPF,"AppFolio, Inc.",74.27752151579385,15.784195,7.8,41.701,260.0,200.0,231.03625,229.0,1.44444,strong_buy,6.259,3.349,3.831,6.799,0.18747999,0.3209,0.182,0.193,0.63532,0.18845,1.4 - Strong Buy,
 MLAB,"Mesa Laboratories, Inc.",74.23926675688459,,,,,,,,,,,,,,,,,,,,,
+VMAR,Vision Marine Technologies Inc.,74.21286706916275,,,,,,,,,,,,,,,,,,,,,
 LPBBU,Launch Two Acquisition Corp.,74.14578105552545,,,,,,,,,,,,,,,,,,,,,
 DSGR,"Distribution Solutions Group, Inc.",74.00606631220077,2.456921,1.163,15.243,35.0,35.0,35.0,35.0,3.0,hold,1.447,1.219,2.545,129.136,0.028380001,0.013739999,0.669,0.11,0.32701,0.05452,3.0 - Hold,
 RMNI,"Rimini Street, Inc.",73.87649242283479,,,,,,,,,,,,,,,,,,,,,
@@ -97,6 +101,7 @@ SVCCU,Stellar V Capital Corp.,72.15069140806291,,,,,,,,,,,,,,,,,,,,,
 PRE,Prenetics Global Limited,72.03379546423993,,,,,,,,,,,,,,,,,,,,,
 CHCI,"Comstock Holding Companies, Inc.",71.8188293579795,2.5382957,2.403,10.994,,,,,,none,2.464,7.533,7.672,5.982,0.13178,0.36369,5.0,0.741,0.28855,0.29432,,
 WENN,Wen Acquisition Corp,71.65297936301312,,,,,,,,,,,,,,,,,,,,,
+HNST,"The Honest Company, Inc.",71.59320703541697,,,,,,,,,,,,,,,,,,,,,
 DCBO,Docebo Inc.,71.44974420851172,-2132.5,2.646,18.551,38.0,24.0,29.25,28.0,,none,1.836,0.692,0.827,,0.10539,1.9548,-0.2,0.13,0.79643,0.09114,,
 ATKR,Atkore Inc. Common Stock,71.1772884801832,2.476911,1.271,12.734,95.0,92.0,93.5,93.5,,none,10.251,1.914,2.734,71.58,0.03999,-0.11868,-0.984,0.081,0.2059,0.09663,,
 VEEV,Veeva Systems Inc. Class A Common Stock,74.85478492273336,6.1722584,10.939,35.177,350.0,180.0,294.07407,300.0,2.0,buy,44.615,5.363,5.458,2.041,0.075830005,0.14425,0.395,0.176,0.74961,0.29637,2.0 - Buy,1.2647
@@ -106,6 +111,7 @@ MFIN,Medallion Financial Corp.,70.94855433645205,,,,,,,,,,,,,,,,,,,,,
 IOSP,Innospec Inc.,70.90435398330666,,,,,,,,,,,,,,,,,,,,,
 PAGP,"Plains GP Holdings, L.P.",70.89348810279809,,,,,,,,,,,,,,,,,,,,,
 KRT,Karat Packaging Inc.,70.78815947656476,,,,,,,,,,,,,,,,,,,,,
+IBAC,IB Acquisition Corp.,70.6759453726204,,,,,,,,,,,,,,,,,,,,,
 SENEA,Seneca Foods Corp.,70.63400014441646,,,,,,,,,,,,,,,,,,,,,
 RIBB,Ribbon Acquisition Corp,70.55230824819145,,,,,,,,,,,,,,,,,,,,,
 RGLD,"Royal Gold, Inc.",70.53014431870184,,,,,,,,,,,,,,,,,,,,,
@@ -116,7 +122,7 @@ OMER,Omeros Corporation,70.08322664642037,,,,,,,,,,,,,,,,,,,,,
 SAIH,SAIHEAT Limited,70.04333588274025,,,,,,,,,,,,,,,,,,,,,
 LH,Labcorp Holdings Inc. Common Stock,70.39231550652745,3.1498852,2.361,14.603,385.0,293.0,341.5,350.0,1.72222,buy,1.748,1.246,1.796,79.124,0.05527,0.11728,0.282,0.058,0.28882998,0.1224,1.7 - Buy,1.4059
 GWRE,"Guidewire Software, Inc. Common Stock",75.03030490241345,13.012011,12.03,130.476,258.0,137.0,204.57143,210.0,1.625,buy,9.003,2.239,2.445,53.467,0.02915,0.1193,-0.648,0.269,0.64011,0.08224,1.6 - Buy,1.1034
-EXLS,"ExlService Holdings, Inc.",73.89382054663294,6.726222,2.694,15.9,48.0,39.0,44.375,45.0,1.33333,strong_buy,1.872,1.109,1.244,56.585,0.1201,0.25944,0.05,0.156,0.38511002,0.14609,1.3 - Strong Buy,1.1313
+EXLS,"ExlService Holdings, Inc.",73.89382054663294,6.726222,2.694,15.9,48.0,39.0,44.625,45.0,1.33333,strong_buy,1.872,1.109,1.244,56.585,0.1201,0.25944,0.05,0.156,0.38511002,0.14609,1.3 - Strong Buy,1.1313
 KELYA,"Kelly Services, Inc.",70.1063544300364,,,,,,,,,,,,,,,,,,,,,1.3131
 PSKY,Paramount Skydance Corporation,73.34712999793834,,,,,,,,,,,,,,,,,,,,,1.1402
 HZO,"MarineMax, Inc.  (FL) Common Stock",80.89445140846142,1.2099711,0.956,18.277,53.0,35.0,47.0,53.0,,none,7.913,0.311,1.234,115.137,0.01651,0.00497,,-0.07,0.34210998,0.060890004,,
@@ -129,7 +135,7 @@ IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Benefici
 CGBD,"Carlyle Secured Lending, Inc.",70.57089126521718,0.7545477,8.039,,14.0,10.0,12.28571,12.0,2.5,buy,0.377,0.825,1.356,120.607,0.04804,0.0325,,-0.077,1.0,0.74028,2.5 - Buy,
 INTA,"Intapp, Inc.",73.96875713061591,,,,,,,,,,,,,,,,,,,,,0.7804
 AMR,"Alpha Metallurgical Resources, Inc. Common Stock",84.37934483837097,1.9147369,1.231,18.618,195.0,160.0,180.0,185.0,3.0,hold,26.696,2.247,3.405,0.761,-0.01382,-0.0296,,-0.104,0.10018,-0.02903,3.0 - Hold,
-PATH,"UiPath, Inc. Class A Common Stock",76.30221110592954,4.9644423,4.891,66.164,17.0,10.98,13.43625,13.0,2.8,hold,2.523,2.065,2.307,4.362,0.02365,0.18181999,,0.173,0.8305,0.07274,2.8 - Hold,0.6588
+PATH,"UiPath, Inc. Class A Common Stock",76.30221110592954,4.9644423,4.891,66.164,17.0,10.98,13.43625,13.0,,none,2.523,2.065,2.307,4.362,0.02365,0.18181999,,0.173,0.8305,0.07274,,0.6588
 WK,Workiva Inc. Class A Common Stock,76.16293234411523,-353.3482,4.437,101.927,95.0,65.0,79.7,77.0,1.18182,strong_buy,14.982,1.346,1.473,,0.014450001,,,0.186,0.8021,0.04571,1.2 - Strong Buy,
 DB,Deutsche Bank AG Common Stock,71.45438803461118,0.82569325,-0.464,,43.0,38.0,40.5,40.5,,none,338.625,,,,0.00489,0.08891,0.188,0.087,0.0,0.33400002,,1.9618
 MCI,Barings Corporate Investors Common Stock,75.94907984964578,1.1871542,12.317,,,,,,,none,1.565,2.522,2.522,21.893,0.045679998,0.08194,-0.214,-0.207,1.0,0.84266996,,

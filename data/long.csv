@@ -1,5 +1,5 @@
-Ticker 30/08/2026 05:56,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
-DKS,Dick's Sporting Goods Inc Common Stock,23.946937107195723,2.0957832,0.901,9.143,275.0,99.0,174.27727,175.5,2.15385,buy,10.286,0.297,1.485,139.077,0.06415,0.18475,-0.257,0.532,0.33093,0.08005,2.2 - Buy,0.9168
+Ticker 30/08/2026 06:56,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+DKS,Dick's Sporting Goods Inc Common Stock,23.946937107195723,2.0957832,0.901,9.143,241.0,99.0,166.00455,170.5,2.11538,buy,10.286,0.297,1.485,139.077,0.06415,0.18475,-0.257,0.532,0.33093,0.08005,2.1 - Buy,0.9168
 HRL,Hormel Foods Corporation Common Stock,25.708452848701747,1.511245,0.951,9.134,30.0,23.0,26.125,26.0,2.6,hold,1.043,0.886,1.882,4.244,0.04634,0.042930003,-0.051,-0.029,0.15741,0.11057,2.6 - Hold,1.4972
 RRX,Regal Rexnord Corporation Common Stock,29.915446366542774,1.5161408,2.446,12.169,275.0,220.0,249.0,242.5,1.27273,strong_buy,6.631,0.94,2.276,68.843,0.032360002,0.047670003,0.471,0.042,0.37451,0.123459995,1.3 - Strong Buy,1.5731
 UTI,Universal Technical Institute Inc Common Stock,25.292291772916066,3.4101455,1.542,16.567,48.0,37.0,41.83333,41.5,,none,3.097,1.112,1.302,104.405,0.03463,0.105349995,-0.789,0.072,0.55051,0.01985,,1.9218
@@ -20,13 +20,11 @@ ELMD,"Electromed, Inc. Common Stock",19.706460137891803,4.5877247,3.081,15.352,5
 MEC,"Mayville Engineering Company, Inc. Common Stock",24.730655528291184,1.513395,1.121,18.57,40.0,34.0,36.8,36.0,,none,0.086,0.89,1.699,51.285,-0.010980001,-0.06047,,0.232,0.10854,0.00266,,
 CRUS,"Cirrus Logic, Inc.",21.322239687950738,2.4997697,2.281,8.912,200.0,130.0,165.0,165.0,,none,17.783,5.894,7.583,5.96,0.12163,0.20903999,0.289,0.129,0.52785,0.18367,,
 OYSEU,Oyster Enterprises II Acquisition Corp,11.65887719944107,,,,,,,,,,,,,,,,,,,,,
-DY,"Dycom Industries, Inc. Common Stock",22.904180426494307,4.300513,1.682,12.419,654.0,423.0,602.0909,625.0,1.09091,strong_buy,11.662,2.205,2.348,147.703,0.071,0.19197,0.144,0.456,0.20528999,0.09571,1.1 - Strong Buy,
+DY,"Dycom Industries, Inc. Common Stock",22.904180426494307,4.300513,1.682,12.419,625.0,423.0,541.7273,550.0,1.09091,strong_buy,11.662,2.205,2.348,147.703,0.071,0.19197,0.144,0.456,0.20528999,0.09571,1.1 - Strong Buy,
 BURL,"Burlington Stores, Inc. Common Stock",18.009219493458932,8.710429,1.855,16.052,440.0,290.0,364.75,367.5,1.78947,buy,11.013,0.376,1.172,294.974,0.06468,0.41412997,0.959,0.109,0.44535,0.085760005,1.8 - Buy,
 CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock",28.35835654920959,0.97755533,26.211,,,,,,,none,0.012,0.045,1.027,,0.018860001,0.39146,0.381,3.178,1.0,0.34666002,,
 KCHVU,Kochav Defense Acquisition Corp.,13.792610716322498,,,,,,,,,,,,,,,,,,,,,
-GYRO,"Gyrodyne , LLC",24.184913798254577,0.14998408,11.664,-10.367,,,,,,none,5.404,,,69.24,,,,-0.018,0.41651002,-1.21296,,
 IPCXU,Inflection Point Acquisition Corp. III,14.228506511851997,,,,,,,,,,,,,,,,,,,,,
-IESC,"IES Holdings, Inc.",24.70692758344607,10.04279,3.021,21.833,440.0,440.0,440.0,440.0,3.0,hold,9.733,1.455,1.63,6.233,0.16469,0.44522998,0.987,0.396,0.26305,0.14364,3.0 - Hold,
 CLM,"Cornerstone Strategic Investment Fund, Inc. Common Shares",26.363573640227955,0.9830709,,,,,,,,none,,0.564,0.583,,0.00201,0.16738,0.238,1.473,1.0,0.03489,,
 AGX,"Argan, Inc. Common Stock",27.140636383310877,12.369052,4.696,30.933,800.0,500.0,667.8,700.0,2.4,buy,69.444,1.481,1.53,2.023,0.093669996,0.38521,1.025,0.502,0.20743999,0.15602,2.4 - Buy,
 TJX,"TJX Companies, Inc. (The) Common Stock",23.2459229151945,14.353091,2.553,17.886,198.0,125.0,170.4,175.0,1.63636,buy,5.375,0.559,1.147,134.419,0.13543001,0.62171,0.236,0.054,0.31467,0.10909,1.6 - Buy,2.8624
@@ -42,10 +40,13 @@ INHD,Inno Holdings Inc.,20.588875361359037,,,,,,,,,,,,,,,,,,,,,
 TACHU,Titan Acquisition Corp.,21.61275646871753,,,,,,,,,,,,,,,,,,,,,
 LINC,Lincoln Educational Services Corporation,22.62501850817708,,,,,,,,,,,,,,,,,,,,,2.8667
 COLL,"Collegium Pharmaceutical, Inc.",27.7335264916678,2.6411755,2.368,4.722,60.0,43.0,49.6,48.0,1.8,buy,3.977,0.703,1.031,390.461,0.057550002,0.17612,,0.063,0.89449,0.05652,1.8 - Buy,
+SPEGU,Silver Pegasus Acquisition Corp,22.987751617304408,,,,,,,,,,,,,,,,,,,,,
 YETI,"YETI Holdings, Inc. Common Stock",28.436962424745012,4.794142,1.667,11.163,80.0,43.0,54.53333,54.0,1.875,buy,0.82,0.741,1.751,41.515,0.113170005,0.25320998,0.541,0.085,0.59208,0.19327,1.9 - Buy,
 SION,"Sionna Therapeutics, Inc.",23.509735815258804,,,,,,,,,,,,,,,,,,,,,
 NMPAU,NMP Acquisition Corp.,24.087964299140225,,,,,,,,,,,,,,,,,,,,,
+GYRO,"Gyrodyne , LLC",24.184913798254577,,,,,,,,,,,,,,,,,,,,,
 MATW,Matthews International Corporation,24.297365808724706,,,,,,,,,,,,,,,,,,,,,
+IESC,"IES Holdings, Inc.",24.70692758344607,,,,,,,,,,,,,,,,,,,,,
 SFD,"Smithfield Foods, Inc.",24.73595555524022,,,,,,,,,,,,,,,,,,,,,
 SWBI,"Smith & Wesson Brands, Inc.",25.294456764655,,,,,,,,,,,,,,,,,,,,,
 LMB,"Limbach Holdings, Inc.",25.803038969385266,,,,,,,,,,,,,,,,,,,,,
