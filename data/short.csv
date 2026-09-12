@@ -1,4 +1,5 @@
-Ticker 12/09/2026 05:07,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 12/09/2026 06:11,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,87.9056986929158,2.7654917,27.133,,,,,,1.0,strong_buy,0.001,0.026,0.026,46.339,0.014520001,0.06313,0.756,-0.231,1.0,0.71779996,1.0 - Strong Buy,
 HCWC,Healthy Choice Wellness Corp. Class A Common Stock,86.2259754099224,2.407994,0.322,-6.921,,,,,,none,0.964,0.098,0.511,430.224,-0.09742,-2.078,,-0.178,0.38645,-0.14085001,,
 ECO,Okeanis Eco Tankers Corp. Common Stock,73.8768138577899,3.388209,35.036,80.108,75.0,75.0,75.0,75.0,,none,5.701,0.353,0.448,82.334,,,6.063,2.394,0.51647997,0.74973,,
 VEON,VEON Ltd.,71.23139805034833,3.1256332,1.733,4.458,100.0,70.0,83.589,81.6,1.0,strong_buy,39.05,0.803,0.968,304.685,0.08538,0.07492,-0.789,0.169,0.87074,0.25806,1.0 - Strong Buy,
@@ -8,7 +9,6 @@ CVI,CVR Energy Inc. Common Stock,82.66574724193791,9.509767,0.74,8.137,36.0,29.0
 JILL,"J. Jill, Inc. Common Stock",82.20255561184008,2.896668,0.851,8.858,25.0,22.0,23.75,24.0,2.2,buy,5.174,0.688,1.296,156.914,0.04996,0.20775999,0.61,0.005,0.67733,0.07127,2.2 - Buy,
 MPC,Marathon Petroleum Corporation Common Stock,74.65632854050692,5.8734603,0.936,9.375,462.0,186.0,351.66666,357.5,2.26316,buy,27.661,0.857,1.25,133.328,0.087390006,0.42099,3.48,0.537,0.12819,0.13561,2.3 - Buy,1.9028
 CRNX,"Crinetics Pharmaceuticals, Inc.",89.79101570161055,7.5410557,186.252,-14.411,85.0,85.0,85.0,85.0,2.77778,hold,11.368,15.238,15.571,3.959,-0.26283002,-0.42446,,23.363,0.0,-5.27347,,
-IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,87.9056986929158,0.9217633,27.133,,,,,,1.0,strong_buy,0.001,0.026,0.026,46.339,0.014520001,0.06313,0.756,-0.231,1.0,0.71779996,1.0 - Strong Buy,
 PSX,Phillips 66 Common Stock,74.45421717995227,3.2861774,0.796,12.211,335.0,160.0,240.05263,242.0,2.15,buy,10.273,0.862,1.32,62.884,0.06036,0.23452999,3.449,0.531,0.13098,0.08529,2.2 - Buy,1.2343
 NHPAP,"National Healthcare Properties, Inc.",84.65498418648939,1.7391305,7.121,23.035,,,,,,none,3.403,0.723,0.929,81.021,0.0118700005,-0.05264,,0.026,0.37877,0.10278,,
 SWKS,"Skyworks Solutions, Inc.",83.38342069884041,2.3171947,3.282,14.97,85.0,52.0,68.35294,70.0,3.0,hold,5.311,1.312,3.101,11.869,0.03441,0.05094,-0.686,-0.031,0.40734002,0.08825,3.0 - Hold,11.8972
@@ -42,6 +42,7 @@ LFT,"Lument Finance Trust, Inc. Common Stock",88.94248274745051,0.23704441,223.5
 VOD,Vodafone Group Plc,71.37701486729995,1.376545,3.063,13.851,20.893375,12.728855,16.059288,15.30746,2.75,hold,3.158,0.953,1.137,100.153,0.01523,0.0010899999,,,0.3147,0.07783,2.8 - Hold,
 VREX,Varex Imaging Corporation,85.84647388220077,1.6407429,1.237,10.756,18.9,18.9,18.9,18.9,3.0,hold,2.378,1.306,3.378,74.3,0.04152,0.04592,,0.037,0.34324002,0.10831001,3.0 - Hold,
 LGHL,Lion Group Holding Ltd.,81.99279836613069,0.16787685,-0.685,,,,,,,none,776.584,3.353,3.816,81.742,-0.10918,-0.33655998,,,0.70679003,0.58487,,
+PBM,Psyence Biomedical Ltd.,79.68841230649899,0.7308161,,-2.11,,,,,,none,1.952,12.122,14.619,,-0.31333,-0.58619,,,0.0,0.0,,
 EDRY,EuroDry Ltd.,78.92404073279685,1.9223279,4.393,9.639,49.0,40.0,45.33333,47.0,,none,8.937,1.116,1.278,88.983,0.0495,0.102290004,,0.57,0.55539,0.49765,,
 EHLD,Euroholdings Ltd.,78.37064990036752,1.6478751,2.166,4.535,,,,,,none,3.761,2.757,3.099,73.409,0.1839,0.43267,4.154,1.95,0.56746,0.53031,,
 TEN,Tsakos Energy Navigation Ltd Common Shares,77.63517931335971,0.7370365,3.201,5.929,50.0,42.0,46.0,46.0,,none,15.553,,,102.313,0.05612,0.17221001,5.601,0.544,0.61575,0.41841,,
