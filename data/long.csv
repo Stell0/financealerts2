@@ -1,29 +1,30 @@
-Ticker 24/09/2026 06:20,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
-CHWY,"Chewy, Inc. Class A Common Stock",27.682830881445103,20.097507,0.613,18.512,36.0,21.0,28.81818,29.0,1.88462,buy,1.523,0.383,0.838,313.414,0.06079,0.71988,0.415,0.073,0.29846,0.024619998,1.9 - Buy,0.4
-PCG,Pacific Gas & Electric Co. Common Stock,28.402307301781725,0.8455983,3.595,8.887,24.0,14.0,19.21875,19.5,2.17647,buy,0.441,0.52,1.216,189.45,0.02568,0.09318,0.398,0.001,0.39823002,0.24788,2.2 - Buy,0.538
-BKNG,Booking Holdings Inc.,21.23507647772501,,,,,,,,,,,,,,,,,,,,,0.6067
-BAC,Bank of America Corporation Common Stock,24.922448488777622,1.4234152,2.962,,76.0,62.0,68.80952,68.0,1.5,strong_buy,124.149,,,,0.00969,0.111990005,0.341,0.168,0.0,0.38305,1.5 - Strong Buy,0.8494
-RCL,Royal Caribbean Cruises Ltd. Common Stock,20.02197436464602,6.0172973,4.521,12.195,415.0,262.0,347.6,355.0,1.7037,buy,3.275,0.113,0.209,224.816,0.07682,0.44669998,-0.046,0.065,0.50284,0.2707,1.7 - Buy,0.9494
-PCTTU,"PureCycle Technologies, Inc.",0.8125379334148953,,,,,,,,,,,,,,,,,,,,,
-VMO,Invesco Municipal Opportunity Trust Common Stock,23.12491032457916,0.8647645,18.223,,,,,,,none,0.077,1.699,1.699,55.582,0.02684,0.02733,10.215,-0.004,1.0,0.87777,,
+Ticker 25/09/2026 05:25,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+CHWY,"Chewy, Inc. Class A Common Stock",26.792713281611867,19.84832,0.605,18.299,36.0,21.0,28.81818,29.0,1.88462,buy,1.523,0.383,0.838,313.414,0.06079,0.71988,0.415,0.073,0.29846,0.024619998,1.9 - Buy,0.3774
+BKNG,Booking Holdings Inc.,23.714739554194146,-11.064952,4.319,11.715,301.0,188.0,238.78378,240.0,1.51282,buy,22.91,1.023,1.094,,0.2038,,1.3,0.081,0.87227994,0.34412,1.5 - Buy,0.6067
+PCG,Pacific Gas & Electric Co. Common Stock,27.906195027254242,0.8394658,3.588,8.868,24.0,14.0,19.21875,19.5,2.17647,buy,0.441,0.52,1.216,189.45,0.02568,0.09318,0.398,0.001,0.39823002,0.24788,2.2 - Buy,0.5184
+BAC,Bank of America Corporation Common Stock,25.1882583934669,1.4241778,2.964,,76.0,62.0,68.61905,68.0,1.5,strong_buy,124.149,,,,0.00969,0.111990005,0.341,0.168,0.0,0.38305,1.5 - Strong Buy,0.8463
+UPS,"United Parcel Service, Inc. Common Stock",28.606142390844568,5.1990967,1.138,8.471,135.0,76.0,115.80769,117.5,2.17241,buy,5.469,1.052,1.179,189.9,0.07278,0.29602,-0.53,0.076,0.22413,0.09052,2.2 - Buy,1.3619
+VMO,Invesco Municipal Opportunity Trust Common Stock,18.548509737088864,0.84033614,17.908,,,,,,,none,0.077,1.699,1.699,55.582,0.02684,0.02733,10.215,-0.004,1.0,0.87777,,
+PCTTU,"PureCycle Technologies, Inc.",0.8125379334329382,,,,,,,,,,,,,,,,,,,,,
 NHIC,NewHold Investment Corp III,3.906630115863129,,,,,,,,,,,,,,,,,,,,,
-MCD,McDonald's Corporation Common Stock,25.958788492034657,-164.81328,8.029,14.898,390.0,250.0,306.3,300.0,2.08571,buy,1.162,0.823,1.081,,0.1325,,0.057,0.037,0.57382,0.46485,2.1 - Buy,2.1606
+VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),18.599224830034743,0.85606414,,,,,,,,none,,0.672,0.672,56.499,0.02649,0.02901,9.407,0.038,1.0,0.87773,,
+LKSPU,Lake Superior Acquisition Corp.,9.157207772312287,,,,,,,,,,,,,,,,,,,,,
+DX,"Dynex Capital, Inc. Common Stock",19.572365634546458,0.877777,49.676,,15.0,14.5,14.75,14.75,,none,2.49,0.034,0.059,713.492,0.023120001,0.18231001,,,1.0,0.9177,,
+MCD,McDonald's Corporation Common Stock,25.09204595038256,-163.91425,7.996,14.836,390.0,250.0,299.8,295.0,2.08571,buy,1.162,0.823,1.081,,0.1325,,0.057,0.037,0.57382,0.46485,2.1 - Buy,2.0568
 OYSEU,Oyster Enterprises II Acquisition Corp,11.65887719944108,,,,,,,,,,,,,,,,,,,,,
-VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),22.84881669722051,0.8796602,,,,,,,,none,,0.672,0.672,56.499,0.02649,0.02901,9.407,0.038,1.0,0.87773,,
-SPKLU,Spark I Acquisition Corp.,13.324895159642228,,,,,,,,,,,,,,,,,,,,,
-DX,"Dynex Capital, Inc. Common Stock",24.69948130610143,0.907965,49.868,,15.0,14.5,14.75,14.75,,none,2.49,0.034,0.059,713.492,0.023120001,0.18231001,,,1.0,0.9177,,
-CTEV,Claritev Corporation Class A Common Stock,26.810985391936377,-1.4396597,5.138,9.473,73.0,30.0,45.83333,43.5,1.66667,buy,0.848,0.687,0.995,,0.01194,,,0.066,0.72966003,0.12804,1.7 - Buy,
-BACCU,Blue Acquisition Corp.,17.98275421952106,,,,,,,,,,,,,,,,,,,,,
-DTSQU,DT Cloud Star Acquisition Corporation,22.19863172767342,,,,,,,,,,,,,,,,,,,,,
-SPEGU,Silver Pegasus Acquisition Corp,22.98775161730441,,,,,,,,,,,,,,,,,,,,,
-CLDX,"Celldex Therapeutics, Inc.",23.57717323706349,,,,,,,,,,,,,,,,,,,,,
+SPKLU,Spark I Acquisition Corp.,13.324895159657741,,,,,,,,,,,,,,,,,,,,,
+CTEV,Claritev Corporation Class A Common Stock,24.611059839721865,-1.3430691,5.109,9.42,73.0,30.0,45.83333,43.5,1.66667,buy,0.848,0.687,0.995,,0.01194,,,0.066,0.72966003,0.12804,1.7 - Buy,
+AGNC,AGNC Investment Corp.,25.863806996395876,1.0591214,35.055,,12.0,10.0,11.05556,11.0,,none,16.154,0.18,0.192,717.093,0.02025,0.19799,,,1.0,0.95614,,
+SPEGU,Silver Pegasus Acquisition Corp,22.987751617304408,,,,,,,,,,,,,,,,,,,,,
 NMPAU,NMP Acquisition Corp.,24.087964299138946,,,,,,,,,,,,,,,,,,,,,
 KCHVU,Kochav Defense Acquisition Corp.,24.984583668289787,,,,,,,,,,,,,,,,,,,,,
 GTENU,"Gores Holdings X, Inc.",25.003130887730606,,,,,,,,,,,,,,,,,,,,,
-PDI,PIMCO Dynamic Income Fund Common Stock,25.84698909125086,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-INNV,InnovAge Holding Corp.,27.05476722699858,,,,,,,,,,,,,,,,,,,,,
-NVO,Novo Nordisk A/S Common Stock,27.407147321117908,4.944925,0.802,1.521,62.854412,39.717632,46.376286,44.312386,2.71429,hold,10.158,0.642,0.873,63.327,0.18729,0.59815,-0.206,0.021,0.81987,0.42540002,2.7 - Hold,2.8147
-FLNC,"Fluence Energy, Inc.",27.994501525945843,,,,,,,,,,,,,,,,,,,,,
+CLDX,"Celldex Therapeutics, Inc.",25.591692331607657,,,,,,,,,,,,,,,,,,,,,
+PDI,PIMCO Dynamic Income Fund Common Stock,25.84698909124597,,,,,,,,,none,,,,,,,,,0.0,0.0,,
+INNV,InnovAge Holding Corp.,25.923077141448154,,,,,,,,,,,,,,,,,,,,,
+FLNC,"Fluence Energy, Inc.",27.398512225234466,,,,,,,,,,,,,,,,,,,,,
+SION,"Sionna Therapeutics, Inc.",27.525410449624903,,,,,,,,,,,,,,,,,,,,,
 CUBWU,Lionheart Holdings,28.131628122543102,,,,,,,,,,,,,,,,,,,,,
-SION,"Sionna Therapeutics, Inc.",28.234244089022166,,,,,,,,,,,,,,,,,,,,,
 CHECU,Chenghe Acquisition III Co.,28.41850373517828,,,,,,,,,,,,,,,,,,,,,
+CMCSA,Comcast Corporation,28.577905691882954,,,,,,,,,,,,,,,,,,,,,
+NVO,Novo Nordisk A/S Common Stock,29.907088732320457,5.0032225,0.808,1.532,62.783062,39.672546,46.32364,44.262085,2.71429,hold,10.158,0.642,0.873,63.327,0.18729,0.59815,-0.206,0.021,0.81987,0.42540002,2.7 - Hold,4.3209
