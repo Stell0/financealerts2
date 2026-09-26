@@ -1,7 +1,8 @@
-Ticker 26/09/2026 05:34,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 26/09/2026 06:30,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 IBO,"Impact BioMedical, Inc. Common Stock",72.71109898788653,56.9,1481.427,-13.12,,,,,,none,0.001,0.005,0.156,9.492,-0.17787,0.23462,,-0.571,0.0,-234.0,,
 CHPGU,ChampionsGate Acquisition Corporation,99.99417549345144,,,,,,,,,,,,,,,,,,,,,
 CRACU,Crown Reserve Acquisition Corp. I,99.48878609902286,,,,,,,,,,,,,,,,,,,,,
+CAPNU,Cayson Acquisition Corp,99.47116787079078,,,,,,,,,,,,,,,,,,,,,
 QSEAU,Quartzsea Acquisition Corporation,99.1711111976704,,,,,,,,,,,,,,,,,,,,,
 DYORU,Insight Digital Partners II,98.52309249414458,,,,,,,,,,,,,,,,,,,,,
 WENNU,Wen Acquisition Corp,97.97218177932355,,,,,,,,,,,,,,,,,,,,,
@@ -29,6 +30,7 @@ NTRA,"Natera, Inc.",83.75044912644785,,,,,,,,,,,,,,,,,,,,,
 LKSP,Lake Superior Acquisition Corp.,83.54698590441642,,,,,,,,,,,,,,,,,,,,,
 DRDBU,Roman DBDR Acquisition Corp. II,82.48446785863051,,,,,,,,,,,,,,,,,,,,,
 TACHU,Titan Acquisition Corp.,81.74480130575094,,,,,,,,,,,,,,,,,,,,,
+BWMN,Bowman Consulting Group Ltd.,80.66394285127745,,,,,,,,,,,,,,,,,,,,,
 TKNO,"Alpha Teknova, Inc.",80.51748329400186,,,,,,,,,,,,,,,,,,,,,
 VEON,VEON Ltd.,79.38417578701471,,,,,,,,,,,,,,,,,,,,,
 CDNA,"CareDx, Inc.",79.29981082914746,,,,,,,,,,,,,,,,,,,,,
@@ -74,6 +76,7 @@ GIWWU,GigCapital8 Corp.,73.98437130583781,,,,,,,,,,,,,,,,,,,,,
 ITGR,Integer Holdings Corporation Common Stock,73.9632233442379,2.4986649,3.058,16.214,127.0,101.0,121.8,127.0,,none,0.629,2.207,3.733,79.391,0.03856,0.075040005,-0.337,-0.026,0.2613,0.10024,,2.8048
 TXG,"10x Genomics, Inc.",73.93009622870913,,,,,,,,,,,,,,,,,,,,,
 PRLB,"Proto Labs, Inc. Common stock",73.89166461582876,3.3286068,3.857,29.172,110.0,87.0,95.5,92.5,,none,5.968,3.268,3.637,0.324,0.03345,0.04494,1.056,0.106,0.45421,0.088520005,,
+CAI,"Caris Life Sciences, Inc.",73.80477975961863,,,,,,,,,,,,,,,,,,,,,
 PCAP,ProCap Acquisition Corp,73.73093229340716,,,,,,,,,,,,,,,,,,,,,
 ILMN,"Illumina, Inc.",73.70148600738027,,,,,,,,,,,,,,,,,,,,,3.0533
 WENN,Wen Acquisition Corp,73.50757336840033,,,,,,,,,,,,,,,,,,,,,
@@ -108,7 +111,7 @@ BALY,Bally's Corporation Common Stock,70.75442052336584,1.0636681,2.957,24.691,1
 VICR,Vicor Corporation,70.44973408657074,,,,,,,,,,,,,,,,,,,,,
 VNCE,Vince Holding Corp.,70.42947865306773,,,,,,,,,,,,,,,,,,,,,
 EGHA,EGH Acquisition Corp.,70.38650490378731,,,,,,,,,,,,,,,,,,,,,
-CD,Chaince Digital Holdings Inc.,70.29216549036433,9.049236,210.717,-120.969,,,,,,none,0.398,25.433,27.527,2.03,-0.06374,-0.077259995,,0.984,0.59834,-3.01828,,
+CD,Chaince Digital Holdings Inc.,70.29216549036433,,,,,,,,,,,,,,,,,,,,,
 CEVA,"CEVA, Inc.",70.18647382849184,,,,,,,,,,,,,,,,,,,,,2.1314
 FGNXP,FG Nexus Inc.,70.1255887589597,,,,,,,,,,,,,,,,,,,,,
 PUBM,"PubMatic, Inc.",70.01200632751264,,,,,,,,,,,,,,,,,,,,,
