@@ -1,10 +1,10 @@
-Ticker 26/09/2026 06:30,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 27/09/2026 05:53,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 OWL,Blue Owl Capital Inc. Class A Common Stock,29.057046340539266,3.1928742,4.737,11.267,20.0,9.5,12.79412,12.0,1.94118,buy,0.247,1.886,1.982,77.391,0.04476,0.05652,-0.14,0.071,0.58491004,0.28944,1.9 - Buy,0.1536
 NBIX,"Neurocrine Biosciences, Inc.",25.62154768578264,,,,,,,,,,,,,,,,,,,,,0.2824
 ALLY,Ally Financial Inc. Common Stock,28.414742690835403,0.8740818,3.659,,58.0,45.0,53.22778,55.0,1.5,strong_buy,26.029,,,,0.0074699996,0.09681,0.135,0.11,0.0,0.25270998,1.5 - Strong Buy,0.3435
 GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",24.050626196375756,2.2717445,2.561,10.939,111.0,54.0,82.0,82.0,1.69231,buy,2.088,0.639,1.93,147.647,0.08479,0.08677,,0.723,0.33435002,0.22264,1.7 - Buy,0.3846
 MGM,MGM Resorts International Common Stock,14.33719021441798,3.2606087,2.053,16.294,57.0,40.0,49.33158,48.3,2.3913,buy,10.972,1.207,1.335,893.311,0.01766,0.18924999,5.194,0.01,0.44157,0.067880005,2.4 - Buy,0.4837
-CHWY,"Chewy, Inc. Class A Common Stock",26.59253465211664,19.794151,0.604,18.252,36.0,21.0,28.81818,29.0,1.88462,buy,1.523,0.383,0.838,313.414,0.06079,0.71988,0.415,0.073,0.29846,0.024619998,1.9 - Buy,0.3774
+CHWY,"Chewy, Inc. Class A Common Stock",26.59253465211664,19.794151,0.604,18.252,36.0,21.0,28.81818,29.0,,none,1.523,0.383,0.838,313.414,0.06079,0.71988,0.415,0.073,0.29846,0.024619998,,0.3774
 PCG,Pacific Gas & Electric Co. Common Stock,28.20631436030852,0.8408286,3.589,8.872,24.0,14.0,19.21875,19.5,2.17647,buy,0.441,0.52,1.216,189.45,0.02568,0.09318,0.398,0.001,0.39823002,0.24788,2.2 - Buy,0.5184
 AN,"AutoNation, Inc. Common Stock",27.09147194798002,2.4486384,0.612,11.084,300.0,210.0,245.66667,249.0,1.61538,buy,1.612,0.147,0.782,501.585,0.05435,0.32766998,1.385,-0.006,0.17834999,0.04449,1.6 - Buy,0.4662
 CCI,Crown Castle Inc. Common Stock,28.20329763197908,-8.837935,12.311,19.043,120.0,80.0,94.35238,92.0,2.13043,buy,2.449,0.429,0.522,,0.04725,,-0.675,-0.049,0.73732,0.46825,2.1 - Buy,0.5527
@@ -14,7 +14,7 @@ HXL,Hexcel Corporation Common Stock,28.7923733994765,4.989823,3.733,18.986,126.0
 HII,"Huntington Ingalls Industries, Inc. Common Stock",26.0564015507556,1.9584891,1.011,11.39,439.0,304.0,367.25,367.0,2.08333,buy,0.305,1.1,1.23,55.252,0.042779997,0.12968001,0.365,0.109,0.124,0.0708,2.1 - Buy,0.831
 CPB,The Campbell's Company,28.77828933748011,,,,,,,,,,,,,,,,,,,,,0.5253
 DAKT,"Daktronics, Inc.",29.80524044552891,,,,,,,,,,,,,,,,,,,,,0.5827
-LW,"Lamb Weston Holdings, Inc. Common Stock ",25.459703196004213,3.2826154,1.506,9.02,65.0,52.0,55.25,55.0,2.5,buy,0.496,0.599,1.423,221.223,0.060310002,0.16280001,-0.062,0.056,0.20678,0.097729996,2.5 - Buy,0.7372
+LW,"Lamb Weston Holdings, Inc. Common Stock ",25.459703196004213,3.2826154,1.506,9.02,65.0,52.0,55.25,55.0,,none,0.496,0.599,1.423,221.223,0.060310002,0.16280001,-0.062,0.056,0.20678,0.097729996,,0.7372
 CHTR,"Charter Communications, Inc.",29.84064285713428,,,,,,,,,,,,,,,,,,,,,0.6601
 MWA,MUELLER WATER PRODUCTS Common Stock,27.470625483001253,3.013794,2.254,9.245,35.0,21.0,29.5,30.5,2.66667,hold,3.172,2.865,4.636,40.423,0.10621,0.21684,0.303,0.041,0.38072,0.23945,2.7 - Hold,0.9165
 HRL,Hormel Foods Corporation Common Stock,21.632269770436285,1.3829638,1.058,10.159,30.0,23.0,26.125,26.0,2.6,hold,1.578,0.886,1.882,36.326,0.04634,0.042930003,-0.672,-0.024,0.15741,0.08615,2.6 - Hold,1.4015
@@ -36,7 +36,7 @@ SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)",29.566563313227668,1.447712
 TXRH,"Texas Roadhouse, Inc.",17.104382202211568,,,,,,,,,,,,,,,,,,,,,1.641
 GEN,Gen Digital Inc.,20.657783100270333,,,,,,,,,,,,,,,,,,,,,1.3749
 DTE,DTE Energy Company Common Stock,17.161482483041766,2.080022,3.223,14.673,168.0,141.0,156.35715,156.5,1.94118,buy,0.202,0.395,0.802,229.06,0.02769,0.1103,0.224,-0.015,0.29347,0.13623999,1.9 - Buy,1.6757
-KNSL,"Kinsale Capital Group, Inc. Common Stock",29.469433807611615,3.699073,3.779,10.3,405.0,259.0,354.77777,375.0,,none,9.242,0.086,0.194,11.033,0.07563,0.30268,0.34,0.168,0.31142,0.40678,,1.0076
+KNSL,"Kinsale Capital Group, Inc. Common Stock",29.469433807611615,3.699073,3.779,10.3,405.0,259.0,354.77777,375.0,3.16667,hold,9.242,0.086,0.194,11.033,0.07563,0.30268,0.34,0.168,0.31142,0.40678,3.2 - Hold,1.0076
 ALL,Allstate Corporation (The) Common Stock,27.606065857237866,1.8238496,0.874,3.582,334.0,191.0,276.0909,281.0,2.6,hold,22.602,0.243,0.363,22.261,0.086780004,0.46113998,0.612,0.118,0.36800998,0.22827,2.6 - Hold,1.6878
 ATO,Atmos Energy Corporation Common Stock,27.499003026481063,1.7411288,7.39,13.859,206.0,170.0,185.54546,183.0,2.71429,hold,3.083,0.537,0.814,67.662,0.03893,0.09792,0.233,0.048,0.62212,0.37223998,2.7 - Hold,1.8975
 EFX,"Equifax, Inc. Common Stock",24.956955301925127,3.9764276,3.544,11.868,245.0,179.0,214.38095,210.0,1.66667,buy,1.448,0.508,0.602,120.956,0.061550003,0.14275,0.007,0.106,0.55542,0.17305,1.7 - Buy,1.3382
@@ -72,7 +72,7 @@ HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial
 IQI,Invesco Quality Municipal Income Trust Common Stock,18.093286777943348,0.8627338,,,,,,,,none,,1.054,1.054,50.342,0.026970001,0.03201,10.252,0.009,1.0,0.87734,,
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,18.35048258584048,0.80205274,,,,,,,,none,,1.273,1.309,46.939,0.03471,0.08154,-0.11,0.029,1.0,0.8875,,
 GTY,Getty Realty Corporation Common Stock,18.929097762479625,1.5812414,12.23,13.506,39.0,33.0,36.42857,36.0,2.375,buy,0.078,1.317,1.719,96.193,0.043369997,0.094639994,0.504,0.109,0.96416,0.55269,2.4 - Buy,
-SAFE,Safehold Inc. New Common Stock ,18.996633492238416,0.35715327,13.073,16.489,28.0,13.0,18.3,17.0,2.72727,hold,0.225,36.517,37.645,176.953,0.028800001,0.0464,0.078,0.2,0.92913,0.73670995,2.7 - Hold,
+SAFE,Safehold Inc. New Common Stock ,18.996633492238416,0.35715327,13.073,16.489,28.0,13.0,17.9,16.5,2.72727,hold,0.225,36.517,37.645,176.953,0.028800001,0.0464,0.078,0.2,0.92913,0.73670995,2.7 - Hold,
 PINE,"Alpine Income Property Trust, Inc. Common Stock",19.146013330939603,0.89054674,10.087,13.465,23.0,20.0,21.95,22.0,,none,0.392,2.667,67.731,108.669,0.022869999,0.02301,,0.346,0.86398005,0.44416,,
 VTN,Invesco Trust for Investment Grade New York Municipals Common Stock,19.713657395041338,0.8429737,,,,,,,,none,,1.676,1.676,47.396,0.026029998,0.02723,21.007,-0.172,1.0,0.8706,,
 EFTY,"Etoiles Capital Group Co., Ltd.",0.0,,,,,,,,,,,,,,,,,,,,,
@@ -83,6 +83,7 @@ VMO,Invesco Municipal Opportunity Trust Common Stock,20.57964051747434,0.8432675
 SEG,Seaport Entertainment Group Inc. Common Stock,20.778225300416903,0.74182093,2.338,-5.643,36.0,36.0,36.0,36.0,,none,9.196,5.287,5.939,22.73,-0.09432,-0.26176,,-0.148,-0.16399999,-0.27064,,
 PCTTU,"PureCycle Technologies, Inc.",0.8125379334731212,,,,,,,,,,,,,,,,,,,,,
 STC,Stewart Information Services Corporation Common Stock,20.87098779764427,1.0834904,0.698,7.98,91.0,71.0,82.25,83.5,,none,9.983,1.833,1.847,46.09,0.04547,0.096140005,0.071,0.243,0.61847997,0.06954,,
+CALM,"Cal-Maine Foods, Inc.",21.388618810206918,1.2032907,0.772,4.805,80.0,70.0,75.0,75.0,3.0,hold,19.696,5.783,7.695,,0.06931,0.122200005,,-0.499,0.23082,-0.11043,3.0 - Hold,
 VKI,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),21.438326826674707,0.8692804,18.41,,,,,,,none,0.002,1.177,1.177,56.757,0.02681,0.02658,9.442,0.002,1.0,0.87788004,,
 O,Realty Income Corporation Common Stock,16.683418315892514,1.3287717,14.129,15.996,74.0,59.0,67.2625,67.5,2.5,buy,0.602,0.741,1.528,74.722,0.02359,0.03225,0.692,0.096,0.9268,0.46965998,2.5 - Buy,2.8516
 VEL,"Velocity Financial, Inc. Common Stock",22.130752550952465,0.83592004,26.699,,23.5,19.0,21.5,22.0,,none,1.931,15.137,15.552,972.462,0.014989999,0.16317,-0.069,0.227,0.75671,0.52085,,
@@ -125,7 +126,7 @@ DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",16.75762729185
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock",16.854981848568865,0.8358076,16.257,,,,,,,none,0.001,0.119,0.119,33.136,0.025209999,0.03001,,0.01,1.0,0.87414,,
 BIOA,"BioAge Labs, Inc.",26.896058762006554,0.8608059,0.74,-0.072,73.0,20.0,35.625,30.0,1.66667,buy,6.945,16.749,17.189,0.756,-0.18474,-0.28211,,0.016,0.0,-11.96777,1.7 - Buy,
 PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,26.98651807063937,0.55370915,35.005,,15.0,10.0,11.28571,10.0,,none,3.15,1.344,1.798,1239.082,0.007929999,0.089370005,,0.061,0.82927,0.10908,,
-ACAD,ACADIA Pharmaceuticals Inc.,17.14533401423597,2.7242787,2.354,27.245,49.0,17.0,32.36842,33.0,1.8,buy,5.551,3.107,3.388,5.652,0.03637,0.35743,0.133,0.164,0.62061,0.12286,1.8 - Buy,
+ACAD,ACADIA Pharmaceuticals Inc.,17.14533401423597,2.7242787,2.354,27.245,49.0,17.0,32.15789,33.0,1.8,buy,5.551,3.107,3.388,5.652,0.03637,0.35743,0.133,0.164,0.62061,0.12286,1.8 - Buy,
 MTG,MGIC Investment Corporation Common Stock,27.185213959069372,1.1736586,5.254,6.8,35.0,28.0,31.0,31.0,2.83333,hold,1.01,3.243,4.964,12.903,0.088,0.13923,0.062,-0.029,0.92607003,0.80851996,2.8 - Hold,
 EVN,Eaton Vance Municipal Income Trust Common Stock,27.19602739278312,0.9068174,,,,,,,,none,,1.203,1.203,51.819,0.025810001,0.086330004,,0.059,1.0,0.86503,,
 ESNT,Essent Group Ltd. Common Shares,27.34784966889581,1.0113786,4.177,6.437,80.0,65.0,74.71429,75.0,2.375,buy,7.769,1.101,1.791,8.757,0.07202,0.12009,0.078,0.136,0.76005995,0.6575,2.4 - Buy,
@@ -159,7 +160,7 @@ NNN,"NNN REIT, Inc. Common Stock",19.47467228431216,1.777032,13.558,15.016,50.5,
 UVV,Universal Corporation Common Stock,24.50279137131693,0.7626008,0.748,9.23,67.0,67.0,67.0,67.0,,none,6.972,0.719,2.572,85.545,0.035889998,0.022769999,,-0.118,0.17417999,0.00438,,11.978
 DX,"Dynex Capital, Inc. Common Stock",19.5723656345027,0.877777,49.676,,15.0,14.5,14.75,14.75,,none,2.49,0.034,0.059,713.492,0.023120001,0.18231001,,,1.0,0.9177,,
 SNDR,"Schneider National, Inc. Common Stock",29.635848866686576,1.7906257,0.953,9.402,45.0,32.0,37.5,37.0,2.4375,buy,1.866,1.793,2.033,12.947,0.02221,0.036760002,0.4,0.104,0.16025,0.04552,2.4 - Buy,
-MCD,McDonald's Corporation Common Stock,24.736261486254232,-163.55464,7.983,14.812,390.0,250.0,299.8,295.0,2.08571,buy,1.162,0.823,1.081,,0.1325,,0.057,0.037,0.57382,0.46485,2.1 - Buy,2.0568
+MCD,McDonald's Corporation Common Stock,24.736261486254232,-163.55464,7.983,14.812,390.0,250.0,300.27585,295.0,2.05882,buy,1.162,0.823,1.081,,0.1325,,0.057,0.037,0.57382,0.46485,2.1 - Buy,2.0568
 VICI,VICI Properties Inc. Common Stock,29.750542339732394,0.8874042,10.704,12.052,38.0,26.0,31.95833,32.0,1.88,buy,0.273,11.235,11.236,60.277,0.04818,0.09849,-0.414,0.057,0.99271005,0.70182997,1.9 - Buy,
 ADC,Agree Realty Corporation Common Stock,20.023926123498633,1.3208065,15.866,18.295,93.0,72.0,83.83333,83.5,1.85,buy,0.259,0.244,0.271,58.984,0.02399,0.037049998,0.021,0.168,0.87656,0.48116,1.9 - Buy,
 AVA,Avista Corporation Common Stock,25.107130533333528,1.0423657,3.279,9.786,50.0,37.0,41.33333,40.5,2.85714,hold,0.298,0.298,1.1,119.709,0.02726,0.08306,1.479,0.005,0.66753995,0.13317001,2.9 - Hold,2.2729
@@ -190,6 +191,7 @@ NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,23.0349662389682
 DSU,"Blackrock Debt Strategies Fund, Inc. Common Stock",23.043121237355003,0.9303777,13.257,,,,,,,none,0.025,0.104,0.108,17.671,0.03975,0.043,-0.79,-0.018,1.0,0.90358,,
 AKR,Acadia Realty Trust Common Stock,28.053759390443357,1.130767,11.149,19.084,26.0,23.0,24.71429,25.0,1.33333,strong_buy,0.374,0.426,1.245,63.176,0.011779999,0.057150003,4.001,0.134,0.70607,0.29906,1.3 - Strong Buy,
 TCBIO,"Texas Capital Bancshares, Inc.",13.074742820825369,,,,,,,,,,,,,,,,,,,,,
+CCAP,"Crescent Capital BDC, Inc.",28.128143843344798,0.5371576,8.075,,14.0,10.25,12.25,12.0,,none,0.423,0.654,1.224,141.059,0.04586,-0.00459,,-0.155,1.0,0.78372,,
 RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",13.135874018708583,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 OGS,"ONE Gas, Inc. Common Stock",23.175346982558317,1.2744507,3.415,10.057,103.0,79.0,89.0625,88.0,1.66667,buy,0.171,0.19,0.481,95.903,0.03464,0.085760005,0.396,-0.029,0.38094002,0.19847,1.7 - Buy,
 ONIT,Onity Group Inc. Common Stock,28.232505131518376,0.4238164,9.522,17.643,55.0,50.0,52.5,52.5,,none,27.434,0.334,3.354,1644.195,0.02657,0.23783001,,0.147,0.93508005,0.50866,,
@@ -208,7 +210,7 @@ JBS,JBS N.V. Class A Common Shares,29.150651042903046,1.5065104,0.388,6.403,20.6
 NMZ,"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",24.21996898479401,0.8699846,23.239,,,,,,,none,0.079,0.18,0.18,28.711,,,,-0.013,1.0,0.87167,,
 PRKS,United Parks & Resorts Inc. Common Stock,24.27942382322953,-2.4426975,2.365,7.596,55.0,40.0,47.3,47.5,,none,0.421,0.234,0.478,,0.078449994,,-0.076,-0.014,0.46013,0.24239999,,
 PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,14.353074303809338,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-CTEV,Claritev Corporation Class A Common Stock,24.405669119258377,-1.33387,5.106,9.415,73.0,30.0,45.83333,43.5,1.66667,buy,0.848,0.687,0.995,,0.01194,,,0.066,0.72966003,0.12804,1.7 - Buy,
+CTEV,Claritev Corporation Class A Common Stock,24.405669119258377,-1.33387,5.106,9.415,73.0,30.0,46.0,43.0,1.8,buy,0.848,0.687,0.995,,0.01194,,,0.066,0.72966003,0.12804,1.8 - Buy,
 GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,14.429479382993199,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 L,Loews Corporation Common Stock,24.432451771197744,1.1208538,1.331,7.687,,,,,,none,31.292,0.507,0.507,44.609,0.01909,0.09313,0.156,0.039,0.36290002,0.14533,,
 CRS,Carpenter Technology Corporation Common Stock,24.490408116149453,8.837323,6.402,24.211,700.0,540.0,625.875,614.0,,none,7.936,2.106,3.81,32.658,0.118719995,0.25752002,0.464,0.126,0.30584,0.24078,,
@@ -224,6 +226,7 @@ SCD,LMP Capital and Income Fund Inc. Common Stock,24.852241877545083,0.85997224,
 INVH,Invitation Homes Inc. Common Stock,24.86469456777147,1.7363513,8.509,16.152,41.0,28.0,33.52174,34.0,2.08,buy,0.191,0.142,0.43,94.425,0.02479,0.070539996,0.605,0.101,0.56262,0.25115,2.1 - Buy,
 NJR,NewJersey Resources Corporation Common Stock,24.877782423173887,1.9415354,4.028,11.941,63.0,53.0,59.85714,61.0,2.0,buy,0.335,0.252,0.661,146.778,0.044970002,0.14453,,0.168,0.39178002,0.09133001,2.0 - Buy,2.2165
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",14.940217761989114,,,,,,,,,none,,,,,,,,,0.0,0.0,,
+CASH,"Pathward Financial, Inc.",24.977395726184813,1.8234379,2.138,,105.0,97.0,101.0,101.0,,none,7.192,,,,0.024300002,0.21176,-0.247,-0.135,0.0,0.20522,,
 NPKI,NPK International Inc. Common Stock,24.987192888983518,2.6794696,3.346,12.064,22.0,18.0,20.33333,21.0,1.0,strong_buy,0.098,1.303,1.614,5.169,0.07896,0.111770004,0.415,0.196,0.35808998,0.19722,1.0 - Strong Buy,
 KRG,Kite Realty Group Trust Common Stock,25.018943217828543,1.7303262,9.764,16.425,34.0,27.0,30.77778,31.0,2.54545,hold,0.722,0.471,0.929,96.238,0.01818,0.10738,0.58,-0.08,0.73175,0.24018,2.5 - Hold,
 DUK,Duke Energy Corporation (Holding Company) Common Stock,25.10223377778333,1.6440402,5.579,11.013,147.0,127.0,136.94444,136.5,2.04545,buy,0.863,0.259,0.661,162.155,0.028369999,0.098570004,0.106,0.011,0.51971,0.27503002,2.0 - Buy,2.1261
@@ -243,12 +246,12 @@ RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",26.2
 NAMSW,NewAmsterdam Pharma Company N.V.,16.540858464693137,,,,,,,,,,,,,,,,,,,,,
 UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,26.590350459615465,0.79134566,,,,,,,,none,,0.004,0.008,23.44,0.00887,0.36066002,4.687,-0.038,1.0,0.67913,,
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,16.669161351411987,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-FLO,"Flowers Foods, Inc. Common Stock",26.682119082826823,0.91972435,0.604,6.231,12.0,6.0,7.9,7.0,,none,0.249,0.416,0.771,151.702,0.05286,0.053629998,,,0.48716,0.062529996,,
+FLO,"Flowers Foods, Inc. Common Stock",26.682119082826823,0.91972435,0.607,6.515,12.0,6.0,7.9,7.0,,none,0.249,0.424,0.772,151.702,0.0493,0.040110003,,,0.48629,0.062529996,,
 DEI,"Douglas Emmett, Inc. Common Stock",26.804660519580143,0.89459777,8.61,14.862,16.0,11.0,13.1,13.0,2.91667,hold,2.275,0.522,0.547,163.133,0.012610001,-0.01928,,0.016,0.63176996,0.19624001,2.9 - Hold,
 XENE,Xenon Pharmaceuticals Inc.,16.833283319715523,,,,,,,,,,,,,,,,,,,,,
 BBT,Beacon Financial Corporation Common stock,26.871133314336817,0.93030167,2.82,,38.0,33.0,34.83333,34.5,2.42857,buy,15.676,,,,0.00945,0.084230006,2.11,1.445,0.0,0.46051997,2.4 - Buy,
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,27.079610207650127,0.85626036,,,,,,,,none,,0.198,0.198,26.961,0.0327,0.11459,-0.18,0.181,1.0,0.79049003,,
-HGV,Hilton Grand Vacations Inc. Common Stock ,27.09772211560501,2.5323894,2.232,11.275,74.0,46.0,55.45455,51.0,,none,3.731,2.878,4.814,624.086,0.03348,0.11456,-0.4,0.062,0.24617,0.12666,,
+HGV,Hilton Grand Vacations Inc. Common Stock ,27.09772211560501,2.5323894,2.232,11.275,74.0,46.0,55.9,52.5,2.3,buy,3.731,2.878,4.814,624.086,0.03348,0.11456,-0.4,0.062,0.24617,0.12666,2.3 - Buy,
 SKT,Tanger Inc. Common Stock,17.11705731290197,5.91955,9.22,17.175,46.0,37.0,41.1,41.0,2.72727,hold,1.578,0.521,0.743,278.311,0.04715,0.19399999,0.108,0.115,0.73124003,0.32639998,2.7 - Hold,
 FINW,FinWise Bancorp,17.368716979592914,,,,,,,,,,,,,,,,,,,,,
 WYY,WidePoint Corporation Common Stock,22.465071761321536,4.588926,0.303,36.519,30.0,30.0,30.0,30.0,,none,1.022,0.919,1.038,36.977,-0.00988,-0.10439,,0.019,0.14247,0.00027000002,,
@@ -279,7 +282,7 @@ TYG,Tortoise Energy Infrastructure Corporation Common Stock,28.575004583020114,0
 CALX,"Calix, Inc Common Stock",28.645739549767768,2.9387248,1.716,24.091,85.0,52.0,62.33333,60.0,1.57143,buy,3.086,1.573,2.83,1.969,0.04081,0.06905,,0.213,0.56581,0.074489996,1.6 - Buy,
 CABO,"Cable One, Inc. Common Stock",28.759103968590615,0.25465417,2.061,4.303,86.0,38.0,51.0,40.0,,none,32.051,0.398,0.475,940.713,0.0432,-1.26206,,-0.084,0.73467004,0.23148,,
 NXRT,"NexPoint Residential Trust, Inc. Common Stock",23.807918756189217,2.0245335,8.193,16.732,35.0,23.0,28.5,28.0,,none,0.784,0.908,2.87,629.179,0.00955,-0.11093,,0.024,0.60032004,0.11203,,
-SPMC,"Sound Point Meridian Capital, Inc. Common Stock",28.840908546364545,0.8469088,3.279,,11.0,10.0,10.5,10.5,,none,0.994,0.119,0.119,28.828,,,0.758,-0.353,1.0,0.68516,,
+SPMC,"Sound Point Meridian Capital, Inc. Common Stock",28.840908546364545,0.8469088,3.279,,11.0,10.0,10.5,10.5,2.0,buy,0.994,0.119,0.119,28.828,,,0.758,-0.353,1.0,0.68516,2.0 - Buy,
 MBINL,Merchants Bancorp,18.88011271458695,,,,,,,,,,,,,,,,,,,,,
 PFSI,"PennyMac Financial Services, Inc. Common Stock",28.94595675976719,0.7840272,8.047,,100.0,78.0,90.57143,90.0,2.125,buy,8.007,0.467,0.932,549.403,0.01451,0.09377,-0.839,0.018,0.86019,0.04483,2.1 - Buy,
 MUA,"Blackrock MuniAssets Fund, Inc Common Stock",28.958689198366983,0.84625614,,,,,,,,none,,0.317,0.321,4.334,0.02626,0.02606,7.846,-0.021,1.0,0.82363,,
@@ -287,19 +290,22 @@ DEA,"Easterly Government Properties, Inc. Common Stock",29.02976927268815,0.8230
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,19.0821325768478,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 SWZ,Total Return Securities Fund Common Stock,29.086480916423774,0.8420139,,,,,,,,,,,,,,,,,,,,
 ANRO,"Alto Neuroscience, Inc. Common Stock",29.138978652910076,4.240435,,-9.352,55.0,26.0,38.382,37.0,1.18182,strong_buy,6.211,14.637,14.852,10.624,-0.26786,-0.49167,,,0.0,0.0,1.2 - Strong Buy,
-EMA,Emera Incorporated Common Shares,29.227725814146705,1.6013539,4.231,11.106,72.0,53.0,62.5,62.5,2.71429,hold,1.289,0.34,0.731,153.868,0.029089998,0.0756,-0.244,0.012,0.43756,0.17852,2.7 - Hold,2.8101
-LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,29.244838927632056,-1.7836357,3.273,14.884,14.5,5.0,9.0,9.0,,none,0.289,0.3,0.502,,0.03046,,,0.009,0.35061002,0.08116,,
+EMA,Emera Incorporated Common Shares,29.227725814146705,1.6014128,4.231,11.106,72.0,53.0,62.5,62.5,2.71429,hold,1.289,0.34,0.731,153.868,0.029089998,0.0756,-0.244,0.012,0.43756,0.17852,2.7 - Hold,2.8101
+BPYPP,Brookfield Property Partners L.P.,29.23259981853674,0.77364326,10.217,22.579,,,,,,none,3.33,0.074,0.822,92.569,0.0197,-0.00273,,0.053,0.58841,0.39773,,
+LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,29.244838927632056,-1.7836357,3.273,14.884,14.5,5.0,9.0,9.0,2.0,buy,0.289,0.3,0.502,,0.03046,,,0.009,0.35061002,0.08116,2.0 - Buy,
 NHI,"National Health Investors, Inc. Common Stock",29.318421095022764,2.0916421,10.446,15.715,90.0,73.0,81.875,80.0,1.75,buy,0.619,1.195,1.817,80.432,0.04385,0.10717,0.452,0.338,0.73925,0.4109,1.8 - Buy,
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,19.32059791305509,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,19.364108974283294,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 UNF,Unifirst Corporation Common Stock,29.422950901042384,2.1316035,1.846,15.718,280.0,262.0,273.33334,278.0,,none,9.338,1.571,3.111,3.869,0.03348,0.05296,-0.488,0.039,0.36678,0.044499997,,
 KIM,Kimco Realty Corporation (HC) Common Stock,29.477944182879195,1.4651345,10.684,17.541,31.0,23.0,26.82143,26.0,2.3913,buy,1.047,0.97,0.971,84.993,0.023740001,0.05806,-0.058,0.049,0.68933,0.36565,2.4 - Buy,
 ROL,"Rollins, Inc. Common Stock",19.50629477348328,10.107708,3.939,17.866,66.0,32.0,44.52941,44.0,2.52632,hold,0.227,0.424,0.629,78.015,0.14061,0.37008998,0.031,0.079,0.52366,0.18799,2.5 - Hold,2.6402
+CAR,"Avis Budget Group, Inc.",29.59907389679519,-1.1282912,2.78,21.152,160.0,94.0,128.57143,136.0,3.375,hold,15.796,0.672,0.848,,0.02701,,8.8,-0.013,0.27385,0.1491,3.4 - Hold,
 BWXT,"BWX Technologies, Inc. Common Stock",29.636299420900414,9.507038,4.012,29.588,290.0,165.0,222.06938,230.0,1.61111,buy,6.638,2.257,2.397,151.4,0.05534,0.28289,0.141,0.18,0.22082001,0.10393,1.6 - Buy,
 DY,"Dycom Industries, Inc. Common Stock",29.650468445068196,3.9670966,1.582,11.68,625.0,375.0,520.9091,525.0,1.09091,strong_buy,11.662,2.205,2.348,147.703,0.071,0.19197,0.144,0.456,0.20528999,0.09571,1.1 - Strong Buy,
 STHO,Star Holdings,19.690481455869524,,,,,,,,,,,,,,,,,,,,,
 CDP,COPT Defense Properties Common Shares of Beneficial Interest,29.700779460094523,2.5025854,8.266,15.842,44.0,38.0,40.375,40.5,1.75,buy,0.214,2.093,2.594,164.15,0.0343,0.10825,0.192,0.039,0.58258,0.32167,1.8 - Buy,
 CMS,CMS Energy Corporation Common Stock,19.85213799269962,2.0671198,4.499,13.137,87.0,68.0,78.66667,78.0,2.26667,buy,0.769,0.413,0.936,185.604,0.02971,0.09158,-0.439,-0.005,0.40315,0.17167999,2.3 - Buy,2.2767
+BPYPO,Brookfield Property Partners L.P.,29.980582204711453,0.75297636,10.194,22.528,,,,,,none,3.33,0.074,0.822,92.569,0.0197,-0.00273,,0.053,0.58841,0.39773,,
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares",20.089637044109363,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 QTTB,Q32 Bio Inc.,20.29671227634821,,,,,,,,,,,,,,,,,,,,,
 RLTY,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of Beneficial Interest,20.342168133767778,,,,,,,,,none,,,,,,,,,0.0,0.0,,
@@ -310,7 +316,6 @@ QFIN,"Qfin Holdings, Inc. ",21.179329850207115,,,,,,,,,,,,,,,,,,,,,
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",21.21449630096021,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 CTRN,"Citi Trends, Inc.",21.26213315690524,,,,,,,,,,,,,,,,,,,,,
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,21.338759010113844,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-CALM,"Cal-Maine Foods, Inc.",21.388618810206918,,,,,,,,,,,,,,,,,,,,,
 NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,21.455395795170844,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 DYN,"Dyne Therapeutics, Inc.",21.6940049894616,,,,,,,,,,,,,,,,,,,,,
 PII,Polaris Inc. Common Stock,26.781513457142168,3.6072376,0.636,9.713,85.0,46.0,71.93333,73.0,2.72222,hold,5.309,0.327,1.2,244.899,0.02638,-0.25571,,0.088,0.21948,0.071729995,2.7 - Hold,3.3368
@@ -322,9 +327,10 @@ JBIO,"Jade Biosciences, Inc.",22.094930614827398,,,,,,,,,,,,,,,,,,,,,
 MGPI,"MGP Ingredients, Inc.",22.11780616389881,,,,,,,,,,,,,,,,,,,,,
 OZKAP,Bank OZK,22.276946115580802,,,,,,,,,,,,,,,,,,,,,
 DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,22.349393717286095,,,,,,,,,none,,,,,,,,,0.0,0.0,,
+CASY,"Caseys General Stores, Inc.",27.523567761656974,5.405752,1.311,15.652,933.0,687.0,790.5263,775.0,1.6,buy,14.179,0.565,1.019,70.547,0.07912,0.19983,0.277,0.243,0.2382,0.065,1.6 - Buy,2.7014
 BYD,Boyd Gaming Corporation Common Stock,22.667332324887816,2.0827487,1.978,6.909,111.0,87.0,95.9375,93.5,2.36842,buy,4.454,0.646,0.774,130.47,0.07824,0.93084997,-0.049,0.0,0.59126,0.20891,2.4 - Buy,
 ELVR,Elevra Lithium Limited,22.78802552323847,,,,,,,,,,,,,,,,,,,,,
-SFBS,"ServisFirst Bancshares, Inc. Common Stock",22.861667216099644,2.2837083,9.881,,50.0,47.0,48.33333,48.0,1.33333,strong_buy,3.443,,,,0.01796,0.17334999,0.401,0.301,0.0,0.70001,1.3 - Strong Buy,
+SFBS,"ServisFirst Bancshares, Inc. Common Stock",22.861667216099644,2.2837083,9.881,,50.0,47.0,48.33333,48.0,,none,3.443,,,,0.01796,0.17334999,0.401,0.301,0.0,0.70001,,
 DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,22.862524169408488,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 SPEGU,Silver Pegasus Acquisition Corp,22.987751617304408,,,,,,,,,,,,,,,,,,,,,
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,23.61656521600125,,,,,,,,,none,,,,,,,,,0.0,0.0,,
@@ -350,7 +356,6 @@ AEE,Ameren Corporation Common Stock,24.802449054834973,2.010031,5.878,12.645,136
 CLDX,"Celldex Therapeutics, Inc.",24.847146900340793,,,,,,,,,,,,,,,,,,,,,
 MEGI,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,24.882419368346866,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,24.920872856983095,,,,,,,,,none,,,,,,,,,0.0,0.0,,
-CASH,"Pathward Financial, Inc.",24.977395726184813,,,,,,,,,,,,,,,,,,,,,
 KCHVU,Kochav Defense Acquisition Corp.,24.98458366828979,,,,,,,,,,,,,,,,,,,,,
 GTENU,"Gores Holdings X, Inc.",25.00313088773069,,,,,,,,,,,,,,,,,,,,,
 MBNKO,Medallion Bank,25.00551374849234,,,,,,,,,,,,,,,,,,,,,
@@ -373,7 +378,7 @@ MATW,Matthews International Corporation,26.344995279576988,,,,,,,,,,,,,,,,,,,,,
 CWST,"Casella Waste Systems, Inc.",26.391316040826577,,,,,,,,,,,,,,,,,,,,,
 EFSCP,Enterprise Financial Services Corporation,26.394054808827484,,,,,,,,,,,,,,,,,,,,,
 TNXP,Tonix Pharmaceuticals Holding Corp.,26.47891766750994,,,,,,,,,,,,,,,,,,,,,
-ENB,Enbridge Inc Common Stock,26.78236371447199,2.4673617,2.665,12.8,59.389713,45.11986,51.534542,50.814293,2.17391,buy,0.962,0.49,0.721,162.975,0.03288,0.092209995,-0.36,0.971,0.32594,0.101610005,2.2 - Buy,4.8867
+ENB,Enbridge Inc Common Stock,26.78236371447199,2.4674523,2.665,12.8,59.389713,45.11986,51.839684,51.424576,2.17391,buy,0.962,0.49,0.721,162.975,0.03288,0.092209995,-0.36,0.971,0.32594,0.101610005,2.2 - Buy,4.8867
 CGABL,The Carlyle Group Inc.,26.947417100608305,,,,,,,,,,,,,,,,,,,,,
 UPBD,"Upbound Group, Inc.",26.999625214863343,,,,,,,,,,,,,,,,,,,,,
 GGAL,Grupo Financiero Galicia S.A.,27.092055489943505,,,,,,,,,,,,,,,,,,,,,
@@ -382,7 +387,6 @@ PIII,P3 Health Partners Inc.,27.250661810403574,,,,,,,,,,,,,,,,,,,,,
 CYTK,"Cytokinetics, Incorporated",27.31754203364592,,,,,,,,,,,,,,,,,,,,,
 UDR,"UDR, Inc. Common Stock",27.417858402435964,3.754577,10.082,17.11,46.0,38.0,41.45238,41.0,2.36364,buy,0.009,0.002,0.178,156.144,0.022449998,0.13739,0.909,-0.001,0.66581,0.20177999,2.4 - Buy,
 CMCSA,Comcast Corporation,27.463502922201897,,,,,,,,,,,,,,,,,,,,,
-CASY,"Caseys General Stores, Inc.",27.523567761656974,,,,,,,,,,,,,,,,,,,,,2.7014
 SION,"Sionna Therapeutics, Inc.",27.52541044960263,,,,,,,,,,,,,,,,,,,,,
 OCFC,OceanFirst Financial Corp.,27.56844455863639,,,,,,,,,,,,,,,,,,,,,
 TECX,"Tectonic Therapeutic, Inc.",27.627201266998437,,,,,,,,,,,,,,,,,,,,,
@@ -396,8 +400,7 @@ GSHD,"Goosehead Insurance, Inc.",28.034009539238546,,,,,,,,,,,,,,,,,,,,,
 TBBK,"The Bancorp, Inc.",28.075180132213866,,,,,,,,,,,,,,,,,,,,,
 FRT,Federal Realty Investment Trust Common Stock,28.08152758412112,2.99634,11.047,17.611,149.0,117.0,132.26315,134.0,1.89474,buy,1.327,0.553,0.564,134.114,0.03259,0.12550999,-0.456,0.072,0.68136,0.35035,1.9 - Buy,
 DNTH,"Dianthus Therapeutics, Inc.",28.093718168459496,,,,,,,,,,,,,,,,,,,,,
-CCAP,"Crescent Capital BDC, Inc.",28.128143843344798,,,,,,,,,,,,,,,,,,,,,
-CUBWU,Lionheart Holdings,28.131628122543106,,,,,,,,,,,,,,,,,,,,,
+CUBWU,Lionheart Holdings,28.1316281227185,,,,,,,,,,,,,,,,,,,,,
 GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,28.139081170869716,,,,,,,,,none,,,,,,,,,0.0,0.0,,
 NAVN,"Navan, Inc.",28.148783693861496,,,,,,,,,,,,,,,,,,,,,
 PTRN,Pattern Group Inc.,28.176355073787494,,,,,,,,,,,,,,,,,,,,,
@@ -420,7 +423,6 @@ GLUE,"Monte Rosa Therapeutics, Inc.",29.03473135809454,,,,,,,,,,,,,,,,,,,,,
 GPCR,Structure Therapeutics Inc.,29.110352452613974,,,,,,,,,,,,,,,,,,,,,
 INNV,InnovAge Holding Corp.,29.116198280410494,,,,,,,,,,,,,,,,,,,,,
 EVER,"EverQuote, Inc.",29.20900935857094,,,,,,,,,,,,,,,,,,,,,
-BPYPP,Brookfield Property Partners L.P.,29.23259981853674,,,,,,,,,,,,,,,,,,,,,
 MSEX,Middlesex Water Company,29.240966268856223,,,,,,,,,,,,,,,,,,,,,
 WTW,Willis Towers Watson Public Limited Company,29.255648234238553,,,,,,,,,,,,,,,,,,,,,
 MPLT,"MapLight Therapeutics, Inc.",29.316209881608334,,,,,,,,,,,,,,,,,,,,,
@@ -430,7 +432,6 @@ TORO,Toro Corp.,29.38685777148612,,,,,,,,,,,,,,,,,,,,,
 JBSS,"John B. Sanfilippo & Son, Inc.",29.38850609859286,,,,,,,,,,,,,,,,,,,,,
 GTEN,"Gores Holdings X, Inc.",29.41330247249786,,,,,,,,,,,,,,,,,,,,,
 ZUMZ,Zumiez Inc.,29.576130704503612,,,,,,,,,,,,,,,,,,,,,
-CAR,"Avis Budget Group, Inc.",29.59907389679519,,,,,,,,,,,,,,,,,,,,,
 RFIL,"RF Industries, Ltd.",29.652420043353107,,,,,,,,,,,,,,,,,,,,,
 RNAC,"Cartesian Therapeutics, Inc.",29.686303248220835,,,,,,,,,,,,,,,,,,,,,
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,29.758908572568803,,,,,,,,,none,,,,,,,,,0.0,0.0,,
@@ -444,4 +445,3 @@ GIII,"G-III Apparel Group, LTD.",29.91637864444466,,,,,,,,,,,,,,,,,,,,,
 LBTYK,Liberty Global Ltd.,29.927760377705955,,,,,,,,,,,,,,,,,,,,,
 PATK,"Patrick Industries, Inc.",29.937159492022868,,,,,,,,,,,,,,,,,,,,,
 FCNCP,"First Citizens BancShares, Inc.",29.956565403384268,,,,,,,,,,,,,,,,,,,,,
-BPYPO,Brookfield Property Partners L.P.,29.980582204711453,,,,,,,,,,,,,,,,,,,,,
