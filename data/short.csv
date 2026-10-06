@@ -1,32 +1,31 @@
-Ticker 06/10/2026 06:59,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
+Ticker 06/10/2026 07:55,name,rsi,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,totalCashPerShare,quickRatio,currentRatio,debtToEquity,returnOnAssets,returnOnEquity,earningsGrowth,revenueGrowth,grossMargins,operatingMargins,averageAnalystRating,trailingPegRatio
 CHPGU,ChampionsGate Acquisition Corporation,99.99417549345144,-58.8764,,,,,,,,none,0.002,0.047,0.198,,,,,,0.0,0.0,,
 INACU,Indigo Acquisition Corp.,99.90200607147116,,,,,,,,,,,,,,,,,,,,,
 QSEAU,Quartzsea Acquisition Corporation,99.17111119807545,,,,,,,,,,,,,,,,,,,,,
 WENNU,Wen Acquisition Corp,97.97218177932355,,,,,,,,,,,,,,,,,,,,,
 LPBBU,Launch Two Acquisition Corp.,97.80075202412021,,,,,,,,,,,,,,,,,,,,,
 WTGUU,Wintergreen Acquisition Corp.,97.68299926373302,,,,,,,,,,,,,,,,,,,,,
-ORIQU,Origin Investment Corp I,97.41569905756309,,,,,,,,,,,,,,,,,,,,,
+ORIQU,Origin Investment Corp I,97.4156990575078,,,,,,,,,,,,,,,,,,,,,
 XRPN,Armada Acquisition Corp. II,96.96846713626971,,,,,,,,,,,,,,,,,,,,,
 SVCCU,Stellar V Capital Corp.,96.87782082627226,,,,,,,,,,,,,,,,,,,,,
 VNMEU,Vendome Acquisition Corporation I,96.55041611667278,,,,,,,,,,,,,,,,,,,,,
 HVMCU,Highview Merger Corp.,96.45531048432744,,,,,,,,,,,,,,,,,,,,,
-TDWDU,Tailwind 2.0 Acquisition Corp.,93.85468435848938,,,,,,,,,,,,,,,,,,,,,
+TDWDU,Tailwind 2.0 Acquisition Corp.,93.85468435848944,,,,,,,,,,,,,,,,,,,,,
 CVI,CVR Energy Inc. Common Stock,78.25925381375069,10.903868,0.827,9.086,53.0,29.0,37.6,36.0,4.16667,underperform,7.331,0.879,1.418,241.801,0.055040002,0.24254999,,0.555,0.10905,0.02849,4.2 - Underperform,
 WSTNU,Westin Acquisition Corp,92.24713010086391,,,,,,,,,,,,,,,,,,,,,
 IDT,IDT Corporation Class B Common Stock,77.14820325091122,5.2715425,1.348,13.409,85.0,85.0,85.0,85.0,1.0,strong_buy,10.948,0.946,1.862,0.385,0.11,0.25757998,0.3,0.071,0.38275,0.100150004,1.0 - Strong Buy,
-HCACU,Hall Chadwick Acquisition Corp.,91.59168239772217,,,,,,,,,,,,,,,,,,,,,
 LCCCU,Lakeshore Acquisition III Corp.,91.2052319710535,,,,,,,,,,,,,,,,,,,,,
 RANGU,Range Capital Acquisition Corp.,91.0352685957358,,,,,,,,,,,,,,,,,,,,,
+HSTM,"HealthStream, Inc.",74.74953467998876,2.586094,2.706,19.352,40.0,29.0,34.5,34.5,2.2,buy,2.282,0.844,1.062,3.766,0.03218,0.059959996,0.284,0.125,0.65081,0.099379994,2.2 - Buy,2.8196
 XRPNU,Armada Acquisition Corp. II,88.73593352940587,,,,,,,,,,,,,,,,,,,,,
-OFSSO,OFS Capital Corporation,87.86229007555878,,,,,,,,,,,,,,,,,,,,,
+OFSSO,OFS Capital Corporation,87.86229007555879,,,,,,,,,,,,,,,,,,,,,
 XP,XP Inc.,87.80320523169638,,,,,,,,,,,,,,,,,,,,,
 FOSL,"Fossil Group, Inc.",72.18995482436634,4.5465994,0.666,21.155,12.0,7.0,9.0,8.0,,none,1.394,0.765,1.762,462.123,0.018029999,-0.66528,,-0.049,0.56734,0.03492,,
 NTWK,NETSOL Technologies Inc.,86.82051941142862,,,,,,,,,,,,,,,,,,,,,
-GSRF,GSR IV Acquisition Corp.,86.54233968055215,,,,,,,,,,,,,,,,,,,,,
 RAL,Ralliant Corporation Common Stock,70.6772995563365,5.332756,4.179,23.071,85.0,58.0,78.1,80.0,2.09091,buy,2.448,0.882,1.524,79.797,0.03888,-0.53898996,0.214,0.128,0.50952,0.14477,2.1 - Buy,
 QUMSU,Quantumsphere Acquisition Corp.,84.75419827312376,,,,,,,,,,,,,,,,,,,,,
 LATAU,Galata Acquisition Corp. II,84.75268406072138,,,,,,,,,,,,,,,,,,,,,
-GRAL,"GRAIL, Inc.",84.69203949161735,,,,,,,,,,,,,,,,,,,,,
+GRAL,"GRAIL, Inc.",84.69203949161735,2.706672,36.983,-16.148,175.0,60.0,112.4,109.0,2.09091,buy,19.29,10.55,10.949,3.591,-0.12031999,-0.16124001,,0.257,0.49707,-3.31998,2.1 - Buy,
 KOD,Kodiak Sciences Inc,84.34181366920409,,,,,,,,,,,,,,,,,,,,,
 CDNA,"CareDx, Inc.",83.80777338799362,8.449256,7.115,262.145,74.0,46.0,58.83333,61.0,1.57143,buy,7.222,4.355,4.581,4.522,-0.00252,0.29487,,0.522,0.70582,0.00195,1.6 - Buy,
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",82.13431730608748,2.270729,8.388,-4.245,9.0,5.0,7.0,7.0,,none,4.487,4.333,4.572,96.152,-0.16718,-0.59936,,-0.485,0.68042,-2.84987,,
@@ -52,43 +51,40 @@ TWIN,"Twin Disc, Incorporated",77.86494784574317,,,,,,,,,,,,,,,,,,,,,
 LIND,Lindblad Expeditions Holdings Inc. ,77.8418288950508,,,,,,,,,,,,,,,,,,,,,
 LFCR,"Lifecore Biomedical, Inc.",77.77211760846345,,,,,,,,,,,,,,,,,,,,,
 PTC,PTC Inc.,80.4666611405039,,,,,,,,,,,,,,,,,,,,,1.3113
-GTERA,Globa Terra Acquisition Corporation,77.57171193099633,,,,,,,,,,,,,,,,,,,,,
 HVMC,Highview Merger Corp.,77.33929428893462,,,,,,,,,,,,,,,,,,,,,
 UYSC,UY Scuti Acquisition Corp.,77.27127476586459,,,,,,,,,,,,,,,,,,,,,
-NVAX,"Novavax, Inc.",77.16621499193894,,,,,,,,,,,,,,,,,,,,,
+NVAX,"Novavax, Inc.",77.16621499193892,,,,,,,,,,,,,,,,,,,,,
 CD,Chaince Digital Holdings Inc.,76.99077056056667,12.750425,303.693,-174.345,,,,,,none,0.398,25.433,27.527,2.03,-0.06374,-0.077259995,,0.984,0.59834,-3.01828,,
 ILMN,"Illumina, Inc.",76.62445638164715,,,,,,,,,,,,,,,,,,,,,3.0533
 PCVX,"Vaxcyte, Inc.",76.58564915340239,,,,,,,,,,,,,,,,,,,,,
 KFIIU,K&F Growth Acquisition Corp. II,76.52301344431335,,,,,,,,,,,,,,,,,,,,,
-JAKK,"JAKKS Pacific, Inc.",76.25753844010444,,,,,,,,,,,,,,,,,,,,,
+JAKK,"JAKKS Pacific, Inc.",76.25753844010445,,,,,,,,,,,,,,,,,,,,,
 RGR,"Sturm, Ruger & Company, Inc. Common Stock",76.20708138281191,2.448586,1.028,18.257,46.0,40.0,43.0,43.0,,none,7.351,2.724,3.346,0.514,0.0147,0.04205,,0.193,0.18837,0.05293,,
 TWST,Twist Bioscience Corporation,76.02740561259517,,,,,,,,,,,,,,,,,,,,,
 WHLRP,"Wheeler Real Estate Investment Trust, Inc.",75.99184853322113,,,,,,,,,,,,,,,,,,,,,
 VINP,Vinci Compass Investments Ltd.,75.71304434328903,,,,,,,,,,,,,,,,,,,,,
 CLMB,"Climb Global Solutions, Inc.",72.54408426639688,4.9624834,0.795,15.38,34.0,30.0,32.33333,33.0,,none,3.076,1.073,1.125,1.641,0.04064,0.17843,-0.085,0.094,0.15767,0.042529996,,1.7597
 SILC,Silicom Ltd,75.34112705310424,,,,,,,,,,,,,,,,,,,,,
-KFII,K&F Growth Acquisition Corp. II,75.33394160052464,,,,,,,,,,,,,,,,,,,,,
+KFII,K&F Growth Acquisition Corp. II,75.33394160052471,,,,,,,,,,,,,,,,,,,,,
 SVCC,Stellar V Capital Corp.,75.2883255899254,,,,,,,,,,,,,,,,,,,,,
-WBD,"Warner Bros. Discovery, Inc.",75.22300970416799,,,,,,,,,,,,,,,,,,,,,55.1758
+WBD,"Warner Bros. Discovery, Inc.",75.22300970416794,,,,,,,,,,,,,,,,,,,,,55.1758
 SDGR,"Schrodinger, Inc.",74.93721483597876,,,,,,,,,,,,,,,,,,,,,
 MASS,908 Devices Inc.,74.9255739459872,,,,,,,,,,,,,,,,,,,,,
-HSTM,"HealthStream, Inc.",74.74953467998876,,,,,,,,,,,,,,,,,,,,,2.8196
 QMCO,Quantum Corporation,74.72487325562001,,,,,,,,,,,,,,,,,,,,,
-VREX,Varex Imaging Corporation,74.72052954339914,,,,,,,,,,,,,,,,,,,,,
+VREX,Varex Imaging Corporation,74.72052954339935,,,,,,,,,,,,,,,,,,,,,
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),74.67495402473124,9.488926,2.305,9.442,22.0,14.0,17.0,15.0,,none,1.031,1.053,1.302,97.604,0.05447,0.12764,0.5,0.111,0.20426,0.2214,,
-GMAB,Genmab A/S,74.61098059326358,,,,,,,,,,,,,,,,,,,,,4.3581
-SAFT,"Safety Insurance Group, Inc.",74.36974756220451,,,,,,,,,,,,,,,,,,,,,
+GMAB,Genmab A/S,74.61098059326358,3.8564844,6.472,19.416,54.0,32.0,40.91818,40.0,1.25,strong_buy,2.529,2.441,2.457,88.518,0.08786,0.13998,-0.094,0.249,0.93027997,0.35237998,1.3 - Strong Buy,4.3581
+SAFT,"Safety Insurance Group, Inc.",74.36974756220475,,,,,,,,,,,,,,,,,,,,,
 ECO,Okeanis Eco Tankers Corp. Common Stock,74.2723454573115,3.9421577,5.604,8.262,75.0,75.0,75.0,75.0,,none,5.701,3.72,4.434,82.334,0.20149,0.61592,6.063,2.394,0.72326,0.74973,,
 LCCC,Lakeshore Acquisition III Corp.,74.27029525269796,,,,,,,,,,,,,,,,,,,,,
-ITGR,Integer Holdings Corporation Common Stock,74.19135074285201,2.5008404,3.06,16.225,127.0,101.0,121.8,127.0,,none,0.629,2.207,3.733,79.391,0.03856,0.075040005,-0.337,-0.026,0.2613,0.10024,,2.8048
-RCEL,"Avita Medical, Inc.",74.19037533839817,,,,,,,,,,,,,,,,,,,,,
-MPC,Marathon Petroleum Corporation Common Stock,72.57271692616794,6.4303513,1.005,10.06,472.0,236.0,385.55557,406.5,2.36842,buy,27.661,0.857,1.25,133.328,0.087390006,0.42099,3.48,0.537,0.12819,0.13561,2.4 - Buy,0.8956
-GIWWU,GigCapital8 Corp.,73.98437130583781,,,,,,,,,,,,,,,,,,,,,
+ITGR,Integer Holdings Corporation Common Stock,74.19135074285202,2.5008404,3.06,16.225,127.0,101.0,121.8,127.0,,none,0.629,2.207,3.733,79.391,0.03856,0.075040005,-0.337,-0.026,0.2613,0.10024,,2.8048
+RCEL,"Avita Medical, Inc.",74.19037533839816,,,,,,,,,,,,,,,,,,,,,
+MPC,Marathon Petroleum Corporation Common Stock,72.57271692616796,6.4303513,1.005,10.06,472.0,236.0,385.55557,406.5,2.36842,buy,27.661,0.857,1.25,133.328,0.087390006,0.42099,3.48,0.537,0.12819,0.13561,2.4 - Buy,0.8956
 PXS,Pyxis Tankers Inc.,73.96497647707538,,,,,,,,,,,,,,,,,,,,,
 VEON,VEON Ltd.,73.9435060754259,,,,,,,,,,,,,,,,,,,,,
 VRA,"Vera Bradley, Inc.",73.92900889798148,,,,,,,,,,,,,,,,,,,,,
 KRNT,Kornit Digital Ltd.,73.92345367091397,,,,,,,,,,,,,,,,,,,,,
-VLO,Valero Energy Corporation Common Stock,70.13477816310485,4.8293214,0.963,9.528,457.0,238.0,367.6316,385.0,2.4,buy,27.347,1.047,1.636,40.148,0.105579995,0.27637,4.535,0.517,0.16118999,0.12269,2.4 - Buy,1.8505
+VLO,Valero Energy Corporation Common Stock,70.13477816310483,4.8293214,0.963,9.528,457.0,238.0,367.6316,385.0,2.4,buy,27.347,1.047,1.636,40.148,0.105579995,0.27637,4.535,0.517,0.16118999,0.12269,2.4 - Buy,1.8505
 ROG,Rogers Corporation Common Stock,73.84126092781483,2.3639715,3.186,20.652,225.0,170.0,193.33333,185.0,1.33333,strong_buy,11.831,2.844,3.988,2.366,0.0324,0.02596,,0.069,0.32439,0.09548,1.3 - Strong Buy,
 OKTA,"Okta, Inc.",71.28378895297057,,,,,,,,,,,,,,,,,,,,,1.6978
 TRMD,TORM plc,73.54009581411408,,,,,,,,,,,,,,,,,,,,,
@@ -102,16 +98,15 @@ MTLS,Materialise NV,72.63421088347141,,,,,,,,,,,,,,,,,,,,,
 NTAP,"NetApp, Inc.",72.54900990856041,,,,,,,,,,,,,,,,,,,,,2.1387
 CYRX,"CryoPort, Inc.",72.51496015298429,2.0672364,4.293,-231.523,25.0,15.0,19.66667,20.0,1.33333,strong_buy,7.832,1.96,2.082,47.283,-0.02387,-0.065409996,,0.077,0.47075,-0.20445,1.3 - Strong Buy,
 STNE,StoneCo Ltd.,72.5079677634117,,,,,,,,,,,,,,,,,,,,,
-ONCH,1RT Acquisition Corp.,72.5065279062574,,,,,,,,,,,,,,,,,,,,,
-KRT,Karat Packaging Inc.,72.32165269433328,,,,,,,,,,,,,,,,,,,,,
-GSHR,Gesher Acquisition Corp. II,72.24644049583176,,,,,,,,,,,,,,,,,,,,,
+ONCH,1RT Acquisition Corp.,72.50652790625584,,,,,,,,,,,,,,,,,,,,,
+KRT,Karat Packaging Inc.,72.3216526943333,,,,,,,,,,,,,,,,,,,,,
+GSHR,Gesher Acquisition Corp. II,72.24644049583156,-43.00813,,,,,,,,none,0.015,0.745,0.999,,,,-0.283,,0.0,0.0,,
 RVSB,Riverview Bancorp Inc,72.166516487009,,,,,,,,,,,,,,,,,,,,,
 CRVL,CorVel Corp.,72.1231359166961,9.404777,3.671,19.616,,,,,,none,5.065,1.411,1.941,6.944,0.14682001,0.30697,0.212,0.107,0.24792999,0.16674,,
 MKTX,"MarketAxess Holdings, Inc.",76.45109750114494,,,,,,,,,,,,,,,,,,,,,1.2288
 VIAV,Viavi Solutions Inc.,71.84997074824835,,,,,,,,,,,,,,,,,,,,,
-GSRFU,GSR IV Acquisition Corp.,71.72026687556581,,,,,,,,,,,,,,,,,,,,,
 INTR,Inter & Co. Inc.,71.61262022894094,,,,,,,,,,,,,,,,,,,,,
-INSW,"International Seaways, Inc. Common Stock ",71.6017238843358,2.5489125,4.772,7.424,130.0,88.0,109.33333,114.0,1.33333,strong_buy,8.265,5.648,5.944,28.815,0.15758,0.37412,3.731,1.401,0.725,0.64219004,1.3 - Strong Buy,
+INSW,"International Seaways, Inc. Common Stock ",71.60172388433583,2.5489125,4.772,7.424,130.0,88.0,109.33333,114.0,1.33333,strong_buy,8.265,5.648,5.944,28.815,0.15758,0.37412,3.731,1.401,0.725,0.64219004,1.3 - Strong Buy,
 CDNS,"Cadence Design Systems, Inc.",71.53264427816895,14.194844,16.867,45.672,470.0,300.0,405.47116,407.935,1.36,strong_buy,5.562,1.426,1.743,38.661,0.10613,0.23229,1.254,0.242,0.85871005,0.28575,1.4 - Strong Buy,2.3143
 ATKR,Atkore Inc. Common Stock,71.45708652132262,2.5081372,1.284,12.87,95.0,92.0,93.5,93.5,3.0,hold,10.251,1.914,2.734,71.58,0.03999,-0.11868,-0.984,0.081,0.2059,0.09663,3.0 - Hold,
 OBA,Oxley Bridge Acquisition Limited,71.41988098798065,,,,,,,,,,,,,,,,,,,,,
@@ -122,7 +117,6 @@ NPAC,New Providence Acquisition Corp. III,71.07060178672849,,,,,,,,,,,,,,,,,,,,,
 MXL,"MaxLinear, Inc",70.99335385599905,,,,,,,,,,,,,,,,,,,,,
 SSTI,"SoundThinking, Inc.",70.98497285972701,,,,,,,,,,,,,,,,,,,,,
 SZZLU,Sizzle Acquisition Corp. II,70.96427083659897,,,,,,,,,,,,,,,,,,,,,
-GSHRU,Gesher Acquisition Corp. II,70.94540006689223,,,,,,,,,,,,,,,,,,,,,
 IBRX,"ImmunityBio, Inc.",70.89908057982355,,,,,,,,,,,,,,,,,,,,,
 PDFS,"PDF Solutions, Inc.",70.83922664214356,,,,,,,,,,,,,,,,,,,,,
 MRNA,"Moderna, Inc.",70.69491393682151,,,,,,,,,,,,,,,,,,,,,
@@ -132,8 +126,9 @@ TCI,"Transcontinental Realty Investors, Inc. Common Stock",70.49301896055148,,12
 DSGR,"Distribution Solutions Group, Inc.",70.45596026321797,2.4731638,1.168,15.311,35.0,35.0,35.0,35.0,,none,1.447,1.219,2.545,129.136,0.028380001,0.013739999,0.669,0.11,0.32701,0.05452,,
 NTNX,"Nutanix, Inc.",71.23821032973994,,,,,,,,,,,,,,,,,,,,,1.4271
 GIC,Global Industrial Company Common Stock,74.889796209879,4.8459916,1.165,16.322,42.0,42.0,42.0,42.0,3.0,hold,2.275,1.365,2.243,28.859,0.097440004,0.26486,0.484,0.077,0.34905,0.07294,3.0 - Hold,1.109
-DT,"Dynatrace, Inc. Common Stock",72.67289258920707,7.133041,7.85,56.453,74.0,42.0,59.97059,61.0,1.75,buy,3.837,1.043,1.208,6.499,0.04167,0.058790002,-0.249,0.162,0.81597,0.12889,1.8 - Buy,1.1916
+DT,"Dynatrace, Inc. Common Stock",72.6728925892071,7.133041,7.85,56.453,74.0,42.0,59.97059,61.0,1.75,buy,3.837,1.043,1.208,6.499,0.04167,0.058790002,-0.249,0.162,0.81597,0.12889,1.8 - Buy,1.1916
 CRAQU,Cal Redwood Acquisition Corp.,92.24346894903958,-38.913044,,,,,,,,none,0.026,2.065,2.403,,,,0.541,,0.0,0.0,,
+HCACU,Hall Chadwick Acquisition Corp.,91.59168239772217,-80.0,,,,,,,,none,0.001,10.602,11.934,,,,,,0.0,0.0,,
 TXN,Texas Instruments Incorporated,70.99929381752789,,,,,,,,,,,,,,,,,,,,,0.9708
 UTZ,Utz Brands Inc Class A Common Stock ,73.41125334496331,1.817025,1.966,31.499,15.0,14.0,14.3125,14.25,,none,0.661,0.535,1.063,78.587,0.00065,-0.03113,,0.014,0.25614,0.02152,,
 HZO,"MarineMax, Inc.  (FL) Common Stock",72.75911857558245,1.213913,0.958,18.31,53.0,35.0,49.4,53.0,2.77778,hold,7.913,0.311,1.234,115.137,0.01651,0.00497,,-0.07,0.34210998,0.060890004,2.8 - Hold,
