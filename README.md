@@ -1,5 +1,14 @@
 # Financealerts 2
 
+## Status
+
+The GitHub Actions workflow is disabled. Generated price history, reports,
+and watchlists have been removed from the current branch.
+
+To resume processing, enable **Cron run workflow** in GitHub Actions and
+run it manually or wait for its schedule. The application will regenerate
+`data/` using fresh downloads; the first run may take longer.
+
 1. Takes a big list of tickers
 
 2. Get stock prices
